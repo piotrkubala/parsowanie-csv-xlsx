@@ -1,4 +1,5 @@
 pl/edu/agh/kis/pz1/Main.class
+pl/edu/agh/kis/pz1/XMLData$FakturaCtrl.class
 pl/edu/agh/kis/pz1/XMLData$FakturaWierszCtrl.class
 pl/edu/agh/kis/pz1/FakturaWiersz.class
 pl/edu/agh/kis/pz1/CSVReader.class
