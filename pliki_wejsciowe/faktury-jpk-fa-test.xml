@@ -1,0 +1,2542 @@
+<tns:JPK xsi:schemaLocation="http://jpk.mf.gov.pl/wzor/2019/09/27/09271/ https://www.gov.pl/attachment/1abeab45-4e71-4616-b8d5-6b71699e86f8" xmlns:tns="http://jpk.mf.gov.pl/wzor/2019/09/27/09271/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:etd="http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2018/08/24/eD/DefinicjeTypy/" xmlns:kck="http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2013/05/23/eD/KodyCECHKRAJOW/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:usr="urn:the-xml-files:xslt">
+  <tns:Naglowek>
+    <tns:KodFormularza kodSystemowy="JPK_FA (3)" wersjaSchemy="1-0">JPK_FA</tns:KodFormularza>
+    <tns:WariantFormularza>3</tns:WariantFormularza>
+    <tns:CelZlozenia>1</tns:CelZlozenia>
+    <tns:DataWytworzeniaJPK>2021-10-28T16:30:54.533</tns:DataWytworzeniaJPK>
+    <tns:DataOd>2020-10-01</tns:DataOd>
+    <tns:DataDo>2020-12-31</tns:DataDo>
+    <tns:KodUrzedu>1208</tns:KodUrzedu>
+  </tns:Naglowek>
+  <tns:Podmiot1>
+    <tns:IdentyfikatorPodmiotu>
+      <etd:NIP>6762484560</etd:NIP>
+      <etd:PelnaNazwa>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</etd:PelnaNazwa>
+    </tns:IdentyfikatorPodmiotu>
+    <tns:AdresPodmiotu>
+      <etd:KodKraju>PL</etd:KodKraju>
+      <etd:Wojewodztwo>małopolskie</etd:Wojewodztwo>
+      <etd:Powiat>m. Kraków</etd:Powiat>
+      <etd:Gmina>Kraków</etd:Gmina>
+      <etd:Ulica>ul. Feliksa Radwańskiego</etd:Ulica>
+      <etd:NrDomu>15</etd:NrDomu>
+      <etd:NrLokalu>1</etd:NrLokalu>
+      <etd:Miejscowosc>Kraków</etd:Miejscowosc>
+      <etd:KodPocztowy>30-065</etd:KodPocztowy>
+    </tns:AdresPodmiotu>
+  </tns:Podmiot1>
+
+  <tns:Faktura>
+    <tns:KodWaluty>PLN</tns:KodWaluty>
+    <tns:P_1>2020-10-09</tns:P_1>
+    <tns:P_2A>3-09/10/2020</tns:P_2A>
+    <tns:P_3A>Firma5 SP. Z O.O.</tns:P_3A>
+    <tns:P_3B>Firma5 SP. Z O.O.-ADDRESS</tns:P_3B>
+    <tns:P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:P_3C>
+    <tns:P_3D>ul. Feliksa Radwańskiego 15/1, 30-065 Kraków</tns:P_3D>
+    <tns:P_4A>PL</tns:P_4A>
+    <tns:P_4B>6762484560</tns:P_4B>
+    <tns:P_5B>634-27-26-447</tns:P_5B>
+    <tns:P_6>2020-10-09</tns:P_6>
+    <tns:P_13_1>3000.00</tns:P_13_1>
+    <tns:P_14_1>690.00</tns:P_14_1>
+    <tns:P_15>3690.00</tns:P_15>
+    <tns:P_16>false</tns:P_16>
+    <tns:P_17>false</tns:P_17>
+    <tns:P_18>false</tns:P_18>
+    <tns:P_18A>false</tns:P_18A>
+    <tns:P_19>false</tns:P_19>
+    <tns:P_20>false</tns:P_20>
+    <tns:P_21>false</tns:P_21>
+    <tns:P_22>false</tns:P_22>
+    <tns:P_23>false</tns:P_23>
+    <tns:P_106E_2>false</tns:P_106E_2>
+    <tns:P_106E_3>false</tns:P_106E_3>
+    <tns:RodzajFaktury>VAT</tns:RodzajFaktury>
+  </tns:Faktura>
+
+  <tns:Faktura>
+    <tns:KodWaluty>PLN</tns:KodWaluty>
+    <tns:P_1>2020-10-09</tns:P_1>
+    <tns:P_2A>4-09/10/2020</tns:P_2A>
+    <tns:P_3A>Firma6 SP. Z O.O.</tns:P_3A>
+    <tns:P_3B>Firma6 SP. Z O.O.-ADDRESS</tns:P_3B>
+    <tns:P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:P_3C>
+    <tns:P_3D>ul. Feliksa Radwańskiego 15/1, 30-065 Kraków</tns:P_3D>
+    <tns:P_4A>PL</tns:P_4A>
+    <tns:P_4B>6762484560</tns:P_4B>
+    <tns:P_5B>676-247-94-12</tns:P_5B>
+    <tns:P_6>2020-10-09</tns:P_6>
+    <tns:P_13_1>7000.00</tns:P_13_1>
+    <tns:P_14_1>1610.00</tns:P_14_1>
+    <tns:P_15>8610.00</tns:P_15>
+    <tns:P_16>false</tns:P_16>
+    <tns:P_17>false</tns:P_17>
+    <tns:P_18>false</tns:P_18>
+    <tns:P_18A>false</tns:P_18A>
+    <tns:P_19>false</tns:P_19>
+    <tns:P_20>false</tns:P_20>
+    <tns:P_21>false</tns:P_21>
+    <tns:P_22>false</tns:P_22>
+    <tns:P_23>false</tns:P_23>
+    <tns:P_106E_2>false</tns:P_106E_2>
+    <tns:P_106E_3>false</tns:P_106E_3>
+    <tns:RodzajFaktury>VAT</tns:RodzajFaktury>
+  </tns:Faktura>
+
+  <tns:Faktura>
+    <tns:KodWaluty>PLN</tns:KodWaluty>
+    <tns:P_1>2020-10-13</tns:P_1>
+    <tns:P_2A>1-13/10/2020</tns:P_2A>
+    <tns:P_3A>Firma10 Sp. z o.o.</tns:P_3A>
+    <tns:P_3B>Firma10 Sp. z o.o.-ADDRESS</tns:P_3B>
+    <tns:P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:P_3C>
+    <tns:P_3D>ul. Feliksa Radwańskiego 15/1, 30-065 Kraków</tns:P_3D>
+    <tns:P_4A>PL</tns:P_4A>
+    <tns:P_4B>6762484560</tns:P_4B>
+    <tns:P_5B>676-256-68-84</tns:P_5B>
+    <tns:P_6>2020-10-13</tns:P_6>
+    <tns:P_13_1>3774.00</tns:P_13_1>
+    <tns:P_14_1>868.02</tns:P_14_1>
+    <tns:P_15>4642.02</tns:P_15>
+    <tns:P_16>false</tns:P_16>
+    <tns:P_17>false</tns:P_17>
+    <tns:P_18>false</tns:P_18>
+    <tns:P_18A>false</tns:P_18A>
+    <tns:P_19>false</tns:P_19>
+    <tns:P_20>false</tns:P_20>
+    <tns:P_21>false</tns:P_21>
+    <tns:P_22>false</tns:P_22>
+    <tns:P_23>false</tns:P_23>
+    <tns:P_106E_2>false</tns:P_106E_2>
+    <tns:P_106E_3>false</tns:P_106E_3>
+    <tns:RodzajFaktury>VAT</tns:RodzajFaktury>
+  </tns:Faktura>
+
+  <tns:Faktura>
+    <tns:KodWaluty>PLN</tns:KodWaluty>
+    <tns:P_1>2020-10-14</tns:P_1>
+    <tns:P_2A>3-14/10/2020</tns:P_2A>
+    <tns:P_3A>Firma1 Sp. z o.o</tns:P_3A>
+    <tns:P_3B>Firma1 Sp. z o.o-ADDRESS</tns:P_3B>
+    <tns:P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:P_3C>
+    <tns:P_3D>ul. Feliksa Radwańskiego 15/1, 30-065 Kraków</tns:P_3D>
+    <tns:P_4A>PL</tns:P_4A>
+    <tns:P_4B>6762484560</tns:P_4B>
+    <tns:P_5B>113-29-95-753 </tns:P_5B>
+    <tns:P_6>2020-10-14</tns:P_6>
+    <tns:P_13_1>76250.00</tns:P_13_1>
+    <tns:P_14_1>17537.50</tns:P_14_1>
+    <tns:P_15>93787.50</tns:P_15>
+    <tns:P_16>false</tns:P_16>
+    <tns:P_17>false</tns:P_17>
+    <tns:P_18>false</tns:P_18>
+    <tns:P_18A>false</tns:P_18A>
+    <tns:P_19>false</tns:P_19>
+    <tns:P_20>false</tns:P_20>
+    <tns:P_21>false</tns:P_21>
+    <tns:P_22>false</tns:P_22>
+    <tns:P_23>false</tns:P_23>
+    <tns:P_106E_2>false</tns:P_106E_2>
+    <tns:P_106E_3>false</tns:P_106E_3>
+    <tns:RodzajFaktury>VAT</tns:RodzajFaktury>
+  </tns:Faktura>
+
+  <tns:Faktura>
+    <tns:KodWaluty>PLN</tns:KodWaluty>
+    <tns:P_1>2020-10-15</tns:P_1>
+    <tns:P_2A>1-15/10/2020</tns:P_2A>
+    <tns:P_3A>Firma2</tns:P_3A>
+    <tns:P_3B>Firma2-ADDRESS</tns:P_3B>
+    <tns:P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:P_3C>
+    <tns:P_3D>ul. Feliksa Radwańskiego 15/1, 30-065 Kraków</tns:P_3D>
+    <tns:P_4A>PL</tns:P_4A>
+    <tns:P_4B>6762484560</tns:P_4B>
+    <tns:P_5B>552-151-68-49</tns:P_5B>
+    <tns:P_6>2020-10-15</tns:P_6>
+    <tns:P_13_1>161382.11</tns:P_13_1>
+    <tns:P_14_1>37117.89</tns:P_14_1>
+    <tns:P_15>198500.00</tns:P_15>
+    <tns:P_16>false</tns:P_16>
+    <tns:P_17>false</tns:P_17>
+    <tns:P_18>false</tns:P_18>
+    <tns:P_18A>false</tns:P_18A>
+    <tns:P_19>false</tns:P_19>
+    <tns:P_20>false</tns:P_20>
+    <tns:P_21>false</tns:P_21>
+    <tns:P_22>false</tns:P_22>
+    <tns:P_23>false</tns:P_23>
+    <tns:P_106E_2>false</tns:P_106E_2>
+    <tns:P_106E_3>false</tns:P_106E_3>
+    <tns:RodzajFaktury>VAT</tns:RodzajFaktury>
+  </tns:Faktura>
+
+  <tns:Faktura>
+    <tns:KodWaluty>PLN</tns:KodWaluty>
+    <tns:P_1>2020-10-15</tns:P_1>
+    <tns:P_2A>2-15/10/2020</tns:P_2A>
+    <tns:P_3A>Firma2</tns:P_3A>
+    <tns:P_3B>Firma2-ADDRESS</tns:P_3B>
+    <tns:P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:P_3C>
+    <tns:P_3D>ul. Feliksa Radwańskiego 15/1, 30-065 Kraków</tns:P_3D>
+    <tns:P_4A>PL</tns:P_4A>
+    <tns:P_4B>6762484560</tns:P_4B>
+    <tns:P_5B>552-151-68-49</tns:P_5B>
+    <tns:P_6>2020-10-15</tns:P_6>
+    <tns:P_13_1>48739.84</tns:P_13_1>
+    <tns:P_14_1>11210.16</tns:P_14_1>
+    <tns:P_15>59950.00</tns:P_15>
+    <tns:P_16>false</tns:P_16>
+    <tns:P_17>false</tns:P_17>
+    <tns:P_18>false</tns:P_18>
+    <tns:P_18A>false</tns:P_18A>
+    <tns:P_19>false</tns:P_19>
+    <tns:P_20>false</tns:P_20>
+    <tns:P_21>false</tns:P_21>
+    <tns:P_22>false</tns:P_22>
+    <tns:P_23>false</tns:P_23>
+    <tns:P_106E_2>false</tns:P_106E_2>
+    <tns:P_106E_3>false</tns:P_106E_3>
+    <tns:RodzajFaktury>VAT</tns:RodzajFaktury>
+  </tns:Faktura>
+
+  <tns:Faktura>
+    <tns:KodWaluty>PLN</tns:KodWaluty>
+    <tns:P_1>2020-10-15</tns:P_1>
+    <tns:P_2A>3-15/10/2020</tns:P_2A>
+    <tns:P_3A>Firma2</tns:P_3A>
+    <tns:P_3B>Firma2-ADDRESS</tns:P_3B>
+    <tns:P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:P_3C>
+    <tns:P_3D>ul. Feliksa Radwańskiego 15/1, 30-065 Kraków</tns:P_3D>
+    <tns:P_4A>PL</tns:P_4A>
+    <tns:P_4B>6762484560</tns:P_4B>
+    <tns:P_5B>552-151-68-49</tns:P_5B>
+    <tns:P_6>2020-10-15</tns:P_6>
+    <tns:P_13_1>173983.74</tns:P_13_1>
+    <tns:P_14_1>40016.26</tns:P_14_1>
+    <tns:P_15>214000.00</tns:P_15>
+    <tns:P_16>false</tns:P_16>
+    <tns:P_17>false</tns:P_17>
+    <tns:P_18>false</tns:P_18>
+    <tns:P_18A>false</tns:P_18A>
+    <tns:P_19>false</tns:P_19>
+    <tns:P_20>false</tns:P_20>
+    <tns:P_21>false</tns:P_21>
+    <tns:P_22>false</tns:P_22>
+    <tns:P_23>false</tns:P_23>
+    <tns:P_106E_2>false</tns:P_106E_2>
+    <tns:P_106E_3>false</tns:P_106E_3>
+    <tns:RodzajFaktury>VAT</tns:RodzajFaktury>
+  </tns:Faktura>
+
+  <tns:Faktura>
+    <tns:KodWaluty>PLN</tns:KodWaluty>
+    <tns:P_1>2020-10-16</tns:P_1>
+    <tns:P_2A>1-16/10/2020</tns:P_2A>
+    <tns:P_3A>Firma2</tns:P_3A>
+    <tns:P_3B>Firma2-ADDRESS</tns:P_3B>
+    <tns:P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:P_3C>
+    <tns:P_3D>ul. Feliksa Radwańskiego 15/1, 30-065 Kraków</tns:P_3D>
+    <tns:P_4A>PL</tns:P_4A>
+    <tns:P_4B>6762484560</tns:P_4B>
+    <tns:P_5B>552-151-68-49</tns:P_5B>
+    <tns:P_6>2020-10-16</tns:P_6>
+    <tns:P_13_1>1268.29</tns:P_13_1>
+    <tns:P_14_1>291.71</tns:P_14_1>
+    <tns:P_15>1560.00</tns:P_15>
+    <tns:P_16>false</tns:P_16>
+    <tns:P_17>false</tns:P_17>
+    <tns:P_18>false</tns:P_18>
+    <tns:P_18A>false</tns:P_18A>
+    <tns:P_19>false</tns:P_19>
+    <tns:P_20>false</tns:P_20>
+    <tns:P_21>false</tns:P_21>
+    <tns:P_22>false</tns:P_22>
+    <tns:P_23>false</tns:P_23>
+    <tns:P_106E_2>false</tns:P_106E_2>
+    <tns:P_106E_3>false</tns:P_106E_3>
+    <tns:RodzajFaktury>VAT</tns:RodzajFaktury>
+  </tns:Faktura>
+
+  <tns:Faktura>
+    <tns:KodWaluty>PLN</tns:KodWaluty>
+    <tns:P_1>2020-11-05</tns:P_1>
+    <tns:P_2A>1-05/11/2020</tns:P_2A>
+    <tns:P_3A>Firma9 SP. Z O.O.</tns:P_3A>
+    <tns:P_3B>Firma9 SP. Z O.O.-ADDRESS</tns:P_3B>
+    <tns:P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:P_3C>
+    <tns:P_3D>ul. Feliksa Radwańskiego 15/1, 30-065 Kraków</tns:P_3D>
+    <tns:P_4A>PL</tns:P_4A>
+    <tns:P_4B>6762484560</tns:P_4B>
+    <tns:P_5B>118-16-48-603</tns:P_5B>
+    <tns:P_6>2020-11-05</tns:P_6>
+    <tns:P_13_1>13000.00</tns:P_13_1>
+    <tns:P_14_1>2990.00</tns:P_14_1>
+    <tns:P_15>15990.00</tns:P_15>
+    <tns:P_16>false</tns:P_16>
+    <tns:P_17>false</tns:P_17>
+    <tns:P_18>false</tns:P_18>
+    <tns:P_18A>false</tns:P_18A>
+    <tns:P_19>false</tns:P_19>
+    <tns:P_20>false</tns:P_20>
+    <tns:P_21>false</tns:P_21>
+    <tns:P_22>false</tns:P_22>
+    <tns:P_23>false</tns:P_23>
+    <tns:P_106E_2>false</tns:P_106E_2>
+    <tns:P_106E_3>false</tns:P_106E_3>
+    <tns:RodzajFaktury>VAT</tns:RodzajFaktury>
+  </tns:Faktura>
+
+  <tns:Faktura>
+    <tns:KodWaluty>PLN</tns:KodWaluty>
+    <tns:P_1>2020-11-05</tns:P_1>
+    <tns:P_2A>2-05/11/2020</tns:P_2A>
+    <tns:P_3A>Firma3 sp. z o.o.</tns:P_3A>
+    <tns:P_3B>Firma3 sp. z o.o.-ADDRESS</tns:P_3B>
+    <tns:P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:P_3C>
+    <tns:P_3D>ul. Feliksa Radwańskiego 15/1, 30-065 Kraków</tns:P_3D>
+    <tns:P_4A>PL</tns:P_4A>
+    <tns:P_4B>6762484560</tns:P_4B>
+    <tns:P_5B>675-152-93-71</tns:P_5B>
+    <tns:P_6>2020-11-05</tns:P_6>
+    <tns:P_13_1>3909.38</tns:P_13_1>
+    <tns:P_14_1>899.16</tns:P_14_1>
+    <tns:P_15>4808.54</tns:P_15>
+    <tns:P_16>false</tns:P_16>
+    <tns:P_17>false</tns:P_17>
+    <tns:P_18>false</tns:P_18>
+    <tns:P_18A>false</tns:P_18A>
+    <tns:P_19>false</tns:P_19>
+    <tns:P_20>false</tns:P_20>
+    <tns:P_21>false</tns:P_21>
+    <tns:P_22>false</tns:P_22>
+    <tns:P_23>false</tns:P_23>
+    <tns:P_106E_2>false</tns:P_106E_2>
+    <tns:P_106E_3>false</tns:P_106E_3>
+    <tns:RodzajFaktury>VAT</tns:RodzajFaktury>
+  </tns:Faktura>
+
+  <tns:Faktura>
+    <tns:KodWaluty>PLN</tns:KodWaluty>
+    <tns:P_1>2020-11-05</tns:P_1>
+    <tns:P_2A>3-05/11/2020</tns:P_2A>
+    <tns:P_3A>Firma4</tns:P_3A>
+    <tns:P_3B>Firma4-ADDRESS</tns:P_3B>
+    <tns:P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:P_3C>
+    <tns:P_3D>ul. Feliksa Radwańskiego 15/1, 30-065 Kraków</tns:P_3D>
+    <tns:P_4A>PL</tns:P_4A>
+    <tns:P_4B>6762484560</tns:P_4B>
+    <tns:P_5B>873-171-75-73</tns:P_5B>
+    <tns:P_6>2020-11-05</tns:P_6>
+    <tns:P_13_1>17640.00</tns:P_13_1>
+    <tns:P_14_1>4057.20</tns:P_14_1>
+    <tns:P_15>21697.20</tns:P_15>
+    <tns:P_16>false</tns:P_16>
+    <tns:P_17>false</tns:P_17>
+    <tns:P_18>false</tns:P_18>
+    <tns:P_18A>false</tns:P_18A>
+    <tns:P_19>false</tns:P_19>
+    <tns:P_20>false</tns:P_20>
+    <tns:P_21>false</tns:P_21>
+    <tns:P_22>false</tns:P_22>
+    <tns:P_23>false</tns:P_23>
+    <tns:P_106E_2>false</tns:P_106E_2>
+    <tns:P_106E_3>false</tns:P_106E_3>
+    <tns:RodzajFaktury>VAT</tns:RodzajFaktury>
+  </tns:Faktura>
+
+  <tns:Faktura>
+    <tns:KodWaluty>PLN</tns:KodWaluty>
+    <tns:P_1>2020-11-09</tns:P_1>
+    <tns:P_2A>1-09/11/2020</tns:P_2A>
+    <tns:P_3A>Firma3 sp. z o.o.</tns:P_3A>
+    <tns:P_3B>Firma3 sp. z o.o.-ADDRESS</tns:P_3B>
+    <tns:P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:P_3C>
+    <tns:P_3D>ul. Feliksa Radwańskiego 15/1, 30-065 Kraków</tns:P_3D>
+    <tns:P_4A>PL</tns:P_4A>
+    <tns:P_4B>6762484560</tns:P_4B>
+    <tns:P_5B>675-152-93-71</tns:P_5B>
+    <tns:P_6>2020-11-09</tns:P_6>
+    <tns:P_13_1>112386.88</tns:P_13_1>
+    <tns:P_14_1>25848.98</tns:P_14_1>
+    <tns:P_15>138235.86</tns:P_15>
+    <tns:P_16>false</tns:P_16>
+    <tns:P_17>false</tns:P_17>
+    <tns:P_18>false</tns:P_18>
+    <tns:P_18A>false</tns:P_18A>
+    <tns:P_19>false</tns:P_19>
+    <tns:P_20>false</tns:P_20>
+    <tns:P_21>false</tns:P_21>
+    <tns:P_22>false</tns:P_22>
+    <tns:P_23>false</tns:P_23>
+    <tns:P_106E_2>false</tns:P_106E_2>
+    <tns:P_106E_3>false</tns:P_106E_3>
+    <tns:RodzajFaktury>VAT</tns:RodzajFaktury>
+  </tns:Faktura>
+
+  <tns:Faktura>
+    <tns:KodWaluty>PLN</tns:KodWaluty>
+    <tns:P_1>2020-11-09</tns:P_1>
+    <tns:P_2A>2-09/11/2020</tns:P_2A>
+    <tns:P_3A>Firma3 sp. z o.o.</tns:P_3A>
+    <tns:P_3B>Firma3 sp. z o.o.-ADDRESS</tns:P_3B>
+    <tns:P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:P_3C>
+    <tns:P_3D>ul. Feliksa Radwańskiego 15/1, 30-065 Kraków</tns:P_3D>
+    <tns:P_4A>PL</tns:P_4A>
+    <tns:P_4B>6762484560</tns:P_4B>
+    <tns:P_5B>675-152-93-71</tns:P_5B>
+    <tns:P_6>2020-11-09</tns:P_6>
+    <tns:P_13_1>23359.38</tns:P_13_1>
+    <tns:P_14_1>5372.66</tns:P_14_1>
+    <tns:P_15>28732.04</tns:P_15>
+    <tns:P_16>false</tns:P_16>
+    <tns:P_17>false</tns:P_17>
+    <tns:P_18>false</tns:P_18>
+    <tns:P_18A>false</tns:P_18A>
+    <tns:P_19>false</tns:P_19>
+    <tns:P_20>false</tns:P_20>
+    <tns:P_21>false</tns:P_21>
+    <tns:P_22>false</tns:P_22>
+    <tns:P_23>false</tns:P_23>
+    <tns:P_106E_2>false</tns:P_106E_2>
+    <tns:P_106E_3>false</tns:P_106E_3>
+    <tns:RodzajFaktury>VAT</tns:RodzajFaktury>
+  </tns:Faktura>
+
+  <tns:Faktura>
+    <tns:KodWaluty>PLN</tns:KodWaluty>
+    <tns:P_1>2020-11-12</tns:P_1>
+    <tns:P_2A>1-12/11/2020</tns:P_2A>
+    <tns:P_3A>Firma3 sp. z o.o.</tns:P_3A>
+    <tns:P_3B>Firma3 sp. z o.o.-ADDRESS</tns:P_3B>
+    <tns:P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:P_3C>
+    <tns:P_3D>ul. Feliksa Radwańskiego 15/1, 30-065 Kraków</tns:P_3D>
+    <tns:P_4A>PL</tns:P_4A>
+    <tns:P_4B>6762484560</tns:P_4B>
+    <tns:P_5B>675-152-93-71</tns:P_5B>
+    <tns:P_6>2020-11-12</tns:P_6>
+    <tns:P_13_1>-1015.62</tns:P_13_1>
+    <tns:P_14_1>-233.59</tns:P_14_1>
+    <tns:P_15>-1249.21</tns:P_15>
+    <tns:P_16>false</tns:P_16>
+    <tns:P_17>false</tns:P_17>
+    <tns:P_18>false</tns:P_18>
+    <tns:P_18A>false</tns:P_18A>
+    <tns:P_19>false</tns:P_19>
+    <tns:P_20>false</tns:P_20>
+    <tns:P_21>false</tns:P_21>
+    <tns:P_22>false</tns:P_22>
+    <tns:P_23>false</tns:P_23>
+    <tns:P_106E_2>false</tns:P_106E_2>
+    <tns:P_106E_3>false</tns:P_106E_3>
+    <tns:RodzajFaktury>KOREKTA</tns:RodzajFaktury>
+    <tns:PrzyczynaKorekty>Faktura korygująca, korekta dotyczy fv nr 2-09/11/2020 przyczyna korkty błędna kwota w pozycji nr 2 – Różnica do zwrotu - Innovative - prace projektowe oraz programistyczne związane z rozwojem, zgodnie z załącznikiem</tns:PrzyczynaKorekty>
+    <tns:NrFaKorygowanej>2-09/11/2020</tns:NrFaKorygowanej>
+    <tns:OkresFaKorygowanej>Od 2020-11-12 do 2020-11-12</tns:OkresFaKorygowanej>
+  </tns:Faktura>
+
+  <tns:Faktura>
+    <tns:KodWaluty>PLN</tns:KodWaluty>
+    <tns:P_1>2020-11-10</tns:P_1>
+    <tns:P_2A>1-10/11/2020</tns:P_2A>
+    <tns:P_3A>Firma8 Sp. z o.o. sp.k.</tns:P_3A>
+    <tns:P_3B>Firma8 Sp. z o.o. sp.k.-ADDRESS</tns:P_3B>
+    <tns:P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:P_3C>
+    <tns:P_3D>ul. Feliksa Radwańskiego 15/1, 30-065 Kraków</tns:P_3D>
+    <tns:P_4A>PL</tns:P_4A>
+    <tns:P_4B>6762484560</tns:P_4B>
+    <tns:P_5B>677-00-46-633</tns:P_5B>
+    <tns:P_6>2020-11-10</tns:P_6>
+    <tns:P_13_1>33093.75</tns:P_13_1>
+    <tns:P_14_1>7611.56</tns:P_14_1>
+    <tns:P_15>40705.31</tns:P_15>
+    <tns:P_16>false</tns:P_16>
+    <tns:P_17>false</tns:P_17>
+    <tns:P_18>false</tns:P_18>
+    <tns:P_18A>false</tns:P_18A>
+    <tns:P_19>false</tns:P_19>
+    <tns:P_20>false</tns:P_20>
+    <tns:P_21>false</tns:P_21>
+    <tns:P_22>false</tns:P_22>
+    <tns:P_23>false</tns:P_23>
+    <tns:P_106E_2>false</tns:P_106E_2>
+    <tns:P_106E_3>false</tns:P_106E_3>
+    <tns:RodzajFaktury>VAT</tns:RodzajFaktury>
+  </tns:Faktura>
+
+  <tns:Faktura>
+    <tns:KodWaluty>PLN</tns:KodWaluty>
+    <tns:P_1>2020-11-10</tns:P_1>
+    <tns:P_2A>2-10/11/2020</tns:P_2A>
+    <tns:P_3A>Firma5 SP. Z O.O.</tns:P_3A>
+    <tns:P_3B>Firma5 SP. Z O.O.-ADDRESS</tns:P_3B>
+    <tns:P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:P_3C>
+    <tns:P_3D>ul. Feliksa Radwańskiego 15/1, 30-065 Kraków</tns:P_3D>
+    <tns:P_4A>PL</tns:P_4A>
+    <tns:P_4B>6762484560</tns:P_4B>
+    <tns:P_5B>634-27-26-447</tns:P_5B>
+    <tns:P_6>2020-11-10</tns:P_6>
+    <tns:P_13_1>3000.00</tns:P_13_1>
+    <tns:P_14_1>690.00</tns:P_14_1>
+    <tns:P_15>3690.00</tns:P_15>
+    <tns:P_16>false</tns:P_16>
+    <tns:P_17>false</tns:P_17>
+    <tns:P_18>false</tns:P_18>
+    <tns:P_18A>false</tns:P_18A>
+    <tns:P_19>false</tns:P_19>
+    <tns:P_20>false</tns:P_20>
+    <tns:P_21>false</tns:P_21>
+    <tns:P_22>false</tns:P_22>
+    <tns:P_23>false</tns:P_23>
+    <tns:P_106E_2>false</tns:P_106E_2>
+    <tns:P_106E_3>false</tns:P_106E_3>
+    <tns:RodzajFaktury>VAT</tns:RodzajFaktury>
+  </tns:Faktura>
+
+  <tns:Faktura>
+    <tns:KodWaluty>PLN</tns:KodWaluty>
+    <tns:P_1>2020-11-10</tns:P_1>
+    <tns:P_2A>3-10/11/2020</tns:P_2A>
+    <tns:P_3A>Firma6 SP. Z O.O.</tns:P_3A>
+    <tns:P_3B>Firma6 SP. Z O.O.-ADDRESS</tns:P_3B>
+    <tns:P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:P_3C>
+    <tns:P_3D>ul. Feliksa Radwańskiego 15/1, 30-065 Kraków</tns:P_3D>
+    <tns:P_4A>PL</tns:P_4A>
+    <tns:P_4B>6762484560</tns:P_4B>
+    <tns:P_5B>676-247-94-12</tns:P_5B>
+    <tns:P_6>2020-11-10</tns:P_6>
+    <tns:P_13_1>7000.00</tns:P_13_1>
+    <tns:P_14_1>1610.00</tns:P_14_1>
+    <tns:P_15>8610.00</tns:P_15>
+    <tns:P_16>false</tns:P_16>
+    <tns:P_17>false</tns:P_17>
+    <tns:P_18>false</tns:P_18>
+    <tns:P_18A>false</tns:P_18A>
+    <tns:P_19>false</tns:P_19>
+    <tns:P_20>false</tns:P_20>
+    <tns:P_21>false</tns:P_21>
+    <tns:P_22>false</tns:P_22>
+    <tns:P_23>false</tns:P_23>
+    <tns:P_106E_2>false</tns:P_106E_2>
+    <tns:P_106E_3>false</tns:P_106E_3>
+    <tns:RodzajFaktury>VAT</tns:RodzajFaktury>
+  </tns:Faktura>
+
+  <tns:Faktura>
+    <tns:KodWaluty>PLN</tns:KodWaluty>
+    <tns:P_1>2020-11-13</tns:P_1>
+    <tns:P_2A>1-13/11/2020</tns:P_2A>
+    <tns:P_3A>Firma4</tns:P_3A>
+    <tns:P_3B>Firma4-ADDRESS</tns:P_3B>
+    <tns:P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:P_3C>
+    <tns:P_3D>ul. Feliksa Radwańskiego 15/1, 30-065 Kraków</tns:P_3D>
+    <tns:P_4A>PL</tns:P_4A>
+    <tns:P_4B>6762484560</tns:P_4B>
+    <tns:P_5B>873-171-75-73</tns:P_5B>
+    <tns:P_6>2020-11-13</tns:P_6>
+    <tns:P_13_1>3547.00</tns:P_13_1>
+    <tns:P_14_1>815.81</tns:P_14_1>
+    <tns:P_15>4362.81</tns:P_15>
+    <tns:P_16>false</tns:P_16>
+    <tns:P_17>false</tns:P_17>
+    <tns:P_18>false</tns:P_18>
+    <tns:P_18A>false</tns:P_18A>
+    <tns:P_19>false</tns:P_19>
+    <tns:P_20>false</tns:P_20>
+    <tns:P_21>false</tns:P_21>
+    <tns:P_22>false</tns:P_22>
+    <tns:P_23>false</tns:P_23>
+    <tns:P_106E_2>false</tns:P_106E_2>
+    <tns:P_106E_3>false</tns:P_106E_3>
+    <tns:RodzajFaktury>VAT</tns:RodzajFaktury>
+  </tns:Faktura>
+
+  <tns:Faktura>
+    <tns:KodWaluty>PLN</tns:KodWaluty>
+    <tns:P_1>2020-11-17</tns:P_1>
+    <tns:P_2A>1-17/11/2020</tns:P_2A>
+    <tns:P_3A>Firma2</tns:P_3A>
+    <tns:P_3B>Firma2-ADDRESS</tns:P_3B>
+    <tns:P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:P_3C>
+    <tns:P_3D>ul. Feliksa Radwańskiego 15/1, 30-065 Kraków</tns:P_3D>
+    <tns:P_4A>PL</tns:P_4A>
+    <tns:P_4B>6762484560</tns:P_4B>
+    <tns:P_5B>552-151-68-49</tns:P_5B>
+    <tns:P_6>2020-11-17</tns:P_6>
+    <tns:P_13_1>1593.50</tns:P_13_1>
+    <tns:P_14_1>366.50</tns:P_14_1>
+    <tns:P_15>1960.00</tns:P_15>
+    <tns:P_16>false</tns:P_16>
+    <tns:P_17>false</tns:P_17>
+    <tns:P_18>false</tns:P_18>
+    <tns:P_18A>false</tns:P_18A>
+    <tns:P_19>false</tns:P_19>
+    <tns:P_20>false</tns:P_20>
+    <tns:P_21>false</tns:P_21>
+    <tns:P_22>false</tns:P_22>
+    <tns:P_23>false</tns:P_23>
+    <tns:P_106E_2>false</tns:P_106E_2>
+    <tns:P_106E_3>false</tns:P_106E_3>
+    <tns:RodzajFaktury>VAT</tns:RodzajFaktury>
+  </tns:Faktura>
+
+  <tns:Faktura>
+    <tns:KodWaluty>PLN</tns:KodWaluty>
+    <tns:P_1>2020-11-25</tns:P_1>
+    <tns:P_2A>1-25/11/2020</tns:P_2A>
+    <tns:P_3A>Firma1 Sp. z o.o</tns:P_3A>
+    <tns:P_3B>Firma1 Sp. z o.o-ADDRESS</tns:P_3B>
+    <tns:P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:P_3C>
+    <tns:P_3D>ul. Feliksa Radwańskiego 15/1, 30-065 Kraków</tns:P_3D>
+    <tns:P_4A>PL</tns:P_4A>
+    <tns:P_4B>6762484560</tns:P_4B>
+    <tns:P_5B>113-29-95-753 </tns:P_5B>
+    <tns:P_6>2020-11-25</tns:P_6>
+    <tns:P_13_1>34030.00</tns:P_13_1>
+    <tns:P_14_1>7826.90</tns:P_14_1>
+    <tns:P_15>41856.90</tns:P_15>
+    <tns:P_16>false</tns:P_16>
+    <tns:P_17>false</tns:P_17>
+    <tns:P_18>false</tns:P_18>
+    <tns:P_18A>false</tns:P_18A>
+    <tns:P_19>false</tns:P_19>
+    <tns:P_20>false</tns:P_20>
+    <tns:P_21>false</tns:P_21>
+    <tns:P_22>false</tns:P_22>
+    <tns:P_23>false</tns:P_23>
+    <tns:P_106E_2>false</tns:P_106E_2>
+    <tns:P_106E_3>false</tns:P_106E_3>
+    <tns:RodzajFaktury>VAT</tns:RodzajFaktury>
+  </tns:Faktura>
+
+  <tns:Faktura>
+    <tns:KodWaluty>PLN</tns:KodWaluty>
+    <tns:P_1>2020-11-25</tns:P_1>
+    <tns:P_2A>2-25/11/2020</tns:P_2A>
+    <tns:P_3A>Firma1 Sp. z o.o</tns:P_3A>
+    <tns:P_3B>Firma1 Sp. z o.o-ADDRESS</tns:P_3B>
+    <tns:P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:P_3C>
+    <tns:P_3D>ul. Feliksa Radwańskiego 15/1, 30-065 Kraków</tns:P_3D>
+    <tns:P_4A>PL</tns:P_4A>
+    <tns:P_4B>6762484560</tns:P_4B>
+    <tns:P_5B>113-29-95-753 </tns:P_5B>
+    <tns:P_6>2020-11-25</tns:P_6>
+    <tns:P_13_1>12775.00</tns:P_13_1>
+    <tns:P_14_1>2938.25</tns:P_14_1>
+    <tns:P_15>15713.25</tns:P_15>
+    <tns:P_16>false</tns:P_16>
+    <tns:P_17>false</tns:P_17>
+    <tns:P_18>false</tns:P_18>
+    <tns:P_18A>false</tns:P_18A>
+    <tns:P_19>false</tns:P_19>
+    <tns:P_20>false</tns:P_20>
+    <tns:P_21>false</tns:P_21>
+    <tns:P_22>false</tns:P_22>
+    <tns:P_23>false</tns:P_23>
+    <tns:P_106E_2>false</tns:P_106E_2>
+    <tns:P_106E_3>false</tns:P_106E_3>
+    <tns:RodzajFaktury>VAT</tns:RodzajFaktury>
+  </tns:Faktura>
+
+  <tns:Faktura>
+    <tns:KodWaluty>PLN</tns:KodWaluty>
+    <tns:P_1>2020-11-25</tns:P_1>
+    <tns:P_2A>3-25/11/2020</tns:P_2A>
+    <tns:P_3A>Firma1 Sp. z o.o</tns:P_3A>
+    <tns:P_3B>Firma1 Sp. z o.o-ADDRESS</tns:P_3B>
+    <tns:P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:P_3C>
+    <tns:P_3D>ul. Feliksa Radwańskiego 15/1, 30-065 Kraków</tns:P_3D>
+    <tns:P_4A>PL</tns:P_4A>
+    <tns:P_4B>6762484560</tns:P_4B>
+    <tns:P_5B>113-29-95-753 </tns:P_5B>
+    <tns:P_6>2020-11-25</tns:P_6>
+    <tns:P_13_1>85833.75</tns:P_13_1>
+    <tns:P_14_1>19741.76</tns:P_14_1>
+    <tns:P_15>105575.51</tns:P_15>
+    <tns:P_16>false</tns:P_16>
+    <tns:P_17>false</tns:P_17>
+    <tns:P_18>false</tns:P_18>
+    <tns:P_18A>false</tns:P_18A>
+    <tns:P_19>false</tns:P_19>
+    <tns:P_20>false</tns:P_20>
+    <tns:P_21>false</tns:P_21>
+    <tns:P_22>false</tns:P_22>
+    <tns:P_23>false</tns:P_23>
+    <tns:P_106E_2>false</tns:P_106E_2>
+    <tns:P_106E_3>false</tns:P_106E_3>
+    <tns:RodzajFaktury>VAT</tns:RodzajFaktury>
+  </tns:Faktura>
+
+  <tns:Faktura>
+    <tns:KodWaluty>PLN</tns:KodWaluty>
+    <tns:P_1>2020-12-07</tns:P_1>
+    <tns:P_2A>1-07/12/2020</tns:P_2A>
+    <tns:P_3A>Firma9 SP. Z O.O.</tns:P_3A>
+    <tns:P_3B>Firma9 SP. Z O.O.-ADDRESS</tns:P_3B>
+    <tns:P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:P_3C>
+    <tns:P_3D>ul. Feliksa Radwańskiego 15/1, 30-065 Kraków</tns:P_3D>
+    <tns:P_4A>PL</tns:P_4A>
+    <tns:P_4B>6762484560</tns:P_4B>
+    <tns:P_5B>118-16-48-603</tns:P_5B>
+    <tns:P_6>2020-12-07</tns:P_6>
+    <tns:P_13_1>13000.00</tns:P_13_1>
+    <tns:P_14_1>2990.00</tns:P_14_1>
+    <tns:P_15>15990.00</tns:P_15>
+    <tns:P_16>false</tns:P_16>
+    <tns:P_17>false</tns:P_17>
+    <tns:P_18>false</tns:P_18>
+    <tns:P_18A>false</tns:P_18A>
+    <tns:P_19>false</tns:P_19>
+    <tns:P_20>false</tns:P_20>
+    <tns:P_21>false</tns:P_21>
+    <tns:P_22>false</tns:P_22>
+    <tns:P_23>false</tns:P_23>
+    <tns:P_106E_2>false</tns:P_106E_2>
+    <tns:P_106E_3>false</tns:P_106E_3>
+    <tns:RodzajFaktury>VAT</tns:RodzajFaktury>
+  </tns:Faktura>
+
+  <tns:Faktura>
+    <tns:KodWaluty>PLN</tns:KodWaluty>
+    <tns:P_1>2020-12-07</tns:P_1>
+    <tns:P_2A>2-07/12/2020</tns:P_2A>
+    <tns:P_3A>Firma8 Sp. z o.o. sp.k.</tns:P_3A>
+    <tns:P_3B>Firma8 Sp. z o.o. sp.k.-ADDRESS</tns:P_3B>
+    <tns:P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:P_3C>
+    <tns:P_3D>ul. Feliksa Radwańskiego 15/1, 30-065 Kraków</tns:P_3D>
+    <tns:P_4A>PL</tns:P_4A>
+    <tns:P_4B>6762484560</tns:P_4B>
+    <tns:P_5B>677-00-46-633</tns:P_5B>
+    <tns:P_6>2020-12-07</tns:P_6>
+    <tns:P_13_1>15585.94</tns:P_13_1>
+    <tns:P_14_1>3584.77</tns:P_14_1>
+    <tns:P_15>19170.71</tns:P_15>
+    <tns:P_16>false</tns:P_16>
+    <tns:P_17>false</tns:P_17>
+    <tns:P_18>false</tns:P_18>
+    <tns:P_18A>false</tns:P_18A>
+    <tns:P_19>false</tns:P_19>
+    <tns:P_20>false</tns:P_20>
+    <tns:P_21>false</tns:P_21>
+    <tns:P_22>false</tns:P_22>
+    <tns:P_23>false</tns:P_23>
+    <tns:P_106E_2>false</tns:P_106E_2>
+    <tns:P_106E_3>false</tns:P_106E_3>
+    <tns:RodzajFaktury>VAT</tns:RodzajFaktury>
+  </tns:Faktura>
+
+  <tns:Faktura>
+    <tns:KodWaluty>PLN</tns:KodWaluty>
+    <tns:P_1>2020-12-07</tns:P_1>
+    <tns:P_2A>3-07/12/2020</tns:P_2A>
+    <tns:P_3A>Firma4</tns:P_3A>
+    <tns:P_3B>Firma4-ADDRESS</tns:P_3B>
+    <tns:P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:P_3C>
+    <tns:P_3D>ul. Feliksa Radwańskiego 15/1, 30-065 Kraków</tns:P_3D>
+    <tns:P_4A>PL</tns:P_4A>
+    <tns:P_4B>6762484560</tns:P_4B>
+    <tns:P_5B>873-171-75-73</tns:P_5B>
+    <tns:P_6>2020-12-07</tns:P_6>
+    <tns:P_13_1>4026.50</tns:P_13_1>
+    <tns:P_14_1>926.10</tns:P_14_1>
+    <tns:P_15>4952.60</tns:P_15>
+    <tns:P_16>false</tns:P_16>
+    <tns:P_17>false</tns:P_17>
+    <tns:P_18>false</tns:P_18>
+    <tns:P_18A>false</tns:P_18A>
+    <tns:P_19>false</tns:P_19>
+    <tns:P_20>false</tns:P_20>
+    <tns:P_21>false</tns:P_21>
+    <tns:P_22>false</tns:P_22>
+    <tns:P_23>false</tns:P_23>
+    <tns:P_106E_2>false</tns:P_106E_2>
+    <tns:P_106E_3>false</tns:P_106E_3>
+    <tns:RodzajFaktury>VAT</tns:RodzajFaktury>
+  </tns:Faktura>
+
+  <tns:Faktura>
+    <tns:KodWaluty>PLN</tns:KodWaluty>
+    <tns:P_1>2020-12-07</tns:P_1>
+    <tns:P_2A>4-07/12/2020</tns:P_2A>
+    <tns:P_3A>Firma4</tns:P_3A>
+    <tns:P_3B>Firma4-ADDRESS</tns:P_3B>
+    <tns:P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:P_3C>
+    <tns:P_3D>ul. Feliksa Radwańskiego 15/1, 30-065 Kraków</tns:P_3D>
+    <tns:P_4A>PL</tns:P_4A>
+    <tns:P_4B>6762484560</tns:P_4B>
+    <tns:P_5B>873-171-75-73</tns:P_5B>
+    <tns:P_6>2020-12-07</tns:P_6>
+    <tns:P_13_1>14560.00</tns:P_13_1>
+    <tns:P_14_1>3348.80</tns:P_14_1>
+    <tns:P_15>17908.80</tns:P_15>
+    <tns:P_16>false</tns:P_16>
+    <tns:P_17>false</tns:P_17>
+    <tns:P_18>false</tns:P_18>
+    <tns:P_18A>false</tns:P_18A>
+    <tns:P_19>false</tns:P_19>
+    <tns:P_20>false</tns:P_20>
+    <tns:P_21>false</tns:P_21>
+    <tns:P_22>false</tns:P_22>
+    <tns:P_23>false</tns:P_23>
+    <tns:P_106E_2>false</tns:P_106E_2>
+    <tns:P_106E_3>false</tns:P_106E_3>
+    <tns:RodzajFaktury>VAT</tns:RodzajFaktury>
+  </tns:Faktura>
+
+  <tns:Faktura>
+    <tns:KodWaluty>PLN</tns:KodWaluty>
+    <tns:P_1>2020-12-07</tns:P_1>
+    <tns:P_2A>5-07/12/2020</tns:P_2A>
+    <tns:P_3A>Firma4</tns:P_3A>
+    <tns:P_3B>Firma4-ADDRESS</tns:P_3B>
+    <tns:P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:P_3C>
+    <tns:P_3D>ul. Feliksa Radwańskiego 15/1, 30-065 Kraków</tns:P_3D>
+    <tns:P_4A>PL</tns:P_4A>
+    <tns:P_4B>6762484560</tns:P_4B>
+    <tns:P_5B>873-171-75-73</tns:P_5B>
+    <tns:P_6>2020-12-07</tns:P_6>
+    <tns:P_13_1>28000.00</tns:P_13_1>
+    <tns:P_14_1>6440.00</tns:P_14_1>
+    <tns:P_15>34440.00</tns:P_15>
+    <tns:P_16>false</tns:P_16>
+    <tns:P_17>false</tns:P_17>
+    <tns:P_18>false</tns:P_18>
+    <tns:P_18A>false</tns:P_18A>
+    <tns:P_19>false</tns:P_19>
+    <tns:P_20>false</tns:P_20>
+    <tns:P_21>false</tns:P_21>
+    <tns:P_22>false</tns:P_22>
+    <tns:P_23>false</tns:P_23>
+    <tns:P_106E_2>false</tns:P_106E_2>
+    <tns:P_106E_3>false</tns:P_106E_3>
+    <tns:RodzajFaktury>VAT</tns:RodzajFaktury>
+  </tns:Faktura>
+
+  <tns:Faktura>
+    <tns:KodWaluty>PLN</tns:KodWaluty>
+    <tns:P_1>2020-12-07</tns:P_1>
+    <tns:P_2A>6-07/12/2020</tns:P_2A>
+    <tns:P_3A>Firma3 sp. z o.o.</tns:P_3A>
+    <tns:P_3B>Firma3 sp. z o.o.-ADDRESS</tns:P_3B>
+    <tns:P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:P_3C>
+    <tns:P_3D>ul. Feliksa Radwańskiego 15/1, 30-065 Kraków</tns:P_3D>
+    <tns:P_4A>PL</tns:P_4A>
+    <tns:P_4B>6762484560</tns:P_4B>
+    <tns:P_5B>675-152-93-71</tns:P_5B>
+    <tns:P_6>2020-12-07</tns:P_6>
+    <tns:P_13_1>3090.63</tns:P_13_1>
+    <tns:P_14_1>710.84</tns:P_14_1>
+    <tns:P_15>3801.47</tns:P_15>
+    <tns:P_16>false</tns:P_16>
+    <tns:P_17>false</tns:P_17>
+    <tns:P_18>false</tns:P_18>
+    <tns:P_18A>false</tns:P_18A>
+    <tns:P_19>false</tns:P_19>
+    <tns:P_20>false</tns:P_20>
+    <tns:P_21>false</tns:P_21>
+    <tns:P_22>false</tns:P_22>
+    <tns:P_23>false</tns:P_23>
+    <tns:P_106E_2>false</tns:P_106E_2>
+    <tns:P_106E_3>false</tns:P_106E_3>
+    <tns:RodzajFaktury>VAT</tns:RodzajFaktury>
+  </tns:Faktura>
+
+  <tns:Faktura>
+    <tns:KodWaluty>PLN</tns:KodWaluty>
+    <tns:P_1>2020-12-09</tns:P_1>
+    <tns:P_2A>1-09/12/2020</tns:P_2A>
+    <tns:P_3A>Firma3 sp. z o.o.</tns:P_3A>
+    <tns:P_3B>Firma3 sp. z o.o.-ADDRESS</tns:P_3B>
+    <tns:P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:P_3C>
+    <tns:P_3D>ul. Feliksa Radwańskiego 15/1, 30-065 Kraków</tns:P_3D>
+    <tns:P_4A>PL</tns:P_4A>
+    <tns:P_4B>6762484560</tns:P_4B>
+    <tns:P_5B>675-152-93-71</tns:P_5B>
+    <tns:P_6>2020-12-09</tns:P_6>
+    <tns:P_13_1>106340.00</tns:P_13_1>
+    <tns:P_14_1>24458.20</tns:P_14_1>
+    <tns:P_15>130798.20</tns:P_15>
+    <tns:P_16>false</tns:P_16>
+    <tns:P_17>false</tns:P_17>
+    <tns:P_18>false</tns:P_18>
+    <tns:P_18A>false</tns:P_18A>
+    <tns:P_19>false</tns:P_19>
+    <tns:P_20>false</tns:P_20>
+    <tns:P_21>false</tns:P_21>
+    <tns:P_22>false</tns:P_22>
+    <tns:P_23>false</tns:P_23>
+    <tns:P_106E_2>false</tns:P_106E_2>
+    <tns:P_106E_3>false</tns:P_106E_3>
+    <tns:RodzajFaktury>VAT</tns:RodzajFaktury>
+  </tns:Faktura>
+
+  <tns:Faktura>
+    <tns:KodWaluty>PLN</tns:KodWaluty>
+    <tns:P_1>2020-12-09</tns:P_1>
+    <tns:P_2A>2-09/12/2020</tns:P_2A>
+    <tns:P_3A>Firma3 sp. z o.o.</tns:P_3A>
+    <tns:P_3B>Firma3 sp. z o.o.-ADDRESS</tns:P_3B>
+    <tns:P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:P_3C>
+    <tns:P_3D>ul. Feliksa Radwańskiego 15/1, 30-065 Kraków</tns:P_3D>
+    <tns:P_4A>PL</tns:P_4A>
+    <tns:P_4B>6762484560</tns:P_4B>
+    <tns:P_5B>675-152-93-71</tns:P_5B>
+    <tns:P_6>2020-12-09</tns:P_6>
+    <tns:P_13_1>7070.32</tns:P_13_1>
+    <tns:P_14_1>1626.17</tns:P_14_1>
+    <tns:P_15>8696.49</tns:P_15>
+    <tns:P_16>false</tns:P_16>
+    <tns:P_17>false</tns:P_17>
+    <tns:P_18>false</tns:P_18>
+    <tns:P_18A>false</tns:P_18A>
+    <tns:P_19>false</tns:P_19>
+    <tns:P_20>false</tns:P_20>
+    <tns:P_21>false</tns:P_21>
+    <tns:P_22>false</tns:P_22>
+    <tns:P_23>false</tns:P_23>
+    <tns:P_106E_2>false</tns:P_106E_2>
+    <tns:P_106E_3>false</tns:P_106E_3>
+    <tns:RodzajFaktury>VAT</tns:RodzajFaktury>
+  </tns:Faktura>
+
+  <tns:Faktura>
+    <tns:KodWaluty>PLN</tns:KodWaluty>
+    <tns:P_1>2020-12-10</tns:P_1>
+    <tns:P_2A>1-10/12/2020</tns:P_2A>
+    <tns:P_3A>Firma5 SP. Z O.O.</tns:P_3A>
+    <tns:P_3B>Firma5 SP. Z O.O.-ADDRESS</tns:P_3B>
+    <tns:P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:P_3C>
+    <tns:P_3D>ul. Feliksa Radwańskiego 15/1, 30-065 Kraków</tns:P_3D>
+    <tns:P_4A>PL</tns:P_4A>
+    <tns:P_4B>6762484560</tns:P_4B>
+    <tns:P_5B>634-27-26-447</tns:P_5B>
+    <tns:P_6>2020-12-10</tns:P_6>
+    <tns:P_13_1>3000.00</tns:P_13_1>
+    <tns:P_14_1>690.00</tns:P_14_1>
+    <tns:P_15>3690.00</tns:P_15>
+    <tns:P_16>false</tns:P_16>
+    <tns:P_17>false</tns:P_17>
+    <tns:P_18>false</tns:P_18>
+    <tns:P_18A>false</tns:P_18A>
+    <tns:P_19>false</tns:P_19>
+    <tns:P_20>false</tns:P_20>
+    <tns:P_21>false</tns:P_21>
+    <tns:P_22>false</tns:P_22>
+    <tns:P_23>false</tns:P_23>
+    <tns:P_106E_2>false</tns:P_106E_2>
+    <tns:P_106E_3>false</tns:P_106E_3>
+    <tns:RodzajFaktury>VAT</tns:RodzajFaktury>
+  </tns:Faktura>
+
+  <tns:Faktura>
+    <tns:KodWaluty>PLN</tns:KodWaluty>
+    <tns:P_1>2020-12-10</tns:P_1>
+    <tns:P_2A>2-10/12/2020</tns:P_2A>
+    <tns:P_3A>Firma6 SP. Z O.O.</tns:P_3A>
+    <tns:P_3B>Firma6 SP. Z O.O.-ADDRESS</tns:P_3B>
+    <tns:P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:P_3C>
+    <tns:P_3D>ul. Feliksa Radwańskiego 15/1, 30-065 Kraków</tns:P_3D>
+    <tns:P_4A>PL</tns:P_4A>
+    <tns:P_4B>6762484560</tns:P_4B>
+    <tns:P_5B>676-247-94-12</tns:P_5B>
+    <tns:P_6>2020-12-10</tns:P_6>
+    <tns:P_13_1>7000.00</tns:P_13_1>
+    <tns:P_14_1>1610.00</tns:P_14_1>
+    <tns:P_15>8610.00</tns:P_15>
+    <tns:P_16>false</tns:P_16>
+    <tns:P_17>false</tns:P_17>
+    <tns:P_18>false</tns:P_18>
+    <tns:P_18A>false</tns:P_18A>
+    <tns:P_19>false</tns:P_19>
+    <tns:P_20>false</tns:P_20>
+    <tns:P_21>false</tns:P_21>
+    <tns:P_22>false</tns:P_22>
+    <tns:P_23>false</tns:P_23>
+    <tns:P_106E_2>false</tns:P_106E_2>
+    <tns:P_106E_3>false</tns:P_106E_3>
+    <tns:RodzajFaktury>VAT</tns:RodzajFaktury>
+  </tns:Faktura>
+
+  <tns:Faktura>
+    <tns:KodWaluty>PLN</tns:KodWaluty>
+    <tns:P_1>2020-12-14</tns:P_1>
+    <tns:P_2A>1-14/12/2020</tns:P_2A>
+    <tns:P_3A>Firma1 Sp. z o.o</tns:P_3A>
+    <tns:P_3B>Firma1 Sp. z o.o-ADDRESS</tns:P_3B>
+    <tns:P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:P_3C>
+    <tns:P_3D>ul. Feliksa Radwańskiego 15/1, 30-065 Kraków</tns:P_3D>
+    <tns:P_4A>PL</tns:P_4A>
+    <tns:P_4B>6762484560</tns:P_4B>
+    <tns:P_5B>113-29-95-753 </tns:P_5B>
+    <tns:P_6>2020-12-14</tns:P_6>
+    <tns:P_13_1>28920.00</tns:P_13_1>
+    <tns:P_14_1>6651.60</tns:P_14_1>
+    <tns:P_15>35571.60</tns:P_15>
+    <tns:P_16>false</tns:P_16>
+    <tns:P_17>false</tns:P_17>
+    <tns:P_18>false</tns:P_18>
+    <tns:P_18A>false</tns:P_18A>
+    <tns:P_19>false</tns:P_19>
+    <tns:P_20>false</tns:P_20>
+    <tns:P_21>false</tns:P_21>
+    <tns:P_22>false</tns:P_22>
+    <tns:P_23>false</tns:P_23>
+    <tns:P_106E_2>false</tns:P_106E_2>
+    <tns:P_106E_3>false</tns:P_106E_3>
+    <tns:RodzajFaktury>VAT</tns:RodzajFaktury>
+  </tns:Faktura>
+
+  <tns:Faktura>
+    <tns:KodWaluty>PLN</tns:KodWaluty>
+    <tns:P_1>2020-12-14</tns:P_1>
+    <tns:P_2A>2-14/12/2020</tns:P_2A>
+    <tns:P_3A>Firma1 Sp. z o.o</tns:P_3A>
+    <tns:P_3B>Firma1 Sp. z o.o-ADDRESS</tns:P_3B>
+    <tns:P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:P_3C>
+    <tns:P_3D>ul. Feliksa Radwańskiego 15/1, 30-065 Kraków</tns:P_3D>
+    <tns:P_4A>PL</tns:P_4A>
+    <tns:P_4B>6762484560</tns:P_4B>
+    <tns:P_5B>113-29-95-753 </tns:P_5B>
+    <tns:P_6>2020-12-14</tns:P_6>
+    <tns:P_13_1>13543.75</tns:P_13_1>
+    <tns:P_14_1>3115.06</tns:P_14_1>
+    <tns:P_15>16658.81</tns:P_15>
+    <tns:P_16>false</tns:P_16>
+    <tns:P_17>false</tns:P_17>
+    <tns:P_18>false</tns:P_18>
+    <tns:P_18A>false</tns:P_18A>
+    <tns:P_19>false</tns:P_19>
+    <tns:P_20>false</tns:P_20>
+    <tns:P_21>false</tns:P_21>
+    <tns:P_22>false</tns:P_22>
+    <tns:P_23>false</tns:P_23>
+    <tns:P_106E_2>false</tns:P_106E_2>
+    <tns:P_106E_3>false</tns:P_106E_3>
+    <tns:RodzajFaktury>VAT</tns:RodzajFaktury>
+  </tns:Faktura>
+
+  <tns:Faktura>
+    <tns:KodWaluty>PLN</tns:KodWaluty>
+    <tns:P_1>2020-12-14</tns:P_1>
+    <tns:P_2A>3-14/12/2020</tns:P_2A>
+    <tns:P_3A>Firma1 Sp. z o.o</tns:P_3A>
+    <tns:P_3B>Firma1 Sp. z o.o-ADDRESS</tns:P_3B>
+    <tns:P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:P_3C>
+    <tns:P_3D>ul. Feliksa Radwańskiego 15/1, 30-065 Kraków</tns:P_3D>
+    <tns:P_4A>PL</tns:P_4A>
+    <tns:P_4B>6762484560</tns:P_4B>
+    <tns:P_5B>113-29-95-753 </tns:P_5B>
+    <tns:P_6>2020-12-14</tns:P_6>
+    <tns:P_13_1>45093.75</tns:P_13_1>
+    <tns:P_14_1>10371.56</tns:P_14_1>
+    <tns:P_15>55465.31</tns:P_15>
+    <tns:P_16>false</tns:P_16>
+    <tns:P_17>false</tns:P_17>
+    <tns:P_18>false</tns:P_18>
+    <tns:P_18A>false</tns:P_18A>
+    <tns:P_19>false</tns:P_19>
+    <tns:P_20>false</tns:P_20>
+    <tns:P_21>false</tns:P_21>
+    <tns:P_22>false</tns:P_22>
+    <tns:P_23>false</tns:P_23>
+    <tns:P_106E_2>false</tns:P_106E_2>
+    <tns:P_106E_3>false</tns:P_106E_3>
+    <tns:RodzajFaktury>VAT</tns:RodzajFaktury>
+  </tns:Faktura>
+
+  <tns:Faktura>
+    <tns:KodWaluty>PLN</tns:KodWaluty>
+    <tns:P_1>2020-12-14</tns:P_1>
+    <tns:P_2A>4-14/12/2020</tns:P_2A>
+    <tns:P_3A>Firma7 S.A.</tns:P_3A>
+    <tns:P_3B>Firma7 S.A.-ADDRESS</tns:P_3B>
+    <tns:P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:P_3C>
+    <tns:P_3D>ul. Feliksa Radwańskiego 15/1, 30-065 Kraków</tns:P_3D>
+    <tns:P_4A>PL</tns:P_4A>
+    <tns:P_4B>6762484560</tns:P_4B>
+    <tns:P_5B> 531 30 92 922</tns:P_5B>
+    <tns:P_6>2020-12-14</tns:P_6>
+    <tns:P_13_1>58240.00</tns:P_13_1>
+    <tns:P_14_1>13395.20</tns:P_14_1>
+    <tns:P_15>71635.20</tns:P_15>
+    <tns:P_16>false</tns:P_16>
+    <tns:P_17>false</tns:P_17>
+    <tns:P_18>false</tns:P_18>
+    <tns:P_18A>false</tns:P_18A>
+    <tns:P_19>false</tns:P_19>
+    <tns:P_20>false</tns:P_20>
+    <tns:P_21>false</tns:P_21>
+    <tns:P_22>false</tns:P_22>
+    <tns:P_23>false</tns:P_23>
+    <tns:P_106E_2>false</tns:P_106E_2>
+    <tns:P_106E_3>false</tns:P_106E_3>
+    <tns:RodzajFaktury>VAT</tns:RodzajFaktury>
+  </tns:Faktura>
+
+  <tns:Faktura>
+    <tns:KodWaluty>PLN</tns:KodWaluty>
+    <tns:P_1>2021-01-04</tns:P_1>
+    <tns:P_2A>1-04/01/2021</tns:P_2A>
+    <tns:P_3A>Firma3 sp. z o.o.</tns:P_3A>
+    <tns:P_3B>Firma3 sp. z o.o.-ADDRESS</tns:P_3B>
+    <tns:P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:P_3C>
+    <tns:P_3D>ul. Feliksa Radwańskiego 15/1, 30-065 Kraków</tns:P_3D>
+    <tns:P_4A>PL</tns:P_4A>
+    <tns:P_4B>6762484560</tns:P_4B>
+    <tns:P_5B>675-152-93-71</tns:P_5B>
+    <tns:P_6>2021-01-04</tns:P_6>
+    <tns:P_13_1>19414.06</tns:P_13_1>
+    <tns:P_14_1>4465.23</tns:P_14_1>
+    <tns:P_15>23879.29</tns:P_15>
+    <tns:P_16>false</tns:P_16>
+    <tns:P_17>false</tns:P_17>
+    <tns:P_18>false</tns:P_18>
+    <tns:P_18A>false</tns:P_18A>
+    <tns:P_19>false</tns:P_19>
+    <tns:P_20>false</tns:P_20>
+    <tns:P_21>false</tns:P_21>
+    <tns:P_22>false</tns:P_22>
+    <tns:P_23>false</tns:P_23>
+    <tns:P_106E_2>false</tns:P_106E_2>
+    <tns:P_106E_3>false</tns:P_106E_3>
+    <tns:RodzajFaktury>VAT</tns:RodzajFaktury>
+  </tns:Faktura>
+
+  <tns:Faktura>
+    <tns:KodWaluty>PLN</tns:KodWaluty>
+    <tns:P_1>2021-01-04</tns:P_1>
+    <tns:P_2A>2-04/01/2021</tns:P_2A>
+    <tns:P_3A>Firma3 sp. z o.o.</tns:P_3A>
+    <tns:P_3B>Firma3 sp. z o.o.-ADDRESS</tns:P_3B>
+    <tns:P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:P_3C>
+    <tns:P_3D>ul. Feliksa Radwańskiego 15/1, 30-065 Kraków</tns:P_3D>
+    <tns:P_4A>PL</tns:P_4A>
+    <tns:P_4B>6762484560</tns:P_4B>
+    <tns:P_5B>675-152-93-71</tns:P_5B>
+    <tns:P_6>2021-01-04</tns:P_6>
+    <tns:P_13_1>6200.00</tns:P_13_1>
+    <tns:P_14_1>1426.00</tns:P_14_1>
+    <tns:P_15>7626.00</tns:P_15>
+    <tns:P_16>false</tns:P_16>
+    <tns:P_17>false</tns:P_17>
+    <tns:P_18>false</tns:P_18>
+    <tns:P_18A>false</tns:P_18A>
+    <tns:P_19>false</tns:P_19>
+    <tns:P_20>false</tns:P_20>
+    <tns:P_21>false</tns:P_21>
+    <tns:P_22>false</tns:P_22>
+    <tns:P_23>false</tns:P_23>
+    <tns:P_106E_2>false</tns:P_106E_2>
+    <tns:P_106E_3>false</tns:P_106E_3>
+    <tns:RodzajFaktury>VAT</tns:RodzajFaktury>
+  </tns:Faktura>
+
+  <tns:Faktura>
+    <tns:KodWaluty>PLN</tns:KodWaluty>
+    <tns:P_1>2021-01-04</tns:P_1>
+    <tns:P_2A>3-04/01/2021</tns:P_2A>
+    <tns:P_3A>Firma3 sp. z o.o.</tns:P_3A>
+    <tns:P_3B>Firma3 sp. z o.o.-ADDRESS</tns:P_3B>
+    <tns:P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:P_3C>
+    <tns:P_3D>ul. Feliksa Radwańskiego 15/1, 30-065 Kraków</tns:P_3D>
+    <tns:P_4A>PL</tns:P_4A>
+    <tns:P_4B>6762484560</tns:P_4B>
+    <tns:P_5B>675-152-93-71</tns:P_5B>
+    <tns:P_6>2021-01-04</tns:P_6>
+    <tns:P_13_1>126918.13</tns:P_13_1>
+    <tns:P_14_1>29191.17</tns:P_14_1>
+    <tns:P_15>156109.30</tns:P_15>
+    <tns:P_16>false</tns:P_16>
+    <tns:P_17>false</tns:P_17>
+    <tns:P_18>false</tns:P_18>
+    <tns:P_18A>false</tns:P_18A>
+    <tns:P_19>false</tns:P_19>
+    <tns:P_20>false</tns:P_20>
+    <tns:P_21>false</tns:P_21>
+    <tns:P_22>false</tns:P_22>
+    <tns:P_23>false</tns:P_23>
+    <tns:P_106E_2>false</tns:P_106E_2>
+    <tns:P_106E_3>false</tns:P_106E_3>
+    <tns:RodzajFaktury>VAT</tns:RodzajFaktury>
+  </tns:Faktura>
+
+  <tns:Faktura>
+    <tns:KodWaluty>PLN</tns:KodWaluty>
+    <tns:P_1>2021-01-04</tns:P_1>
+    <tns:P_2A>4-04/01/2021</tns:P_2A>
+    <tns:P_3A>Firma8 Sp. z o.o. sp.k.</tns:P_3A>
+    <tns:P_3B>Firma8 Sp. z o.o. sp.k.-ADDRESS</tns:P_3B>
+    <tns:P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:P_3C>
+    <tns:P_3D>ul. Feliksa Radwańskiego 15/1, 30-065 Kraków</tns:P_3D>
+    <tns:P_4A>PL</tns:P_4A>
+    <tns:P_4B>6762484560</tns:P_4B>
+    <tns:P_5B>677-00-46-633</tns:P_5B>
+    <tns:P_6>2021-01-04</tns:P_6>
+    <tns:P_13_1>26273.44</tns:P_13_1>
+    <tns:P_14_1>6042.89</tns:P_14_1>
+    <tns:P_15>32316.33</tns:P_15>
+    <tns:P_16>false</tns:P_16>
+    <tns:P_17>false</tns:P_17>
+    <tns:P_18>false</tns:P_18>
+    <tns:P_18A>false</tns:P_18A>
+    <tns:P_19>false</tns:P_19>
+    <tns:P_20>false</tns:P_20>
+    <tns:P_21>false</tns:P_21>
+    <tns:P_22>false</tns:P_22>
+    <tns:P_23>false</tns:P_23>
+    <tns:P_106E_2>false</tns:P_106E_2>
+    <tns:P_106E_3>false</tns:P_106E_3>
+    <tns:RodzajFaktury>VAT</tns:RodzajFaktury>
+  </tns:Faktura>
+
+  <tns:Faktura>
+    <tns:KodWaluty>PLN</tns:KodWaluty>
+    <tns:P_1>2021-01-04</tns:P_1>
+    <tns:P_2A>5-04/01/2021</tns:P_2A>
+    <tns:P_3A>Firma9 SP. Z O.O.</tns:P_3A>
+    <tns:P_3B>Firma9 SP. Z O.O.-ADDRESS</tns:P_3B>
+    <tns:P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:P_3C>
+    <tns:P_3D>ul. Feliksa Radwańskiego 15/1, 30-065 Kraków</tns:P_3D>
+    <tns:P_4A>PL</tns:P_4A>
+    <tns:P_4B>6762484560</tns:P_4B>
+    <tns:P_5B>118-16-48-603</tns:P_5B>
+    <tns:P_6>2021-01-04</tns:P_6>
+    <tns:P_13_1>13000.00</tns:P_13_1>
+    <tns:P_14_1>2990.00</tns:P_14_1>
+    <tns:P_15>15990.00</tns:P_15>
+    <tns:P_16>false</tns:P_16>
+    <tns:P_17>false</tns:P_17>
+    <tns:P_18>false</tns:P_18>
+    <tns:P_18A>false</tns:P_18A>
+    <tns:P_19>false</tns:P_19>
+    <tns:P_20>false</tns:P_20>
+    <tns:P_21>false</tns:P_21>
+    <tns:P_22>false</tns:P_22>
+    <tns:P_23>false</tns:P_23>
+    <tns:P_106E_2>false</tns:P_106E_2>
+    <tns:P_106E_3>false</tns:P_106E_3>
+    <tns:RodzajFaktury>VAT</tns:RodzajFaktury>
+  </tns:Faktura>
+
+  <tns:Faktura>
+    <tns:KodWaluty>PLN</tns:KodWaluty>
+    <tns:P_1>2021-01-12</tns:P_1>
+    <tns:P_2A>1-12/01/2021</tns:P_2A>
+    <tns:P_3A>Firma4</tns:P_3A>
+    <tns:P_3B>Firma4-ADDRESS</tns:P_3B>
+    <tns:P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:P_3C>
+    <tns:P_3D>ul. Feliksa Radwańskiego 15/1, 30-065 Kraków</tns:P_3D>
+    <tns:P_4A>PL</tns:P_4A>
+    <tns:P_4B>6762484560</tns:P_4B>
+    <tns:P_5B>873-171-75-73</tns:P_5B>
+    <tns:P_6>2021-01-12</tns:P_6>
+    <tns:P_13_1>4470.25</tns:P_13_1>
+    <tns:P_14_1>1028.16</tns:P_14_1>
+    <tns:P_15>5498.41</tns:P_15>
+    <tns:P_16>false</tns:P_16>
+    <tns:P_17>false</tns:P_17>
+    <tns:P_18>false</tns:P_18>
+    <tns:P_18A>false</tns:P_18A>
+    <tns:P_19>false</tns:P_19>
+    <tns:P_20>false</tns:P_20>
+    <tns:P_21>false</tns:P_21>
+    <tns:P_22>false</tns:P_22>
+    <tns:P_23>false</tns:P_23>
+    <tns:P_106E_2>false</tns:P_106E_2>
+    <tns:P_106E_3>false</tns:P_106E_3>
+    <tns:RodzajFaktury>VAT</tns:RodzajFaktury>
+  </tns:Faktura>
+
+  <tns:Faktura>
+    <tns:KodWaluty>PLN</tns:KodWaluty>
+    <tns:P_1>2021-01-12</tns:P_1>
+    <tns:P_2A>2-12/01/2021</tns:P_2A>
+    <tns:P_3A>Firma4</tns:P_3A>
+    <tns:P_3B>Firma4-ADDRESS</tns:P_3B>
+    <tns:P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:P_3C>
+    <tns:P_3D>ul. Feliksa Radwańskiego 15/1, 30-065 Kraków</tns:P_3D>
+    <tns:P_4A>PL</tns:P_4A>
+    <tns:P_4B>6762484560</tns:P_4B>
+    <tns:P_5B>873-171-75-73</tns:P_5B>
+    <tns:P_6>2021-01-12</tns:P_6>
+    <tns:P_13_1>18200.00</tns:P_13_1>
+    <tns:P_14_1>4186.00</tns:P_14_1>
+    <tns:P_15>22386.00</tns:P_15>
+    <tns:P_16>false</tns:P_16>
+    <tns:P_17>false</tns:P_17>
+    <tns:P_18>false</tns:P_18>
+    <tns:P_18A>false</tns:P_18A>
+    <tns:P_19>false</tns:P_19>
+    <tns:P_20>false</tns:P_20>
+    <tns:P_21>false</tns:P_21>
+    <tns:P_22>false</tns:P_22>
+    <tns:P_23>false</tns:P_23>
+    <tns:P_106E_2>false</tns:P_106E_2>
+    <tns:P_106E_3>false</tns:P_106E_3>
+    <tns:RodzajFaktury>VAT</tns:RodzajFaktury>
+  </tns:Faktura>
+
+  <tns:Faktura>
+    <tns:KodWaluty>PLN</tns:KodWaluty>
+    <tns:P_1>2021-01-19</tns:P_1>
+    <tns:P_2A>1-19/01/2021</tns:P_2A>
+    <tns:P_3A>Firma1 Sp. z o.o</tns:P_3A>
+    <tns:P_3B>Firma1 Sp. z o.o-ADDRESS</tns:P_3B>
+    <tns:P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:P_3C>
+    <tns:P_3D>ul. Feliksa Radwańskiego 15/1, 30-065 Kraków</tns:P_3D>
+    <tns:P_4A>PL</tns:P_4A>
+    <tns:P_4B>6762484560</tns:P_4B>
+    <tns:P_5B>113-29-95-753 </tns:P_5B>
+    <tns:P_6>2021-01-19</tns:P_6>
+    <tns:P_13_1>30833.75</tns:P_13_1>
+    <tns:P_14_1>7091.76</tns:P_14_1>
+    <tns:P_15>37925.51</tns:P_15>
+    <tns:P_16>false</tns:P_16>
+    <tns:P_17>false</tns:P_17>
+    <tns:P_18>false</tns:P_18>
+    <tns:P_18A>false</tns:P_18A>
+    <tns:P_19>false</tns:P_19>
+    <tns:P_20>false</tns:P_20>
+    <tns:P_21>false</tns:P_21>
+    <tns:P_22>false</tns:P_22>
+    <tns:P_23>false</tns:P_23>
+    <tns:P_106E_2>false</tns:P_106E_2>
+    <tns:P_106E_3>false</tns:P_106E_3>
+    <tns:RodzajFaktury>VAT</tns:RodzajFaktury>
+  </tns:Faktura>
+
+  <tns:Faktura>
+    <tns:KodWaluty>PLN</tns:KodWaluty>
+    <tns:P_1>2021-01-19</tns:P_1>
+    <tns:P_2A>2-19/01/2021</tns:P_2A>
+    <tns:P_3A>Firma1 Sp. z o.o</tns:P_3A>
+    <tns:P_3B>Firma1 Sp. z o.o-ADDRESS</tns:P_3B>
+    <tns:P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:P_3C>
+    <tns:P_3D>ul. Feliksa Radwańskiego 15/1, 30-065 Kraków</tns:P_3D>
+    <tns:P_4A>PL</tns:P_4A>
+    <tns:P_4B>6762484560</tns:P_4B>
+    <tns:P_5B>113-29-95-753 </tns:P_5B>
+    <tns:P_6>2021-01-19</tns:P_6>
+    <tns:P_13_1>13431.25</tns:P_13_1>
+    <tns:P_14_1>3089.19</tns:P_14_1>
+    <tns:P_15>16520.44</tns:P_15>
+    <tns:P_16>false</tns:P_16>
+    <tns:P_17>false</tns:P_17>
+    <tns:P_18>false</tns:P_18>
+    <tns:P_18A>false</tns:P_18A>
+    <tns:P_19>false</tns:P_19>
+    <tns:P_20>false</tns:P_20>
+    <tns:P_21>false</tns:P_21>
+    <tns:P_22>false</tns:P_22>
+    <tns:P_23>false</tns:P_23>
+    <tns:P_106E_2>false</tns:P_106E_2>
+    <tns:P_106E_3>false</tns:P_106E_3>
+    <tns:RodzajFaktury>VAT</tns:RodzajFaktury>
+  </tns:Faktura>
+
+
+  <tns:FakturaCtrl>
+    <tns:LiczbaFaktur>45</tns:LiczbaFaktur>
+    <tns:WartoscFaktur>1761068.20</tns:WartoscFaktur>
+  </tns:FakturaCtrl>
+
+
+
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>3-09/10/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>1.00000</tns:P_8B>
+    <tns:P_9A>3000.00</tns:P_9A>
+    <tns:P_9B>3690.00</tns:P_9B>
+    <tns:P_11>3000.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>4-09/10/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>1.00000</tns:P_8B>
+    <tns:P_9A>7000.00</tns:P_9A>
+    <tns:P_9B>8610.00</tns:P_9B>
+    <tns:P_11>7000.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-13/10/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>1.00000</tns:P_8B>
+    <tns:P_9A>3774.00</tns:P_9A>
+    <tns:P_9B>4642.02</tns:P_9B>
+    <tns:P_11>3774.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>3-14/10/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>4.75000</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>4750.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>3-14/10/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>55.00000</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>55000.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>3-14/10/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>10.00000</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>10000.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>3-14/10/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>0.75000</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>750.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>3-14/10/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>2.00000</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>2000.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>3-14/10/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>1.50000</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>1500.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>3-14/10/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>2.25000</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>2250.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-15/10/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>1.00000</tns:P_8B>
+    <tns:P_9A>33739.84</tns:P_9A>
+    <tns:P_9B>41500.00</tns:P_9B>
+    <tns:P_11>33739.84</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-15/10/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>1.00000</tns:P_8B>
+    <tns:P_9A>21951.22</tns:P_9A>
+    <tns:P_9B>27000.00</tns:P_9B>
+    <tns:P_11>21951.22</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-15/10/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>1.00000</tns:P_8B>
+    <tns:P_9A>22764.23</tns:P_9A>
+    <tns:P_9B>28000.00</tns:P_9B>
+    <tns:P_11>22764.23</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-15/10/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>1.00000</tns:P_8B>
+    <tns:P_9A>26829.27</tns:P_9A>
+    <tns:P_9B>33000.00</tns:P_9B>
+    <tns:P_11>26829.27</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-15/10/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>1.00000</tns:P_8B>
+    <tns:P_9A>17886.18</tns:P_9A>
+    <tns:P_9B>22000.00</tns:P_9B>
+    <tns:P_11>17886.18</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-15/10/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>1.00000</tns:P_8B>
+    <tns:P_9A>23577.24</tns:P_9A>
+    <tns:P_9B>29000.01</tns:P_9B>
+    <tns:P_11>23577.24</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-15/10/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>1.00000</tns:P_8B>
+    <tns:P_9A>14634.15</tns:P_9A>
+    <tns:P_9B>18000.00</tns:P_9B>
+    <tns:P_11>14634.15</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>2-15/10/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>1.00000</tns:P_8B>
+    <tns:P_9A>31707.32</tns:P_9A>
+    <tns:P_9B>39000.00</tns:P_9B>
+    <tns:P_11>31707.32</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>2-15/10/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>1.00000</tns:P_8B>
+    <tns:P_9A>10000.00</tns:P_9A>
+    <tns:P_9B>12300.00</tns:P_9B>
+    <tns:P_11>10000.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>2-15/10/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>1.00000</tns:P_8B>
+    <tns:P_9A>2032.52</tns:P_9A>
+    <tns:P_9B>2500.00</tns:P_9B>
+    <tns:P_11>2032.52</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>2-15/10/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>1.00000</tns:P_8B>
+    <tns:P_9A>5000.00</tns:P_9A>
+    <tns:P_9B>6150.00</tns:P_9B>
+    <tns:P_11>5000.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>3-15/10/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>24.00000</tns:P_8B>
+    <tns:P_9A>6351.63</tns:P_9A>
+    <tns:P_9B>7812.50</tns:P_9B>
+    <tns:P_11>152439.02</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>3-15/10/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>24.00000</tns:P_8B>
+    <tns:P_9A>406.50</tns:P_9A>
+    <tns:P_9B>500.00</tns:P_9B>
+    <tns:P_11>9756.10</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>3-15/10/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>24.00000</tns:P_8B>
+    <tns:P_9A>406.50</tns:P_9A>
+    <tns:P_9B>500.00</tns:P_9B>
+    <tns:P_11>9756.10</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>3-15/10/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>2.00000</tns:P_8B>
+    <tns:P_9A>406.51</tns:P_9A>
+    <tns:P_9B>500.01</tns:P_9B>
+    <tns:P_11>813.01</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>3-15/10/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>2.00000</tns:P_8B>
+    <tns:P_9A>528.46</tns:P_9A>
+    <tns:P_9B>650.01</tns:P_9B>
+    <tns:P_11>1056.91</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>3-15/10/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>28.00000</tns:P_8B>
+    <tns:P_9A>2.90</tns:P_9A>
+    <tns:P_9B>3.57</tns:P_9B>
+    <tns:P_11>81.30</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>3-15/10/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>24.00000</tns:P_8B>
+    <tns:P_9A>3.39</tns:P_9A>
+    <tns:P_9B>4.17</tns:P_9B>
+    <tns:P_11>81.30</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-16/10/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>1.00000</tns:P_8B>
+    <tns:P_9A>1268.29</tns:P_9A>
+    <tns:P_9B>1560.00</tns:P_9B>
+    <tns:P_11>1268.29</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-05/11/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>1.00000</tns:P_8B>
+    <tns:P_9A>13000.00</tns:P_9A>
+    <tns:P_9B>15990.00</tns:P_9B>
+    <tns:P_11>13000.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>2-05/11/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>1.00000</tns:P_8B>
+    <tns:P_9A>3909.38</tns:P_9A>
+    <tns:P_9B>4808.54</tns:P_9B>
+    <tns:P_11>3909.38</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>3-05/11/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>63.00000</tns:P_8B>
+    <tns:P_9A>280.00</tns:P_9A>
+    <tns:P_9B>344.40</tns:P_9B>
+    <tns:P_11>17640.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-09/11/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>83.63750</tns:P_8B>
+    <tns:P_9A>1250.00</tns:P_9A>
+    <tns:P_9B>1537.50</tns:P_9B>
+    <tns:P_11>99546.88</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-09/11/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>1.00000</tns:P_8B>
+    <tns:P_9A>7840.00</tns:P_9A>
+    <tns:P_9B>9643.20</tns:P_9B>
+    <tns:P_11>7840.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-09/11/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>4.00000</tns:P_8B>
+    <tns:P_9A>1250.00</tns:P_9A>
+    <tns:P_9B>1537.50</tns:P_9B>
+    <tns:P_11>5000.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>2-09/11/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>12.18750</tns:P_8B>
+    <tns:P_9A>1250.00</tns:P_9A>
+    <tns:P_9B>1537.50</tns:P_9B>
+    <tns:P_11>15234.38</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>2-09/11/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>6.50000</tns:P_8B>
+    <tns:P_9A>1250.00</tns:P_9A>
+    <tns:P_9B>1537.50</tns:P_9B>
+    <tns:P_11>8125.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-12/11/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>-0.81250</tns:P_8B>
+    <tns:P_9A>1250.00</tns:P_9A>
+    <tns:P_9B>1537.50</tns:P_9B>
+    <tns:P_11>-1015.62</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-10/11/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>26.47500</tns:P_8B>
+    <tns:P_9A>1250.00</tns:P_9A>
+    <tns:P_9B>1537.50</tns:P_9B>
+    <tns:P_11>33093.75</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>2-10/11/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>1.00000</tns:P_8B>
+    <tns:P_9A>3000.00</tns:P_9A>
+    <tns:P_9B>3690.00</tns:P_9B>
+    <tns:P_11>3000.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>3-10/11/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>1.00000</tns:P_8B>
+    <tns:P_9A>7000.00</tns:P_9A>
+    <tns:P_9B>8610.00</tns:P_9B>
+    <tns:P_11>7000.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-13/11/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>472.93370</tns:P_8B>
+    <tns:P_9A>7.50</tns:P_9A>
+    <tns:P_9B>9.23</tns:P_9B>
+    <tns:P_11>3547.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-17/11/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>1.00000</tns:P_8B>
+    <tns:P_9A>1593.50</tns:P_9A>
+    <tns:P_9B>1960.01</tns:P_9B>
+    <tns:P_11>1593.50</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-25/11/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>8.95125</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>8951.25</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-25/11/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>3.41750</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>3417.50</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-25/11/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>14.56250</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>14562.50</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-25/11/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>1.81250</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>1812.50</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-25/11/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>0.56250</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>562.50</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-25/11/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>1.21875</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>1218.75</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-25/11/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>0.20625</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>206.25</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-25/11/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>3.29875</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>3298.75</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>2-25/11/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>12.77500</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>12775.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>3-25/11/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>18.25000</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>18250.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>3-25/11/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>2.50000</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>2500.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>3-25/11/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>3.00000</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>3000.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>3-25/11/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>2.00000</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>2000.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>3-25/11/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>29.21250</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>29212.50</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>3-25/11/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>30.87125</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>30871.25</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-07/12/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>1.00000</tns:P_8B>
+    <tns:P_9A>13000.00</tns:P_9A>
+    <tns:P_9B>15990.00</tns:P_9B>
+    <tns:P_11>13000.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>2-07/12/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>12.46875</tns:P_8B>
+    <tns:P_9A>1250.00</tns:P_9A>
+    <tns:P_9B>1537.50</tns:P_9B>
+    <tns:P_11>15585.94</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>3-07/12/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>536.86620</tns:P_8B>
+    <tns:P_9A>7.50</tns:P_9A>
+    <tns:P_9B>9.23</tns:P_9B>
+    <tns:P_11>4026.50</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>4-07/12/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>52.00000</tns:P_8B>
+    <tns:P_9A>280.00</tns:P_9A>
+    <tns:P_9B>344.40</tns:P_9B>
+    <tns:P_11>14560.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>5-07/12/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>100.00000</tns:P_8B>
+    <tns:P_9A>280.00</tns:P_9A>
+    <tns:P_9B>344.40</tns:P_9B>
+    <tns:P_11>28000.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>6-07/12/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>1.00000</tns:P_8B>
+    <tns:P_9A>3090.63</tns:P_9A>
+    <tns:P_9B>3801.47</tns:P_9B>
+    <tns:P_11>3090.63</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-09/12/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>78.80000</tns:P_8B>
+    <tns:P_9A>1250.00</tns:P_9A>
+    <tns:P_9B>1537.50</tns:P_9B>
+    <tns:P_11>93500.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-09/12/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>1.00000</tns:P_8B>
+    <tns:P_9A>7840.00</tns:P_9A>
+    <tns:P_9B>9643.20</tns:P_9B>
+    <tns:P_11>7840.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-09/12/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>4.00000</tns:P_8B>
+    <tns:P_9A>1250.00</tns:P_9A>
+    <tns:P_9B>1537.50</tns:P_9B>
+    <tns:P_11>5000.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>2-09/12/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>4.71875</tns:P_8B>
+    <tns:P_9A>1250.00</tns:P_9A>
+    <tns:P_9B>1537.50</tns:P_9B>
+    <tns:P_11>5898.44</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>2-09/12/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>0.93750</tns:P_8B>
+    <tns:P_9A>1250.00</tns:P_9A>
+    <tns:P_9B>1537.50</tns:P_9B>
+    <tns:P_11>1171.88</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-10/12/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>1.00000</tns:P_8B>
+    <tns:P_9A>3000.00</tns:P_9A>
+    <tns:P_9B>3690.00</tns:P_9B>
+    <tns:P_11>3000.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>2-10/12/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>1.00000</tns:P_8B>
+    <tns:P_9A>7000.00</tns:P_9A>
+    <tns:P_9B>8610.00</tns:P_9B>
+    <tns:P_11>7000.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-14/12/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>3.97500</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>3975.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-14/12/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>16.06625</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>16066.25</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-14/12/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>5.69375</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>5693.75</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-14/12/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>0.50000</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>500.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-14/12/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>0.43750</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>437.50</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-14/12/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>0.53125</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>531.25</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-14/12/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>0.03125</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>31.25</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-14/12/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>0.12500</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>125.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-14/12/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>1.56000</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>1560.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>2-14/12/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>13.54375</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>13543.75</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>3-14/12/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>19.00000</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>19000.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>3-14/12/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>15.00000</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>15000.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>3-14/12/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>4.75000</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>4750.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>3-14/12/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>3.46875</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>3468.75</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>3-14/12/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>1.00000</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>1000.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>3-14/12/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>1.87500</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>1875.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>4-14/12/2020</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>41.60000</tns:P_8B>
+    <tns:P_9A>1400.00</tns:P_9A>
+    <tns:P_9B>1722.00</tns:P_9B>
+    <tns:P_11>58240.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-04/01/2021</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>14.65625</tns:P_8B>
+    <tns:P_9A>1250.00</tns:P_9A>
+    <tns:P_9B>1537.50</tns:P_9B>
+    <tns:P_11>18320.31</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-04/01/2021</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>0.87500</tns:P_8B>
+    <tns:P_9A>1250.00</tns:P_9A>
+    <tns:P_9B>1537.50</tns:P_9B>
+    <tns:P_11>1093.75</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>2-04/01/2021</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>1.00000</tns:P_8B>
+    <tns:P_9A>6200.00</tns:P_9A>
+    <tns:P_9B>7626.00</tns:P_9B>
+    <tns:P_11>6200.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>3-04/01/2021</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>95.26250</tns:P_8B>
+    <tns:P_9A>1250.00</tns:P_9A>
+    <tns:P_9B>1537.50</tns:P_9B>
+    <tns:P_11>114078.13</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>3-04/01/2021</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>1.00000</tns:P_8B>
+    <tns:P_9A>7840.00</tns:P_9A>
+    <tns:P_9B>9643.20</tns:P_9B>
+    <tns:P_11>7840.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>3-04/01/2021</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>4.00000</tns:P_8B>
+    <tns:P_9A>1250.00</tns:P_9A>
+    <tns:P_9B>1537.50</tns:P_9B>
+    <tns:P_11>5000.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>4-04/01/2021</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>21.01875</tns:P_8B>
+    <tns:P_9A>1250.00</tns:P_9A>
+    <tns:P_9B>1537.50</tns:P_9B>
+    <tns:P_11>26273.44</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>5-04/01/2021</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>1.00000</tns:P_8B>
+    <tns:P_9A>13000.00</tns:P_9A>
+    <tns:P_9B>15990.00</tns:P_9B>
+    <tns:P_11>13000.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-12/01/2021</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>596.03350</tns:P_8B>
+    <tns:P_9A>7.50</tns:P_9A>
+    <tns:P_9B>9.23</tns:P_9B>
+    <tns:P_11>4470.25</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>2-12/01/2021</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>65.00000</tns:P_8B>
+    <tns:P_9A>280.00</tns:P_9A>
+    <tns:P_9B>344.40</tns:P_9B>
+    <tns:P_11>18200.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-19/01/2021</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>8.68750</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>8687.50</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-19/01/2021</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>10.27750</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>10277.50</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-19/01/2021</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>4.50000</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>4500.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-19/01/2021</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>0.68750</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>687.50</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-19/01/2021</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>2.31250</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>2312.50</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-19/01/2021</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>0.31250</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>312.50</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-19/01/2021</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>0.12500</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>125.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-19/01/2021</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>0.18750</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>187.50</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1-19/01/2021</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>3.74375</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>3743.75</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>2-19/01/2021</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>13.43125</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>13431.25</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+
+  <tns:FakturaWierszCtrl>
+    <tns:LiczbaWierszyFaktur>109</tns:LiczbaWierszyFaktur>
+    <tns:WartoscWierszyFaktur>1431762.77</tns:WartoscWierszyFaktur>
+  </tns:FakturaWierszCtrl>
+
+
+</tns:JPK>
+

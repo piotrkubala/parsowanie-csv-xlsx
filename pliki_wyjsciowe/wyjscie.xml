@@ -1,0 +1,1588 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<JPK>
+    <Faktura>
+        <KodWaluty>zł</KodWaluty>
+        <NazwaOdbiorcy>Firma5 SP. Z O.O.</NazwaOdbiorcy>
+        <NazwaOdbiorcy>UL. FELIKSA RADWAŃSKIEGO 15/1, 30-065 KRAKÓW</NazwaOdbiorcy>
+        <NIP>634-27-26-447</NIP>
+        <DataWystawienia>2020-10-09</DataWystawienia>
+        <DataSprzedaży>2020-10-09</DataSprzedaży>
+        <NumerFaktury>3-09/10/2020</NumerFaktury>
+        <CenaNettoFakturyŁącznie>3 000,00 zł</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>3 690,00 zł</CenaBruttoFakturyŁącznie>
+    </Faktura>
+    <Faktura>
+        <KodWaluty>zł</KodWaluty>
+        <NazwaOdbiorcy>Firma6 SP. Z O.O.</NazwaOdbiorcy>
+        <NazwaOdbiorcy>UL. FELIKSA RADWAŃSKIEGO 15/1, 30-065 KRAKÓW</NazwaOdbiorcy>
+        <NIP>676-247-94-12</NIP>
+        <DataWystawienia>2020-10-09</DataWystawienia>
+        <DataSprzedaży>2020-10-09</DataSprzedaży>
+        <NumerFaktury>4-09/10/2020</NumerFaktury>
+        <CenaNettoFakturyŁącznie>7 000,00 zł</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>8 610,00 zł</CenaBruttoFakturyŁącznie>
+    </Faktura>
+    <Faktura>
+        <KodWaluty>zł</KodWaluty>
+        <NazwaOdbiorcy>Firma10 Sp. z o.o.</NazwaOdbiorcy>
+        <NazwaOdbiorcy>UL. PODGÓRKI TYNIECKIE 91, 30-398 KRAKÓW</NazwaOdbiorcy>
+        <NIP>676-256-68-84</NIP>
+        <DataWystawienia>2020-10-13</DataWystawienia>
+        <DataSprzedaży>2020-10-13</DataSprzedaży>
+        <NumerFaktury>1-13/10/2020</NumerFaktury>
+        <CenaNettoFakturyŁącznie>3 774,00 zł</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>4 642,02 zł</CenaBruttoFakturyŁącznie>
+    </Faktura>
+    <Faktura>
+        <KodWaluty>zł</KodWaluty>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <NazwaOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</NazwaOdbiorcy>
+        <NIP>113-29-95-753 </NIP>
+        <DataWystawienia>2020-10-14</DataWystawienia>
+        <DataSprzedaży>2020-10-14</DataSprzedaży>
+        <NumerFaktury>3-14/10/2020</NumerFaktury>
+        <CenaNettoFakturyŁącznie>76 250,00 zł</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>93 787,50 zł</CenaBruttoFakturyŁącznie>
+    </Faktura>
+    <Faktura>
+        <KodWaluty>zł</KodWaluty>
+        <NazwaOdbiorcy>Firma2</NazwaOdbiorcy>
+        <NazwaOdbiorcy>Ul. Zamkowa 1, 31 – 200 Kraków </NazwaOdbiorcy>
+        <NIP>552-151-68-49</NIP>
+        <DataWystawienia>2020-10-15</DataWystawienia>
+        <DataSprzedaży>2020-10-15</DataSprzedaży>
+        <NumerFaktury>1-15/10/2020</NumerFaktury>
+        <CenaNettoFakturyŁącznie>161 382,11 zł</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>198 500,00 zł</CenaBruttoFakturyŁącznie>
+    </Faktura>
+    <Faktura>
+        <KodWaluty>zł</KodWaluty>
+        <NazwaOdbiorcy>Firma2</NazwaOdbiorcy>
+        <NazwaOdbiorcy>Ul. Zamkowa 1, 31 – 200 Kraków </NazwaOdbiorcy>
+        <NIP>552-151-68-49</NIP>
+        <DataWystawienia>2020-10-15</DataWystawienia>
+        <DataSprzedaży>2020-10-15</DataSprzedaży>
+        <NumerFaktury>2-15/10/2020</NumerFaktury>
+        <CenaNettoFakturyŁącznie>48 739,84 zł</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>59 950,00 zł</CenaBruttoFakturyŁącznie>
+    </Faktura>
+    <Faktura>
+        <KodWaluty>zł</KodWaluty>
+        <NazwaOdbiorcy>Firma2</NazwaOdbiorcy>
+        <NazwaOdbiorcy>Ul. Zamkowa 1, 31 – 200 Kraków </NazwaOdbiorcy>
+        <NIP>552-151-68-49</NIP>
+        <DataWystawienia>2020-10-15</DataWystawienia>
+        <DataSprzedaży>2020-10-15</DataSprzedaży>
+        <NumerFaktury>3-15/10/2020</NumerFaktury>
+        <CenaNettoFakturyŁącznie>173 983,74 zł</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>214 000,00 zł</CenaBruttoFakturyŁącznie>
+    </Faktura>
+    <Faktura>
+        <KodWaluty>zł</KodWaluty>
+        <NazwaOdbiorcy>Firma2</NazwaOdbiorcy>
+        <NazwaOdbiorcy>Ul. Zamkowa 1, 31 – 200 Kraków </NazwaOdbiorcy>
+        <NIP>552-151-68-49</NIP>
+        <DataWystawienia>2020-10-16</DataWystawienia>
+        <DataSprzedaży>2020-10-16</DataSprzedaży>
+        <NumerFaktury>1-16/10/2020</NumerFaktury>
+        <CenaNettoFakturyŁącznie>1 268,29 zł</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>1 560,00 zł</CenaBruttoFakturyŁącznie>
+    </Faktura>
+    <Faktura>
+        <KodWaluty>zł</KodWaluty>
+        <NazwaOdbiorcy>Firma9 SP. Z O.O.</NazwaOdbiorcy>
+        <NazwaOdbiorcy>ul. Dobra 28, 00-344 Warszawa</NazwaOdbiorcy>
+        <NIP>118-16-48-603</NIP>
+        <DataWystawienia>2020-11-05</DataWystawienia>
+        <DataSprzedaży>2020-10-30</DataSprzedaży>
+        <NumerFaktury>1-05/11/2020</NumerFaktury>
+        <CenaNettoFakturyŁącznie>13 000,00 zł</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>15 990,00 zł</CenaBruttoFakturyŁącznie>
+    </Faktura>
+    <Faktura>
+        <KodWaluty>zł</KodWaluty>
+        <NazwaOdbiorcy>Firma3 sp. z o.o.</NazwaOdbiorcy>
+        <NazwaOdbiorcy>ul. Krkusowa 12, 30-123 Kraków</NazwaOdbiorcy>
+        <NIP>675-152-93-71</NIP>
+        <DataWystawienia>2020-11-05</DataWystawienia>
+        <DataSprzedaży>2020-10-30</DataSprzedaży>
+        <NumerFaktury>2-05/11/2020</NumerFaktury>
+        <CenaNettoFakturyŁącznie>3 909,38 zł</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>4 808,54 zł</CenaBruttoFakturyŁącznie>
+    </Faktura>
+    <Faktura>
+        <KodWaluty>zł</KodWaluty>
+        <NazwaOdbiorcy>Firma4</NazwaOdbiorcy>
+        <NazwaOdbiorcy>ul. MICKIEWICZA 1/5, 33-100 TARNÓW</NazwaOdbiorcy>
+        <NIP>873-171-75-73</NIP>
+        <DataWystawienia>2020-11-05</DataWystawienia>
+        <DataSprzedaży>2020-10-30</DataSprzedaży>
+        <NumerFaktury>3-05/11/2020</NumerFaktury>
+        <CenaNettoFakturyŁącznie>17 640,00 zł</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>21 697,20 zł</CenaBruttoFakturyŁącznie>
+    </Faktura>
+    <Faktura>
+        <KodWaluty>zł</KodWaluty>
+        <NazwaOdbiorcy>Firma3 sp. z o.o.</NazwaOdbiorcy>
+        <NazwaOdbiorcy>ul. Krkusowa 12, 30-123 Kraków</NazwaOdbiorcy>
+        <NIP>675-152-93-71</NIP>
+        <DataWystawienia>2020-11-09</DataWystawienia>
+        <DataSprzedaży>2020-10-30</DataSprzedaży>
+        <NumerFaktury>1-09/11/2020</NumerFaktury>
+        <CenaNettoFakturyŁącznie>112 386,88 zł</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>138 235,86 zł</CenaBruttoFakturyŁącznie>
+    </Faktura>
+    <Faktura>
+        <KodWaluty>zł</KodWaluty>
+        <NazwaOdbiorcy>Firma3 sp. z o.o.</NazwaOdbiorcy>
+        <NazwaOdbiorcy>ul. Krkusowa 12, 30-123 Kraków</NazwaOdbiorcy>
+        <NIP>675-152-93-71</NIP>
+        <DataWystawienia>2020-11-09</DataWystawienia>
+        <DataSprzedaży>2020-10-30</DataSprzedaży>
+        <NumerFaktury>2-09/11/2020</NumerFaktury>
+        <CenaNettoFakturyŁącznie>23 359,38 zł</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>28 732,04 zł</CenaBruttoFakturyŁącznie>
+    </Faktura>
+    <Faktura>
+        <KodWaluty>zł</KodWaluty>
+        <NazwaOdbiorcy>Firma3 sp. z o.o.</NazwaOdbiorcy>
+        <NazwaOdbiorcy>ul. Krkusowa 12, 30-123 Kraków</NazwaOdbiorcy>
+        <NIP>675-152-93-71</NIP>
+        <DataWystawienia>2020-11-12</DataWystawienia>
+        <DataSprzedaży>2020-11-12</DataSprzedaży>
+        <NumerFaktury>1-12/11/2020</NumerFaktury>
+        <CenaNettoFakturyŁącznie>-1 015,62 zł</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>-1 249,21 zł</CenaBruttoFakturyŁącznie>
+    </Faktura>
+    <Faktura>
+        <KodWaluty>zł</KodWaluty>
+        <NazwaOdbiorcy>Firma8 Sp. z o.o. sp.k.</NazwaOdbiorcy>
+        <NazwaOdbiorcy>ul. Krkusowa 12, 30-123 Kraków</NazwaOdbiorcy>
+        <NIP>677-00-46-633</NIP>
+        <DataWystawienia>2020-11-10</DataWystawienia>
+        <DataSprzedaży>2020-10-30</DataSprzedaży>
+        <NumerFaktury>1-10/11/2020</NumerFaktury>
+        <CenaNettoFakturyŁącznie>33 093,75 zł</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>40 705,31 zł</CenaBruttoFakturyŁącznie>
+    </Faktura>
+    <Faktura>
+        <KodWaluty>zł</KodWaluty>
+        <NazwaOdbiorcy>Firma5 SP. Z O.O.</NazwaOdbiorcy>
+        <NazwaOdbiorcy>UL. FELIKSA RADWAŃSKIEGO 15/1, 30-065 KRAKÓW</NazwaOdbiorcy>
+        <NIP>634-27-26-447</NIP>
+        <DataWystawienia>2020-11-10</DataWystawienia>
+        <DataSprzedaży>2020-11-10</DataSprzedaży>
+        <NumerFaktury>2-10/11/2020</NumerFaktury>
+        <CenaNettoFakturyŁącznie>3 000,00 zł</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>3 690,00 zł</CenaBruttoFakturyŁącznie>
+    </Faktura>
+    <Faktura>
+        <KodWaluty>zł</KodWaluty>
+        <NazwaOdbiorcy>Firma6 SP. Z O.O.</NazwaOdbiorcy>
+        <NazwaOdbiorcy>UL. FELIKSA RADWAŃSKIEGO 15/1, 30-065 KRAKÓW</NazwaOdbiorcy>
+        <NIP>676-247-94-12</NIP>
+        <DataWystawienia>2020-11-10</DataWystawienia>
+        <DataSprzedaży>2020-11-10</DataSprzedaży>
+        <NumerFaktury>3-10/11/2020</NumerFaktury>
+        <CenaNettoFakturyŁącznie>7 000,00 zł</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>8 610,00 zł</CenaBruttoFakturyŁącznie>
+    </Faktura>
+    <Faktura>
+        <KodWaluty>zł</KodWaluty>
+        <NazwaOdbiorcy>Firma4</NazwaOdbiorcy>
+        <NazwaOdbiorcy>ul. MICKIEWICZA 1/5, 33-100 TARNÓW</NazwaOdbiorcy>
+        <NIP>873-171-75-73</NIP>
+        <DataWystawienia>2020-11-13</DataWystawienia>
+        <DataSprzedaży>2020-10-30</DataSprzedaży>
+        <NumerFaktury>1-13/11/2020</NumerFaktury>
+        <CenaNettoFakturyŁącznie>3 547,00 zł</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>4 362,81 zł</CenaBruttoFakturyŁącznie>
+    </Faktura>
+    <Faktura>
+        <KodWaluty>zł</KodWaluty>
+        <NazwaOdbiorcy>Firma2</NazwaOdbiorcy>
+        <NazwaOdbiorcy>Ul. Zamkowa 1, 31 – 200 Kraków </NazwaOdbiorcy>
+        <NIP>552-151-68-49</NIP>
+        <DataWystawienia>2020-11-17</DataWystawienia>
+        <DataSprzedaży>2020-11-17</DataSprzedaży>
+        <NumerFaktury>1-17/11/2020</NumerFaktury>
+        <CenaNettoFakturyŁącznie>1 593,50 zł</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>1 960,00 zł</CenaBruttoFakturyŁącznie>
+    </Faktura>
+    <Faktura>
+        <KodWaluty>zł</KodWaluty>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <NazwaOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</NazwaOdbiorcy>
+        <NIP>113-29-95-753 </NIP>
+        <DataWystawienia>2020-11-25</DataWystawienia>
+        <DataSprzedaży>2020-10-30</DataSprzedaży>
+        <NumerFaktury>1-25/11/2020</NumerFaktury>
+        <CenaNettoFakturyŁącznie>34 030,00 zł</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>41 856,90 zł</CenaBruttoFakturyŁącznie>
+    </Faktura>
+    <Faktura>
+        <KodWaluty>zł</KodWaluty>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <NazwaOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</NazwaOdbiorcy>
+        <NIP>113-29-95-753 </NIP>
+        <DataWystawienia>2020-11-25</DataWystawienia>
+        <DataSprzedaży>2020-10-30</DataSprzedaży>
+        <NumerFaktury>2-25/11/2020</NumerFaktury>
+        <CenaNettoFakturyŁącznie>12 775,00 zł</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>15 713,25 zł</CenaBruttoFakturyŁącznie>
+    </Faktura>
+    <Faktura>
+        <KodWaluty>ł</KodWaluty>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <NazwaOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</NazwaOdbiorcy>
+        <NIP>113-29-95-753 </NIP>
+        <DataWystawienia>2020-11-25</DataWystawienia>
+        <DataSprzedaży>2020-11-25</DataSprzedaży>
+        <NumerFaktury>3-25/11/2020</NumerFaktury>
+        <CenaNettoFakturyŁącznie>85 833,75 zł</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>105 575,51 zł</CenaBruttoFakturyŁącznie>
+    </Faktura>
+    <Faktura>
+        <KodWaluty>zł</KodWaluty>
+        <NazwaOdbiorcy>Firma9 SP. Z O.O.</NazwaOdbiorcy>
+        <NazwaOdbiorcy>ul. Dobra 28, 00-344 Warszawa</NazwaOdbiorcy>
+        <NIP>118-16-48-603</NIP>
+        <DataWystawienia>2020-12-07</DataWystawienia>
+        <DataSprzedaży>2020-11-30</DataSprzedaży>
+        <NumerFaktury>1-07/12/2020</NumerFaktury>
+        <CenaNettoFakturyŁącznie>13 000,00 zł</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>15 990,00 zł</CenaBruttoFakturyŁącznie>
+    </Faktura>
+    <Faktura>
+        <KodWaluty>zł</KodWaluty>
+        <NazwaOdbiorcy>Firma8 Sp. z o.o. sp.k.</NazwaOdbiorcy>
+        <NazwaOdbiorcy>ul. Krkusowa 12, 30-123 Kraków</NazwaOdbiorcy>
+        <NIP>677-00-46-633</NIP>
+        <DataWystawienia>2020-12-07</DataWystawienia>
+        <DataSprzedaży>2020-11-30</DataSprzedaży>
+        <NumerFaktury>2-07/12/2020</NumerFaktury>
+        <CenaNettoFakturyŁącznie>15 585,94 zł</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>19 170,71 zł</CenaBruttoFakturyŁącznie>
+    </Faktura>
+    <Faktura>
+        <KodWaluty>zł</KodWaluty>
+        <NazwaOdbiorcy>Firma4</NazwaOdbiorcy>
+        <NazwaOdbiorcy>ul. MICKIEWICZA 1/5, 33-100 TARNÓW</NazwaOdbiorcy>
+        <NIP>873-171-75-73</NIP>
+        <DataWystawienia>2020-12-07</DataWystawienia>
+        <DataSprzedaży>2020-11-30</DataSprzedaży>
+        <NumerFaktury>3-07/12/2020</NumerFaktury>
+        <CenaNettoFakturyŁącznie>4 026,50 zł</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>4 952,60 zł</CenaBruttoFakturyŁącznie>
+    </Faktura>
+    <Faktura>
+        <KodWaluty>zł</KodWaluty>
+        <NazwaOdbiorcy>Firma4</NazwaOdbiorcy>
+        <NazwaOdbiorcy>ul. MICKIEWICZA 1/5, 33-100 TARNÓW</NazwaOdbiorcy>
+        <NIP>873-171-75-73</NIP>
+        <DataWystawienia>2020-12-07</DataWystawienia>
+        <DataSprzedaży>2020-11-30</DataSprzedaży>
+        <NumerFaktury>4-07/12/2020</NumerFaktury>
+        <CenaNettoFakturyŁącznie>14 560,00 zł</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>17 908,80 zł</CenaBruttoFakturyŁącznie>
+    </Faktura>
+    <Faktura>
+        <KodWaluty>zł</KodWaluty>
+        <NazwaOdbiorcy>Firma4</NazwaOdbiorcy>
+        <NazwaOdbiorcy>ul. MICKIEWICZA 1/5, 33-100 TARNÓW</NazwaOdbiorcy>
+        <NIP>873-171-75-73</NIP>
+        <DataWystawienia>2020-12-07</DataWystawienia>
+        <DataSprzedaży>2020-11-30</DataSprzedaży>
+        <NumerFaktury>5-07/12/2020</NumerFaktury>
+        <CenaNettoFakturyŁącznie>28 000,00 zł</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>34 440,00 zł</CenaBruttoFakturyŁącznie>
+    </Faktura>
+    <Faktura>
+        <KodWaluty>zł</KodWaluty>
+        <NazwaOdbiorcy>Firma3 sp. z o.o.</NazwaOdbiorcy>
+        <NazwaOdbiorcy>ul. Krkusowa 12, 30-123 Kraków</NazwaOdbiorcy>
+        <NIP>675-152-93-71</NIP>
+        <DataWystawienia>2020-12-07</DataWystawienia>
+        <DataSprzedaży>2020-11-30</DataSprzedaży>
+        <NumerFaktury>6-07/12/2020</NumerFaktury>
+        <CenaNettoFakturyŁącznie>3 090,63 zł</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>3 801,47 zł</CenaBruttoFakturyŁącznie>
+    </Faktura>
+    <Faktura>
+        <KodWaluty>zł</KodWaluty>
+        <NazwaOdbiorcy>Firma3 sp. z o.o.</NazwaOdbiorcy>
+        <NazwaOdbiorcy>ul. Krkusowa 12, 30-123 Kraków</NazwaOdbiorcy>
+        <NIP>675-152-93-71</NIP>
+        <DataWystawienia>2020-12-09</DataWystawienia>
+        <DataSprzedaży>2020-11-30</DataSprzedaży>
+        <NumerFaktury>1-09/12/2020</NumerFaktury>
+        <CenaNettoFakturyŁącznie>106 340,00 zł</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>130 798,20 zł</CenaBruttoFakturyŁącznie>
+    </Faktura>
+    <Faktura>
+        <KodWaluty>zł</KodWaluty>
+        <NazwaOdbiorcy>Firma3 sp. z o.o.</NazwaOdbiorcy>
+        <NazwaOdbiorcy>ul. Krkusowa 12, 30-123 Kraków</NazwaOdbiorcy>
+        <NIP>675-152-93-71</NIP>
+        <DataWystawienia>2020-12-09</DataWystawienia>
+        <DataSprzedaży>2020-11-30</DataSprzedaży>
+        <NumerFaktury>2-09/12/2020</NumerFaktury>
+        <CenaNettoFakturyŁącznie>7 070,32 zł</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>8 696,49 zł</CenaBruttoFakturyŁącznie>
+    </Faktura>
+    <Faktura>
+        <KodWaluty>zł</KodWaluty>
+        <NazwaOdbiorcy>Firma5 SP. Z O.O.</NazwaOdbiorcy>
+        <NazwaOdbiorcy>UL. FELIKSA RADWAŃSKIEGO 15/1, 30-065 KRAKÓW</NazwaOdbiorcy>
+        <NIP>634-27-26-447</NIP>
+        <DataWystawienia>2020-12-10</DataWystawienia>
+        <DataSprzedaży>2020-12-10</DataSprzedaży>
+        <NumerFaktury>1-10/12/2020</NumerFaktury>
+        <CenaNettoFakturyŁącznie>3 000,00 zł</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>3 690,00 zł</CenaBruttoFakturyŁącznie>
+    </Faktura>
+    <Faktura>
+        <KodWaluty>zł</KodWaluty>
+        <NazwaOdbiorcy>Firma6 SP. Z O.O.</NazwaOdbiorcy>
+        <NazwaOdbiorcy>UL. FELIKSA RADWAŃSKIEGO 15/1, 30-065 KRAKÓW</NazwaOdbiorcy>
+        <NIP>676-247-94-12</NIP>
+        <DataWystawienia>2020-12-10</DataWystawienia>
+        <DataSprzedaży>2020-12-10</DataSprzedaży>
+        <NumerFaktury>2-10/12/2020</NumerFaktury>
+        <CenaNettoFakturyŁącznie>7 000,00 zł</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>8 610,00 zł</CenaBruttoFakturyŁącznie>
+    </Faktura>
+    <Faktura>
+        <KodWaluty>zł</KodWaluty>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <NazwaOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</NazwaOdbiorcy>
+        <NIP>113-29-95-753 </NIP>
+        <DataWystawienia>2020-12-14</DataWystawienia>
+        <DataSprzedaży>2020-11-30</DataSprzedaży>
+        <NumerFaktury>1-14/12/2020</NumerFaktury>
+        <CenaNettoFakturyŁącznie>28 920,00 zł</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>35 571,60 zł</CenaBruttoFakturyŁącznie>
+    </Faktura>
+    <Faktura>
+        <KodWaluty>zł</KodWaluty>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <NazwaOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</NazwaOdbiorcy>
+        <NIP>113-29-95-753 </NIP>
+        <DataWystawienia>2020-12-14</DataWystawienia>
+        <DataSprzedaży>2020-11-30</DataSprzedaży>
+        <NumerFaktury>2-14/12/2020</NumerFaktury>
+        <CenaNettoFakturyŁącznie>13 543,75 zł</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>16 658,81 zł</CenaBruttoFakturyŁącznie>
+    </Faktura>
+    <Faktura>
+        <KodWaluty>zł</KodWaluty>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <NazwaOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</NazwaOdbiorcy>
+        <NIP>113-29-95-753 </NIP>
+        <DataWystawienia>2020-12-14</DataWystawienia>
+        <DataSprzedaży>2020-12-14</DataSprzedaży>
+        <NumerFaktury>3-14/12/2020</NumerFaktury>
+        <CenaNettoFakturyŁącznie>45 093,75 zł</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>55 465,31 zł</CenaBruttoFakturyŁącznie>
+    </Faktura>
+    <Faktura>
+        <KodWaluty>zł</KodWaluty>
+        <NazwaOdbiorcy>Firma7 S.A.</NazwaOdbiorcy>
+        <NazwaOdbiorcy>ul. Postępu 18B, 02- 676 Warszawa</NazwaOdbiorcy>
+        <NIP> 531 30 92 922</NIP>
+        <DataWystawienia>2020-12-14</DataWystawienia>
+        <DataSprzedaży>2020-12-14</DataSprzedaży>
+        <NumerFaktury>4-14/12/2020</NumerFaktury>
+        <CenaNettoFakturyŁącznie>58 240,00 zł</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>71 635,20 zł</CenaBruttoFakturyŁącznie>
+    </Faktura>
+    <Faktura>
+        <KodWaluty>zł</KodWaluty>
+        <NazwaOdbiorcy>Firma3 sp. z o.o.</NazwaOdbiorcy>
+        <NazwaOdbiorcy>ul. Krkusowa 12, 30-123 Kraków</NazwaOdbiorcy>
+        <NIP>675-152-93-71</NIP>
+        <DataWystawienia>2021-01-04</DataWystawienia>
+        <DataSprzedaży>2020-12-30</DataSprzedaży>
+        <NumerFaktury>1-04/01/2021</NumerFaktury>
+        <CenaNettoFakturyŁącznie>19 414,06 zł</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>23 879,29 zł</CenaBruttoFakturyŁącznie>
+    </Faktura>
+    <Faktura>
+        <KodWaluty>zł</KodWaluty>
+        <NazwaOdbiorcy>Firma3 sp. z o.o.</NazwaOdbiorcy>
+        <NazwaOdbiorcy>ul. Krkusowa 12, 30-123 Kraków</NazwaOdbiorcy>
+        <NIP>675-152-93-71</NIP>
+        <DataWystawienia>2021-01-04</DataWystawienia>
+        <DataSprzedaży>2020-12-30</DataSprzedaży>
+        <NumerFaktury>2-04/01/2021</NumerFaktury>
+        <CenaNettoFakturyŁącznie>6 200,00 zł</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>7 626,00 zł</CenaBruttoFakturyŁącznie>
+    </Faktura>
+    <Faktura>
+        <KodWaluty>zł</KodWaluty>
+        <NazwaOdbiorcy>Firma3 sp. z o.o.</NazwaOdbiorcy>
+        <NazwaOdbiorcy>ul. Krkusowa 12, 30-123 Kraków</NazwaOdbiorcy>
+        <NIP>675-152-93-71</NIP>
+        <DataWystawienia>2021-01-04</DataWystawienia>
+        <DataSprzedaży>2020-12-30</DataSprzedaży>
+        <NumerFaktury>3-04/01/2021</NumerFaktury>
+        <CenaNettoFakturyŁącznie>126 918,13 zł</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>156 109,30 zł</CenaBruttoFakturyŁącznie>
+    </Faktura>
+    <Faktura>
+        <KodWaluty>zł</KodWaluty>
+        <NazwaOdbiorcy>Firma8 Sp. z o.o. sp.k.</NazwaOdbiorcy>
+        <NazwaOdbiorcy>ul. Krkusowa 12, 30-123 Kraków</NazwaOdbiorcy>
+        <NIP>677-00-46-633</NIP>
+        <DataWystawienia>2021-01-04</DataWystawienia>
+        <DataSprzedaży>2020-12-30</DataSprzedaży>
+        <NumerFaktury>4-04/01/2021</NumerFaktury>
+        <CenaNettoFakturyŁącznie>26 273,44 zł</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>32 316,33 zł</CenaBruttoFakturyŁącznie>
+    </Faktura>
+    <Faktura>
+        <KodWaluty>zł</KodWaluty>
+        <NazwaOdbiorcy>Firma9 SP. Z O.O.</NazwaOdbiorcy>
+        <NazwaOdbiorcy>ul. Dobra 28, 00-344 Warszawa</NazwaOdbiorcy>
+        <NIP>118-16-48-603</NIP>
+        <DataWystawienia>2021-01-04</DataWystawienia>
+        <DataSprzedaży>2020-12-30</DataSprzedaży>
+        <NumerFaktury>5-04/01/2021</NumerFaktury>
+        <CenaNettoFakturyŁącznie>13 000,00 zł</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>15 990,00 zł</CenaBruttoFakturyŁącznie>
+    </Faktura>
+    <Faktura>
+        <KodWaluty>zł</KodWaluty>
+        <NazwaOdbiorcy>Firma4</NazwaOdbiorcy>
+        <NazwaOdbiorcy>ul. MICKIEWICZA 1/5, 33-100 TARNÓW</NazwaOdbiorcy>
+        <NIP>873-171-75-73</NIP>
+        <DataWystawienia>2021-01-12</DataWystawienia>
+        <DataSprzedaży>2020-12-30</DataSprzedaży>
+        <NumerFaktury>1-12/01/2021</NumerFaktury>
+        <CenaNettoFakturyŁącznie>4 470,25 zł</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>5 498,41 zł</CenaBruttoFakturyŁącznie>
+    </Faktura>
+    <Faktura>
+        <KodWaluty>zł</KodWaluty>
+        <NazwaOdbiorcy>Firma4</NazwaOdbiorcy>
+        <NazwaOdbiorcy>ul. MICKIEWICZA 1/5, 33-100 TARNÓW</NazwaOdbiorcy>
+        <NIP>873-171-75-73</NIP>
+        <DataWystawienia>2021-01-12</DataWystawienia>
+        <DataSprzedaży>2020-12-30</DataSprzedaży>
+        <NumerFaktury>2-12/01/2021</NumerFaktury>
+        <CenaNettoFakturyŁącznie>18 200,00 zł</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>22 386,00 zł</CenaBruttoFakturyŁącznie>
+    </Faktura>
+    <Faktura>
+        <KodWaluty>zł</KodWaluty>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <NazwaOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</NazwaOdbiorcy>
+        <NIP>113-29-95-753 </NIP>
+        <DataWystawienia>2021-01-19</DataWystawienia>
+        <DataSprzedaży>2020-12-30</DataSprzedaży>
+        <NumerFaktury>1-19/01/2021</NumerFaktury>
+        <CenaNettoFakturyŁącznie>30 833,75 zł</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>37 925,51 zł</CenaBruttoFakturyŁącznie>
+    </Faktura>
+    <Faktura>
+        <KodWaluty>zł</KodWaluty>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <NazwaOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</NazwaOdbiorcy>
+        <NIP>113-29-95-753 </NIP>
+        <DataWystawienia>2021-01-19</DataWystawienia>
+        <DataSprzedaży>2020-12-30</DataSprzedaży>
+        <NumerFaktury>2-19/01/2021</NumerFaktury>
+        <CenaNettoFakturyŁącznie>13 431,25 zł</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>16 520,44 zł</CenaBruttoFakturyŁącznie>
+    </Faktura>
+    <FakturaCtrl>
+        <LiczbaFaktur>45</LiczbaFaktur>
+        <WartośćFaktur>1761068.2</WartośćFaktur>
+    </FakturaCtrl>
+    <FakturaWiersz>
+        <TytułPozycji>Czynsz z tytułu najmu powierzchni w budynku przy ul. Radwańskiego 15 w Krakowie za Październik 2020</TytułPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>3 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>690,00 zł</KwotaPodatku>
+        <CenaNetto>3 000,00 zł</CenaNetto>
+        <CenaBrutto>3 690,00 zł</CenaBrutto>
+        <NumerFaktury>3-09/10/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Czynsz z tytułu najmu powierzchni w budynku przy ul. Radwańskiego 15 w Krakowie za Październik 2020</TytułPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>7 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>1 610,00 zł</KwotaPodatku>
+        <CenaNetto>7 000,00 zł</CenaNetto>
+        <CenaBrutto>8 610,00 zł</CenaBrutto>
+        <NumerFaktury>4-09/10/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Najem pomieszczeń biurowych, Radwańskiego 15, 1 piętro, 2 miesiące.</TytułPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>3 774,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>868,02 zł</KwotaPodatku>
+        <CenaNetto>3 774,00 zł</CenaNetto>
+        <CenaBrutto>4 642,02 zł</CenaBrutto>
+        <NumerFaktury>1-13/10/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>1. Prace rozwojowe - #68074 : Lista endpointów</TytułPozycji>
+        <LiczbaSztuk>4,75</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>1 092,50 zł</KwotaPodatku>
+        <CenaNetto>4 750,00 zł</CenaNetto>
+        <CenaBrutto>5 842,50 zł</CenaBrutto>
+        <NumerFaktury>3-14/10/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>2. Prace rozwojowe - #67995 : Zlecenie UX - sprint 2</TytułPozycji>
+        <LiczbaSztuk>55</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>12 650,00 zł</KwotaPodatku>
+        <CenaNetto>55 000,00 zł</CenaNetto>
+        <CenaBrutto>67 650,00 zł</CenaBrutto>
+        <NumerFaktury>3-14/10/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>3. Prace rozwojowe - #67996 : Wyszukiwarka z podpowiedziami i Dodatkowa informacja</TytułPozycji>
+        <LiczbaSztuk>10</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>2 300,00 zł</KwotaPodatku>
+        <CenaNetto>10 000,00 zł</CenaNetto>
+        <CenaBrutto>12 300,00 zł</CenaBrutto>
+        <NumerFaktury>3-14/10/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>4. Prace rozwojowe - #67810 : Wysyłka maila do handlowca po wykonaniu zadania weryfikacji dowodu rejestracyjnego</TytułPozycji>
+        <LiczbaSztuk>0,75</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>172,50 zł</KwotaPodatku>
+        <CenaNetto>750,00 zł</CenaNetto>
+        <CenaBrutto>922,50 zł</CenaBrutto>
+        <NumerFaktury>3-14/10/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>5. Prace rozwojowe - #68291 : Modyfikacja parametru obsługi marży</TytułPozycji>
+        <LiczbaSztuk>2</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>460,00 zł</KwotaPodatku>
+        <CenaNetto>2 000,00 zł</CenaNetto>
+        <CenaBrutto>2 460,00 zł</CenaBrutto>
+        <NumerFaktury>3-14/10/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>6. Prace rozwojowe - #68331 : Dołącz do nas - projekt graficzny</TytułPozycji>
+        <LiczbaSztuk>1,5</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>345,00 zł</KwotaPodatku>
+        <CenaNetto>1 500,00 zł</CenaNetto>
+        <CenaBrutto>1 845,00 zł</CenaBrutto>
+        <NumerFaktury>3-14/10/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>7. Prace rozwojowe - #68685 : Zmiany w procesie logistycznym (zagadnienia 1-3)</TytułPozycji>
+        <LiczbaSztuk>2,25</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>517,50 zł</KwotaPodatku>
+        <CenaNetto>2 250,00 zł</CenaNetto>
+        <CenaBrutto>2 767,50 zł</CenaBrutto>
+        <NumerFaktury>3-14/10/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Zakup serwerów oraz komputerów – jednostek centralnych (klienckich), zgodnie z umową nr  1/UD/2020 </TytułPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>33 739,84 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>7 760,16 zł</KwotaPodatku>
+        <CenaNetto>33 739,84 zł</CenaNetto>
+        <CenaBrutto>41 500,00 zł</CenaBrutto>
+        <NumerFaktury>1-15/10/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Zakup drukarki do elektronicznych legitymacji, zgodnie z umową nr  1/UD/2020 </TytułPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>21 951,22 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>5 048,78 zł</KwotaPodatku>
+        <CenaNetto>21 951,22 zł</CenaNetto>
+        <CenaBrutto>27 000,00 zł</CenaBrutto>
+        <NumerFaktury>1-15/10/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Wdrożenie poszczególnych modułów wraz zakupem oprogramowania, zgodnie z umową nr  1/UD/2020 </TytułPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>22 764,23 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>5 235,77 zł</KwotaPodatku>
+        <CenaNetto>22 764,23 zł</CenaNetto>
+        <CenaBrutto>28 000,00 zł</CenaBrutto>
+        <NumerFaktury>1-15/10/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Migracja danych do nowego systemu, zgodnie z umową nr  1/UD/2020 </TytułPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>26 829,27 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>6 170,73 zł</KwotaPodatku>
+        <CenaNetto>26 829,27 zł</CenaNetto>
+        <CenaBrutto>33 000,00 zł</CenaBrutto>
+        <NumerFaktury>1-15/10/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Wdrożenie systemu – oprogramowanie do obsługi systemów, zgodnie z umową nr  1/UD/2020 </TytułPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>17 886,18 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>4 113,82 zł</KwotaPodatku>
+        <CenaNetto>17 886,18 zł</CenaNetto>
+        <CenaBrutto>22 000,00 zł</CenaBrutto>
+        <NumerFaktury>1-15/10/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Szkolenia dla kadry i pracowników wdrażanych komponentów Systemu USOS, zgodnie z umową nr  1/UD/2020 </TytułPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>23 577,24 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>5 422,76 zł</KwotaPodatku>
+        <CenaNetto>23 577,24 zł</CenaNetto>
+        <CenaBrutto>29 000,00 zł</CenaBrutto>
+        <NumerFaktury>1-15/10/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Obsługa administracyjna, zgodnie z umową nr  1/UD/2020 </TytułPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>14 634,15 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>3 365,85 zł</KwotaPodatku>
+        <CenaNetto>14 634,15 zł</CenaNetto>
+        <CenaBrutto>18 000,00 zł</CenaBrutto>
+        <NumerFaktury>1-15/10/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Wdrożenie systemu kształcenia na odległość - unowocześnienie platformy e-learningowej, zgodnie z umową nr 4/UD/2020</TytułPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>31 707,32 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>7 292,68 zł</KwotaPodatku>
+        <CenaNetto>31 707,32 zł</CenaNetto>
+        <CenaBrutto>39 000,00 zł</CenaBrutto>
+        <NumerFaktury>2-15/10/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Wdrożenie systemu kształcenia na odległość – e-learning - szkolenia dla pracowników, zgodnie z umową nr 4/UD/2020</TytułPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>10 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>2 300,00 zł</KwotaPodatku>
+        <CenaNetto>10 000,00 zł</CenaNetto>
+        <CenaBrutto>12 300,00 zł</CenaBrutto>
+        <NumerFaktury>2-15/10/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Wdrożenie systemu kształcenia na odległość - e-learning – serwer wirtualny, zgodnie z umową nr 4/UD/2020</TytułPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>2 032,52 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>467,48 zł</KwotaPodatku>
+        <CenaNetto>2 032,52 zł</CenaNetto>
+        <CenaBrutto>2 500,00 zł</CenaBrutto>
+        <NumerFaktury>2-15/10/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Wdrożenie systemu kształcenia na odległość - e-learning  - implementacja kursów na platformę, zgodnie z umową nr 4/UD/2020</TytułPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>5 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>1 150,00 zł</KwotaPodatku>
+        <CenaNetto>5 000,00 zł</CenaNetto>
+        <CenaBrutto>6 150,00 zł</CenaBrutto>
+        <NumerFaktury>2-15/10/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Komputer wraz z systemem operacyjnym, zgodnie z umową nr 1/PK/2020</TytułPozycji>
+        <LiczbaSztuk>24</LiczbaSztuk>
+        <CenaJednostkowa>6 351,63 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>35 060,98 zł</KwotaPodatku>
+        <CenaNetto>152 439,02 zł</CenaNetto>
+        <CenaBrutto>187 500,00 zł</CenaBrutto>
+        <NumerFaktury>3-15/10/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Oprogramowanie sprzedażowe, zgodnie z umową nr 1/PK/2020</TytułPozycji>
+        <LiczbaSztuk>24</LiczbaSztuk>
+        <CenaJednostkowa>406,50 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>2 243,90 zł</KwotaPodatku>
+        <CenaNetto>9 756,10 zł</CenaNetto>
+        <CenaBrutto>12 000,00 zł</CenaBrutto>
+        <NumerFaktury>3-15/10/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Oprogramowanie finansowo – księgowe, zgodnie z umową nr 1/PK/2020</TytułPozycji>
+        <LiczbaSztuk>24</LiczbaSztuk>
+        <CenaJednostkowa>406,50 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>2 243,90 zł</KwotaPodatku>
+        <CenaNetto>9 756,10 zł</CenaNetto>
+        <CenaBrutto>12 000,00 zł</CenaBrutto>
+        <NumerFaktury>3-15/10/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Router, zgodnie z umową nr 1/PK/2020</TytułPozycji>
+        <LiczbaSztuk>2</LiczbaSztuk>
+        <CenaJednostkowa>406,51 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>186,99 zł</KwotaPodatku>
+        <CenaNetto>813,01 zł</CenaNetto>
+        <CenaBrutto>1 000,00 zł</CenaBrutto>
+        <NumerFaktury>3-15/10/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Switch, zgodnie z umową nr 1/PK/2020</TytułPozycji>
+        <LiczbaSztuk>2</LiczbaSztuk>
+        <CenaJednostkowa>528,46 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>243,09 zł</KwotaPodatku>
+        <CenaNetto>1 056,91 zł</CenaNetto>
+        <CenaBrutto>1 300,00 zł</CenaBrutto>
+        <NumerFaktury>3-15/10/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Okablowanie (2m), zgodnie z umową nr 1/PK/2020</TytułPozycji>
+        <LiczbaSztuk>28</LiczbaSztuk>
+        <CenaJednostkowa>2,90 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>18,70 zł</KwotaPodatku>
+        <CenaNetto>81,30 zł</CenaNetto>
+        <CenaBrutto>100,00 zł</CenaBrutto>
+        <NumerFaktury>3-15/10/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Okablowanie (1,5m), zgodnie z umową nr 1/PK/2020</TytułPozycji>
+        <LiczbaSztuk>24</LiczbaSztuk>
+        <CenaJednostkowa>3,39 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>18,70 zł</KwotaPodatku>
+        <CenaNetto>81,30 zł</CenaNetto>
+        <CenaBrutto>100,00 zł</CenaBrutto>
+        <NumerFaktury>3-15/10/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Informatyczne narzędzia edukacyjne</TytułPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>1 268,29 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>291,71 zł</KwotaPodatku>
+        <CenaNetto>1 268,29 zł</CenaNetto>
+        <CenaBrutto>1 560,00 zł</CenaBrutto>
+        <NumerFaktury>1-16/10/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>NAJEM SERWERA ZA OKRES 10.2020 (SPECYFIKACJA ZGODNA Z UMOWĄ)   </TytułPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>13 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>2 990,00 zł</KwotaPodatku>
+        <CenaNetto>13 000,00 zł</CenaNetto>
+        <CenaBrutto>15 990,00 zł</CenaBrutto>
+        <NumerFaktury>1-05/11/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Zarządzanie infrastrukturą serwerową oraz usługami dla projektu Innovative- ZGODNIE Z RAPORTEM</TytułPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>3 909,38 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>899,16 zł</KwotaPodatku>
+        <CenaNetto>3 909,38 zł</CenaNetto>
+        <CenaBrutto>4 808,54 zł</CenaBrutto>
+        <NumerFaktury>2-05/11/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Urządzenia GPS – terminale/montaż – październik 2020 zgodnie z załącznikiem </TytułPozycji>
+        <LiczbaSztuk>63</LiczbaSztuk>
+        <CenaJednostkowa>280,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>4 057,20 zł</KwotaPodatku>
+        <CenaNetto>17 640,00 zł</CenaNetto>
+        <CenaBrutto>21 697,20 zł</CenaBrutto>
+        <NumerFaktury>3-05/11/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Firma3 - prace projektowe oraz programistyczne związane z rozwojem, zgodne z załącznikiem</TytułPozycji>
+        <LiczbaSztuk>83,6375</LiczbaSztuk>
+        <CenaJednostkowa>1 250,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>22 895,78 zł</KwotaPodatku>
+        <CenaNetto>99 546,88 zł</CenaNetto>
+        <CenaBrutto>122 442,66 zł</CenaBrutto>
+        <NumerFaktury>1-09/11/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Zarządzanie infrastrukturą serwerową oraz usługami dla projektu Firma3 – Premium</TytułPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>7 840,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>1 803,20 zł</KwotaPodatku>
+        <CenaNetto>7 840,00 zł</CenaNetto>
+        <CenaBrutto>9 643,20 zł</CenaBrutto>
+        <NumerFaktury>1-09/11/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Firma3 - prace projektowe oraz programistyczne związane z utrzymaniem i poprawą błędów oraz bieżącymi działaniami,  zgodne z załącznikiem</TytułPozycji>
+        <LiczbaSztuk>4</LiczbaSztuk>
+        <CenaJednostkowa>1 250,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>1 150,00 zł</KwotaPodatku>
+        <CenaNetto>5 000,00 zł</CenaNetto>
+        <CenaBrutto>6 150,00 zł</CenaBrutto>
+        <NumerFaktury>1-09/11/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Innovative - prace projektowe oraz programistyczne związane z rozwojem, zgodnie z załącznikiem</TytułPozycji>
+        <LiczbaSztuk>12,18750</LiczbaSztuk>
+        <CenaJednostkowa>1 250,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>3 503,91 zł</KwotaPodatku>
+        <CenaNetto>15 234,38 zł</CenaNetto>
+        <CenaBrutto>18 738,29 zł</CenaBrutto>
+        <NumerFaktury>2-09/11/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Innovative - prace projektowe oraz programistyczne związane z utrzymaniem i poprawą błędów oraz bieżącymi działaniami,  zgodnie z załącznikiem</TytułPozycji>
+        <LiczbaSztuk>6,50000</LiczbaSztuk>
+        <CenaJednostkowa>1 250,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>1 868,75 zł</KwotaPodatku>
+        <CenaNetto>8 125,00 zł</CenaNetto>
+        <CenaBrutto>9 993,75 zł</CenaBrutto>
+        <NumerFaktury>2-09/11/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Faktura korygująca, korekta dotyczy fv nr 2-09/11/2020 przyczyna korkty błędna kwota w pozycji nr 2 – Różnica do zwrotu - Innovative - prace projektowe oraz programistyczne związane z rozwojem, zgodnie z załącznikiem</TytułPozycji>
+        <LiczbaSztuk>-0,81250</LiczbaSztuk>
+        <CenaJednostkowa>1 250,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>-233,59 zł</KwotaPodatku>
+        <CenaNetto>-1 015,62 zł</CenaNetto>
+        <CenaBrutto>-1 249,21 zł</CenaBrutto>
+        <NumerFaktury>1-12/11/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Firma8 - prace projektowe oraz programistyczne, zgodnie z załącznikiem</TytułPozycji>
+        <LiczbaSztuk>26,47500</LiczbaSztuk>
+        <CenaJednostkowa>1 250,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>7 611,56 zł</KwotaPodatku>
+        <CenaNetto>33 093,75 zł</CenaNetto>
+        <CenaBrutto>40 705,31 zł</CenaBrutto>
+        <NumerFaktury>1-10/11/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Czynsz z tytułu najmu powierzchni w budynku przy ul. Radwańskiego 15 w Krakowie za Listopad 2020</TytułPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>3 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>690,00 zł</KwotaPodatku>
+        <CenaNetto>3 000,00 zł</CenaNetto>
+        <CenaBrutto>3 690,00 zł</CenaBrutto>
+        <NumerFaktury>2-10/11/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Czynsz z tytułu najmu powierzchni w budynku przy ul. Radwańskiego 15 w Krakowie za Listopad 2020</TytułPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>7 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>1 610,00 zł</KwotaPodatku>
+        <CenaNetto>7 000,00 zł</CenaNetto>
+        <CenaBrutto>8 610,00 zł</CenaBrutto>
+        <NumerFaktury>3-10/11/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Abonament – aktywne karty SIM zgodnie z załącznikiem </TytułPozycji>
+        <LiczbaSztuk>472,9337</LiczbaSztuk>
+        <CenaJednostkowa>7,50 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>815,81 zł</KwotaPodatku>
+        <CenaNetto>3 547,00 zł</CenaNetto>
+        <CenaBrutto>4 362,81 zł</CenaBrutto>
+        <NumerFaktury>1-13/11/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Informatyczne narzędzia edukacyjne</TytułPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>1 593,50 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>366,50 zł</KwotaPodatku>
+        <CenaNetto>1 593,50 zł</CenaNetto>
+        <CenaBrutto>1 960,00 zł</CenaBrutto>
+        <NumerFaktury>1-17/11/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Prace związane z utrzymaniem aplikacji Aplikacja sprzedażowa w październiku 2020, zgodnie z załącznikiem</TytułPozycji>
+        <LiczbaSztuk>8,95125</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>2 058,79 zł</KwotaPodatku>
+        <CenaNetto>8 951,25 zł</CenaNetto>
+        <CenaBrutto>11 010,04 zł</CenaBrutto>
+        <NumerFaktury>1-25/11/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Prace związane z utrzymaniem aplikacji Sellcar w październiku 2020, zgodnie z załącznikiem</TytułPozycji>
+        <LiczbaSztuk>3,41750</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>786,03 zł</KwotaPodatku>
+        <CenaNetto>3 417,50 zł</CenaNetto>
+        <CenaBrutto>4 203,53 zł</CenaBrutto>
+        <NumerFaktury>1-25/11/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Prace związane z utrzymaniem systemu Aplikacja GPS w październiku 2020, zgodnie z załącznikiem</TytułPozycji>
+        <LiczbaSztuk>14,56250</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>3 349,38 zł</KwotaPodatku>
+        <CenaNetto>14 562,50 zł</CenaNetto>
+        <CenaBrutto>17 911,88 zł</CenaBrutto>
+        <NumerFaktury>1-25/11/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Prace związane z utrzymaniem systemu Aplikacja ubezpieczeniowa w październiku 2020, zgodnie z załącznikiem</TytułPozycji>
+        <LiczbaSztuk>1,81250</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>416,88 zł</KwotaPodatku>
+        <CenaNetto>1 812,50 zł</CenaNetto>
+        <CenaBrutto>2 229,38 zł</CenaBrutto>
+        <NumerFaktury>1-25/11/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Prace związane z utrzymaniem systemu Aplikacja windykacyjna w październiku 2020, zgodnie z załącznikiem</TytułPozycji>
+        <LiczbaSztuk>0,56250</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>129,38 zł</KwotaPodatku>
+        <CenaNetto>562,50 zł</CenaNetto>
+        <CenaBrutto>691,88 zł</CenaBrutto>
+        <NumerFaktury>1-25/11/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Prace związane z utrzymaniem systemu Ces w październiku 2020, zgodnie z załącznikiem</TytułPozycji>
+        <LiczbaSztuk>1,21875</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>280,31 zł</KwotaPodatku>
+        <CenaNetto>1 218,75 zł</CenaNetto>
+        <CenaBrutto>1 499,06 zł</CenaBrutto>
+        <NumerFaktury>1-25/11/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Prace związane z utrzymaniem usługi eFaktura w październiku 2020, zgodnie z załącznikiem</TytułPozycji>
+        <LiczbaSztuk>0,20625</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>47,44 zł</KwotaPodatku>
+        <CenaNetto>206,25 zł</CenaNetto>
+        <CenaBrutto>253,69 zł</CenaBrutto>
+        <NumerFaktury>1-25/11/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Prace związane z utrzymaniem – wyceny w październiku 2020, zgodnie z załącznikiem</TytułPozycji>
+        <LiczbaSztuk>3,29875</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>758,71 zł</KwotaPodatku>
+        <CenaNetto>3 298,75 zł</CenaNetto>
+        <CenaBrutto>4 057,46 zł</CenaBrutto>
+        <NumerFaktury>1-25/11/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Prace związane z utrzymaniem infrastruktury w październiku 2020, zgodnie z załącznikiem</TytułPozycji>
+        <LiczbaSztuk>12,77500</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>2 938,25 zł</KwotaPodatku>
+        <CenaNetto>12 775,00 zł</CenaNetto>
+        <CenaBrutto>15 713,25 zł</CenaBrutto>
+        <NumerFaktury>2-25/11/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Prace rozwojowe - #68697 : Filtry</TytułPozycji>
+        <LiczbaSztuk>18,25</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>4 197,50 zł</KwotaPodatku>
+        <CenaNetto>18 250,00 zł</CenaNetto>
+        <CenaBrutto>22 447,50 zł</CenaBrutto>
+        <NumerFaktury>3-25/11/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Prace rozwojowe - #69084 :Nowe pop-upy i frame w górnej belce Selltoll</TytułPozycji>
+        <LiczbaSztuk>2,5</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>575,00 zł</KwotaPodatku>
+        <CenaNetto>2 500,00 zł</CenaNetto>
+        <CenaBrutto>3 075,00 zł</CenaBrutto>
+        <NumerFaktury>3-25/11/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Prace rozwojowe - #69169 :Podział ruchu na iframe/zalogowany/anonimowy </TytułPozycji>
+        <LiczbaSztuk>3</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>690,00 zł</KwotaPodatku>
+        <CenaNetto>3 000,00 zł</CenaNetto>
+        <CenaBrutto>3 690,00 zł</CenaBrutto>
+        <NumerFaktury>3-25/11/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Prace rozwojowe - #69401 : Dodatki po audycie UX
+
+</TytułPozycji>
+        <LiczbaSztuk>2</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>460,00 zł</KwotaPodatku>
+        <CenaNetto>2 000,00 zł</CenaNetto>
+        <CenaBrutto>2 460,00 zł</CenaBrutto>
+        <NumerFaktury>3-25/11/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Prace rozwojowe - #50956 : Grupowanie pojazdów - rozliczenie część 2</TytułPozycji>
+        <LiczbaSztuk>29,2125</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>6 718,88 zł</KwotaPodatku>
+        <CenaNetto>29 212,50 zł</CenaNetto>
+        <CenaBrutto>35 931,38 zł</CenaBrutto>
+        <NumerFaktury>3-25/11/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Prace rozwojowe - #60386 : Obsługa pojazdów importowanych – rozliczenie część 2</TytułPozycji>
+        <LiczbaSztuk>30,87125</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>7 100,39 zł</KwotaPodatku>
+        <CenaNetto>30 871,25 zł</CenaNetto>
+        <CenaBrutto>37 971,64 zł</CenaBrutto>
+        <NumerFaktury>3-25/11/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>NAJEM SERWERA ZA OKRES 11.2020 (SPECYFIKACJA ZGODNA Z UMOWĄ)   </TytułPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>13 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>2 990,00 zł</KwotaPodatku>
+        <CenaNetto>13 000,00 zł</CenaNetto>
+        <CenaBrutto>15 990,00 zł</CenaBrutto>
+        <NumerFaktury>1-07/12/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Firma8 - prace projektowe oraz programistyczne, zgodnie z załącznikiem</TytułPozycji>
+        <LiczbaSztuk>12,46875</LiczbaSztuk>
+        <CenaJednostkowa>1 250,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>3 584,77 zł</KwotaPodatku>
+        <CenaNetto>15 585,94 zł</CenaNetto>
+        <CenaBrutto>19 170,71 zł</CenaBrutto>
+        <NumerFaktury>2-07/12/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Abonament – aktywne karty SIM zgodnie z załącznikiem </TytułPozycji>
+        <LiczbaSztuk>536,86620</LiczbaSztuk>
+        <CenaJednostkowa>7,50 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>926,10 zł</KwotaPodatku>
+        <CenaNetto>4 026,50 zł</CenaNetto>
+        <CenaBrutto>4 952,60 zł</CenaBrutto>
+        <NumerFaktury>3-07/12/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Urządzenia GPS – terminale/montaż – listopad 2020 zgodnie z załącznikiem </TytułPozycji>
+        <LiczbaSztuk>52</LiczbaSztuk>
+        <CenaJednostkowa>280,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>3 348,80 zł</KwotaPodatku>
+        <CenaNetto>14 560,00 zł</CenaNetto>
+        <CenaBrutto>17 908,80 zł</CenaBrutto>
+        <NumerFaktury>4-07/12/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Urządzenia GPS – terminale - uzupełnienie stocka urządzeń</TytułPozycji>
+        <LiczbaSztuk>100</LiczbaSztuk>
+        <CenaJednostkowa>280,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>6 440,00 zł</KwotaPodatku>
+        <CenaNetto>28 000,00 zł</CenaNetto>
+        <CenaBrutto>34 440,00 zł</CenaBrutto>
+        <NumerFaktury>5-07/12/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Zarządzanie infrastrukturą serwerową oraz usługami dla projektu Innovative- ZGODNIE Z RAPORTEM</TytułPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>3 090,63 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>710,84 zł</KwotaPodatku>
+        <CenaNetto>3 090,63 zł</CenaNetto>
+        <CenaBrutto>3 801,47 zł</CenaBrutto>
+        <NumerFaktury>6-07/12/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Firma3 - prace projektowe oraz programistyczne związane z rozwojem, zgodne z załącznikiem</TytułPozycji>
+        <LiczbaSztuk>78,8000</LiczbaSztuk>
+        <CenaJednostkowa>1 250,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>21 505,00 zł</KwotaPodatku>
+        <CenaNetto>93 500,00 zł</CenaNetto>
+        <CenaBrutto>115 005,00 zł</CenaBrutto>
+        <NumerFaktury>1-09/12/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Zarządzanie infrastrukturą serwerową oraz usługami dla projektu Firma3 – Premium</TytułPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>7 840,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>1 803,20 zł</KwotaPodatku>
+        <CenaNetto>7 840,00 zł</CenaNetto>
+        <CenaBrutto>9 643,20 zł</CenaBrutto>
+        <NumerFaktury>1-09/12/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Firma3 - prace projektowe oraz programistyczne związane z utrzymaniem i poprawą błędów oraz bieżącymi działaniami,  zgodne z załącznikiem</TytułPozycji>
+        <LiczbaSztuk>4</LiczbaSztuk>
+        <CenaJednostkowa>1 250,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>1 150,00 zł</KwotaPodatku>
+        <CenaNetto>5 000,00 zł</CenaNetto>
+        <CenaBrutto>6 150,00 zł</CenaBrutto>
+        <NumerFaktury>1-09/12/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Innovative - prace projektowe oraz programistyczne związane z rozwojem, zgodnie z załącznikiem</TytułPozycji>
+        <LiczbaSztuk>4,71875</LiczbaSztuk>
+        <CenaJednostkowa>1 250,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>1 356,64 zł</KwotaPodatku>
+        <CenaNetto>5 898,44 zł</CenaNetto>
+        <CenaBrutto>7 255,08 zł</CenaBrutto>
+        <NumerFaktury>2-09/12/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Innovative - prace projektowe oraz programistyczne związane z utrzymaniem i poprawą błędów oraz bieżącymi działaniami,  zgodnie z załącznikiem</TytułPozycji>
+        <LiczbaSztuk>0,93750</LiczbaSztuk>
+        <CenaJednostkowa>1 250,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>269,53 zł</KwotaPodatku>
+        <CenaNetto>1 171,88 zł</CenaNetto>
+        <CenaBrutto>1 441,41 zł</CenaBrutto>
+        <NumerFaktury>2-09/12/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Czynsz z tytułu najmu powierzchni w budynku przy ul. Radwańskiego 15 w Krakowie za Grudzień 2020</TytułPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>3 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>690,00 zł</KwotaPodatku>
+        <CenaNetto>3 000,00 zł</CenaNetto>
+        <CenaBrutto>3 690,00 zł</CenaBrutto>
+        <NumerFaktury>1-10/12/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Czynsz z tytułu najmu powierzchni w budynku przy ul. Radwańskiego 15 w Krakowie za Grudzień 2020</TytułPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>7 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>1 610,00 zł</KwotaPodatku>
+        <CenaNetto>7 000,00 zł</CenaNetto>
+        <CenaBrutto>8 610,00 zł</CenaBrutto>
+        <NumerFaktury>2-10/12/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Prace związane z utrzymaniem aplikacji Aplikacja sprzedażowa w listopadzie 2020, zgodnie z załącznikiem</TytułPozycji>
+        <LiczbaSztuk>3,97500</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>914,25 zł</KwotaPodatku>
+        <CenaNetto>3 975,00 zł</CenaNetto>
+        <CenaBrutto>4 889,25 zł</CenaBrutto>
+        <NumerFaktury>1-14/12/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Prace związane z utrzymaniem aplikacji Sellcar w listopadzie 2020, zgodnie z załącznikiem</TytułPozycji>
+        <LiczbaSztuk>16,06625</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>3 695,24 zł</KwotaPodatku>
+        <CenaNetto>16 066,25 zł</CenaNetto>
+        <CenaBrutto>19 761,49 zł</CenaBrutto>
+        <NumerFaktury>1-14/12/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Prace związane z utrzymaniem systemu Aplikacja GPS w listopadzie 2020, zgodnie z załącznikiem</TytułPozycji>
+        <LiczbaSztuk>5,69375</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>1 309,56 zł</KwotaPodatku>
+        <CenaNetto>5 693,75 zł</CenaNetto>
+        <CenaBrutto>7 003,31 zł</CenaBrutto>
+        <NumerFaktury>1-14/12/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Prace związane z utrzymaniem systemu Aplikacja ubezpieczeniowa w listopadzie 2020, zgodnie z załącznikiem</TytułPozycji>
+        <LiczbaSztuk>0,50000</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>115,00 zł</KwotaPodatku>
+        <CenaNetto>500,00 zł</CenaNetto>
+        <CenaBrutto>615,00 zł</CenaBrutto>
+        <NumerFaktury>1-14/12/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Prace związane z utrzymaniem systemu Aplikacja windykacyjna w listopadzie 2020, zgodnie z załącznikiem</TytułPozycji>
+        <LiczbaSztuk>0,43750</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>100,63 zł</KwotaPodatku>
+        <CenaNetto>437,50 zł</CenaNetto>
+        <CenaBrutto>538,13 zł</CenaBrutto>
+        <NumerFaktury>1-14/12/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Prace związane z utrzymaniem systemu Ces w listopadzie 2020, zgodnie z załącznikiem</TytułPozycji>
+        <LiczbaSztuk>0,53125</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>122,19 zł</KwotaPodatku>
+        <CenaNetto>531,25 zł</CenaNetto>
+        <CenaBrutto>653,44 zł</CenaBrutto>
+        <NumerFaktury>1-14/12/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Prace związane z utrzymaniem usługi eFaktura w listopadzie 2020, zgodnie z załącznikiem</TytułPozycji>
+        <LiczbaSztuk>0,03125</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>7,19 zł</KwotaPodatku>
+        <CenaNetto>31,25 zł</CenaNetto>
+        <CenaBrutto>38,44 zł</CenaBrutto>
+        <NumerFaktury>1-14/12/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Prace związane z utrzymaniem systemu Seyo (Portal Klienta) w listopadzie 2020, zgodnie z załącznikiem</TytułPozycji>
+        <LiczbaSztuk>0,12500</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>28,75 zł</KwotaPodatku>
+        <CenaNetto>125,00 zł</CenaNetto>
+        <CenaBrutto>153,75 zł</CenaBrutto>
+        <NumerFaktury>1-14/12/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Prace związane z utrzymaniem – wyceny w listopadzie 2020, zgodnie z załącznikiem</TytułPozycji>
+        <LiczbaSztuk>1,56000</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>358,80 zł</KwotaPodatku>
+        <CenaNetto>1 560,00 zł</CenaNetto>
+        <CenaBrutto>1 918,80 zł</CenaBrutto>
+        <NumerFaktury>1-14/12/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Prace związane z utrzymaniem infrastruktury w listopadzie 2020, zgodnie z załącznikiem</TytułPozycji>
+        <LiczbaSztuk>13,54375</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>3 115,06 zł</KwotaPodatku>
+        <CenaNetto>13 543,75 zł</CenaNetto>
+        <CenaBrutto>16 658,81 zł</CenaBrutto>
+        <NumerFaktury>2-14/12/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Prace rozwojowe - #70418: SSR</TytułPozycji>
+        <LiczbaSztuk>19</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>4 370,00 zł</KwotaPodatku>
+        <CenaNetto>19 000,00 zł</CenaNetto>
+        <CenaBrutto>23 370,00 zł</CenaBrutto>
+        <NumerFaktury>3-14/12/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Prace rozwojowe - #70713: Wszystkie samochody razem i wartość na kaflu (ograniczony zakres)</TytułPozycji>
+        <LiczbaSztuk>15</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>3 450,00 zł</KwotaPodatku>
+        <CenaNetto>15 000,00 zł</CenaNetto>
+        <CenaBrutto>18 450,00 zł</CenaBrutto>
+        <NumerFaktury>3-14/12/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Prace rozwojowe - #70991: Finansowanie obce</TytułPozycji>
+        <LiczbaSztuk>4,75</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>1 092,50 zł</KwotaPodatku>
+        <CenaNetto>4 750,00 zł</CenaNetto>
+        <CenaBrutto>5 842,50 zł</CenaBrutto>
+        <NumerFaktury>3-14/12/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Prace rozwojowe - #69512: Raport danych klienta na podstawie danych z BIK</TytułPozycji>
+        <LiczbaSztuk>3,46875</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>797,81 zł</KwotaPodatku>
+        <CenaNetto>3 468,75 zł</CenaNetto>
+        <CenaBrutto>4 266,56 zł</CenaBrutto>
+        <NumerFaktury>3-14/12/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Prace rozwojowe - #70916: Zmiana kwoty minimalnej w zalezności od przeznaczenia gotówki</TytułPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>230,00 zł</KwotaPodatku>
+        <CenaNetto>1 000,00 zł</CenaNetto>
+        <CenaBrutto>1 230,00 zł</CenaBrutto>
+        <NumerFaktury>3-14/12/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Prace rozwojowe - #71459: SME</TytułPozycji>
+        <LiczbaSztuk>1,875</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>431,25 zł</KwotaPodatku>
+        <CenaNetto>1 875,00 zł</CenaNetto>
+        <CenaBrutto>2 306,25 zł</CenaBrutto>
+        <NumerFaktury>3-14/12/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>System „Tankuj korzyści” zgodnie ze ZLECENIEM NR 5 z dnia 15.01.2020 – rozliczenie rozszerzeń, zgodnie z załącznikiem</TytułPozycji>
+        <LiczbaSztuk>41,60</LiczbaSztuk>
+        <CenaJednostkowa>1 400,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>13 395,20 zł</KwotaPodatku>
+        <CenaNetto>58 240,00 zł</CenaNetto>
+        <CenaBrutto>71 635,20 zł</CenaBrutto>
+        <NumerFaktury>4-14/12/2020</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Innovative - prace projektowe oraz programistyczne związane z rozwojem, zgodnie z załącznikiem</TytułPozycji>
+        <LiczbaSztuk>14,65625</LiczbaSztuk>
+        <CenaJednostkowa>1 250,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>4 213,67 zł</KwotaPodatku>
+        <CenaNetto>18 320,31 zł</CenaNetto>
+        <CenaBrutto>22 533,98 zł</CenaBrutto>
+        <NumerFaktury>1-04/01/2021</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Innovative - prace projektowe oraz programistyczne związane z utrzymaniem i poprawą błędów oraz bieżącymi działaniami,  zgodnie z załącznikiem</TytułPozycji>
+        <LiczbaSztuk>0,87500</LiczbaSztuk>
+        <CenaJednostkowa>1 250,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>251,56 zł</KwotaPodatku>
+        <CenaNetto>1 093,75 zł</CenaNetto>
+        <CenaBrutto>1 345,31 zł</CenaBrutto>
+        <NumerFaktury>1-04/01/2021</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Zarządzanie infrastrukturą serwerową oraz usługami dla projektu Innovative- ZGODNIE Z RAPORTEM</TytułPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>6 200,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>1 426,00 zł</KwotaPodatku>
+        <CenaNetto>6 200,00 zł</CenaNetto>
+        <CenaBrutto>7 626,00 zł</CenaBrutto>
+        <NumerFaktury>2-04/01/2021</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Firma3 - prace projektowe oraz programistyczne związane z rozwojem, zgodne z załącznikiem</TytułPozycji>
+        <LiczbaSztuk>95,26250</LiczbaSztuk>
+        <CenaJednostkowa>1 250,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>26 237,97 zł</KwotaPodatku>
+        <CenaNetto>114 078,13 zł</CenaNetto>
+        <CenaBrutto>140 316,10 zł</CenaBrutto>
+        <NumerFaktury>3-04/01/2021</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Zarządzanie infrastrukturą serwerową oraz usługami dla projektu Firma3 – Premium</TytułPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>7 840,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>1 803,20 zł</KwotaPodatku>
+        <CenaNetto>7 840,00 zł</CenaNetto>
+        <CenaBrutto>9 643,20 zł</CenaBrutto>
+        <NumerFaktury>3-04/01/2021</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Firma3 - prace projektowe oraz programistyczne związane z utrzymaniem i poprawą błędów oraz bieżącymi działaniami,  zgodne z załącznikiem</TytułPozycji>
+        <LiczbaSztuk>4</LiczbaSztuk>
+        <CenaJednostkowa>1 250,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>1 150,00 zł</KwotaPodatku>
+        <CenaNetto>5 000,00 zł</CenaNetto>
+        <CenaBrutto>6 150,00 zł</CenaBrutto>
+        <NumerFaktury>3-04/01/2021</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Firma8 - prace projektowe oraz programistyczne, zgodnie z załącznikiem</TytułPozycji>
+        <LiczbaSztuk>21,01875</LiczbaSztuk>
+        <CenaJednostkowa>1 250,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>6 042,89 zł</KwotaPodatku>
+        <CenaNetto>26 273,44 zł</CenaNetto>
+        <CenaBrutto>32 316,33 zł</CenaBrutto>
+        <NumerFaktury>4-04/01/2021</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>NAJEM SERWERA ZA OKRES 12.2020 (SPECYFIKACJA ZGODNA Z UMOWĄ)   </TytułPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>13 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>2 990,00 zł</KwotaPodatku>
+        <CenaNetto>13 000,00 zł</CenaNetto>
+        <CenaBrutto>15 990,00 zł</CenaBrutto>
+        <NumerFaktury>5-04/01/2021</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Abonament – aktywne karty SIM zgodnie z załącznikiem </TytułPozycji>
+        <LiczbaSztuk>596,0335</LiczbaSztuk>
+        <CenaJednostkowa>7,50 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>1 028,16</KwotaPodatku>
+        <CenaNetto>4 470,25 zł</CenaNetto>
+        <CenaBrutto>5 498,41 zł</CenaBrutto>
+        <NumerFaktury>1-12/01/2021</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Urządzenia GPS – terminale/montaż – listopad 2020 zgodnie z załącznikiem </TytułPozycji>
+        <LiczbaSztuk>65</LiczbaSztuk>
+        <CenaJednostkowa>280,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>4 186,00 zł</KwotaPodatku>
+        <CenaNetto>18 200,00 zł</CenaNetto>
+        <CenaBrutto>22 386,00 zł</CenaBrutto>
+        <NumerFaktury>2-12/01/2021</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Prace związane z utrzymaniem aplikacji Aplikacja sprzedażowa w grudniu 2020, zgodnie z załącznikiem</TytułPozycji>
+        <LiczbaSztuk>8,68750</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>1 998,13 zł</KwotaPodatku>
+        <CenaNetto>8 687,50 zł</CenaNetto>
+        <CenaBrutto>10 685,63 zł</CenaBrutto>
+        <NumerFaktury>1-19/01/2021</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Prace związane z utrzymaniem aplikacji Sellcar w grudniu 2020, zgodnie z załącznikiem</TytułPozycji>
+        <LiczbaSztuk>10,27750</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>2 363,83 zł</KwotaPodatku>
+        <CenaNetto>10 277,50 zł</CenaNetto>
+        <CenaBrutto>12 641,33 zł</CenaBrutto>
+        <NumerFaktury>1-19/01/2021</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Prace związane z utrzymaniem systemu Aplikacja GPS w grudniu 2020, zgodnie z załącznikiem</TytułPozycji>
+        <LiczbaSztuk>4,50000</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>1 035,00 zł</KwotaPodatku>
+        <CenaNetto>4 500,00 zł</CenaNetto>
+        <CenaBrutto>5 535,00 zł</CenaBrutto>
+        <NumerFaktury>1-19/01/2021</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Prace związane z utrzymaniem systemu Aplikacja ubezpieczeniowa w grudniu 2020, zgodnie z załącznikiem</TytułPozycji>
+        <LiczbaSztuk>0,68750</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>158,13 zł</KwotaPodatku>
+        <CenaNetto>687,50 zł</CenaNetto>
+        <CenaBrutto>845,63 zł</CenaBrutto>
+        <NumerFaktury>1-19/01/2021</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Prace związane z utrzymaniem systemu Aplikacja windykacyjna w grudniu 2020, zgodnie z załącznikiem</TytułPozycji>
+        <LiczbaSztuk>2,31250</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>531,88 zł</KwotaPodatku>
+        <CenaNetto>2 312,50 zł</CenaNetto>
+        <CenaBrutto>2 844,38 zł</CenaBrutto>
+        <NumerFaktury>1-19/01/2021</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Prace związane z utrzymaniem systemu Ces w grudniu 2020, zgodnie z załącznikiem</TytułPozycji>
+        <LiczbaSztuk>0,31250</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>71,88 zł</KwotaPodatku>
+        <CenaNetto>312,50 zł</CenaNetto>
+        <CenaBrutto>384,38 zł</CenaBrutto>
+        <NumerFaktury>1-19/01/2021</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Prace związane z utrzymaniem usługi eFaktura w grudniu 2020, zgodnie z załącznikiem</TytułPozycji>
+        <LiczbaSztuk>0,12500</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>28,75 zł</KwotaPodatku>
+        <CenaNetto>125,00 zł</CenaNetto>
+        <CenaBrutto>153,75 zł</CenaBrutto>
+        <NumerFaktury>1-19/01/2021</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Prace związane z utrzymaniem systemu Seyo (Portal Klienta) w grudniu 2020, zgodnie z załącznikiem</TytułPozycji>
+        <LiczbaSztuk>0,18750</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>43,13 zł</KwotaPodatku>
+        <CenaNetto>187,50 zł</CenaNetto>
+        <CenaBrutto>230,63 zł</CenaBrutto>
+        <NumerFaktury>1-19/01/2021</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Prace związane z utrzymaniem – wyceny w grudniu 2020, zgodnie z załącznikiem</TytułPozycji>
+        <LiczbaSztuk>3,74375</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>861,06 zł</KwotaPodatku>
+        <CenaNetto>3 743,75 zł</CenaNetto>
+        <CenaBrutto>4 604,81 zł</CenaBrutto>
+        <NumerFaktury>1-19/01/2021</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <TytułPozycji>Prace związane z utrzymaniem infrastruktury w grudniu 2020, zgodnie z załącznikiem</TytułPozycji>
+        <LiczbaSztuk>13,43125</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku>23</StawkaPodatku>
+        <KwotaPodatku>3 089,19 zł</KwotaPodatku>
+        <CenaNetto>13 431,25 zł</CenaNetto>
+        <CenaBrutto>16 520,44 zł</CenaBrutto>
+        <NumerFaktury>2-19/01/2021</NumerFaktury>
+    </FakturaWiersz>
+    <FakturaWierszCtrl>
+        <LiczbaWierszyFaktur>108</LiczbaWierszyFaktur>
+        <WartośćWierszyFaktur>1431762.8</WartośćWierszyFaktur>
+    </FakturaWierszCtrl>
+</JPK>
