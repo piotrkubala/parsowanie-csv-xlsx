@@ -3,6 +3,8 @@ pl/edu/agh/kis/pz1/XMLData$FakturaCtrl.class
 pl/edu/agh/kis/pz1/XMLData$FakturaWierszCtrl.class
 pl/edu/agh/kis/pz1/FakturaWiersz.class
 pl/edu/agh/kis/pz1/CSVReader.class
+pl/edu/agh/kis/pz1/IntGroszeAdapter.class
 pl/edu/agh/kis/pz1/XMLData.class
+pl/edu/agh/kis/pz1/ZloteStringAdapter.class
 pl/edu/agh/kis/pz1/XLSXReader.class
 pl/edu/agh/kis/pz1/Faktura.class

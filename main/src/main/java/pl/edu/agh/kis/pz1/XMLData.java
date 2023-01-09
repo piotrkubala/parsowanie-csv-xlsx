@@ -1,6 +1,7 @@
 package pl.edu.agh.kis.pz1;
 
 import javax.xml.bind.annotation.*;
+import javax.xml.bind.annotation.adapters.XmlJavaTypeAdapter;
 import java.util.LinkedList;
 
 @XmlRootElement(name = "JPK")
@@ -17,8 +18,9 @@ public class XMLData {
     static class FakturaCtrl {
         @XmlElement(name = "LiczbaFaktur")
         public int liczbaFaktur;
-        @XmlElement(name = "WartośćFaktur")
-        public float wartoscFaktur;
+        @XmlJavaTypeAdapter(type = String.class, value = IntGroszeAdapter.class)
+        @XmlElement(name = "WartoscFaktur")
+        public Integer wartoscFaktur = 0;
     }
 
     @XmlRootElement(name = "FakturaWierszCtrl")
@@ -26,8 +28,9 @@ public class XMLData {
     static class FakturaWierszCtrl {
         @XmlElement(name = "LiczbaWierszyFaktur")
         public int liczbaWierszyFaktur;
+        @XmlJavaTypeAdapter(type = String.class, value = IntGroszeAdapter.class)
         @XmlElement(name = "WartośćWierszyFaktur")
-        public float wartoscWierszyFaktur;
+        public Integer wartoscWierszyFaktur = 0;
     }
 
     @XmlElement(name = "FakturaCtrl")

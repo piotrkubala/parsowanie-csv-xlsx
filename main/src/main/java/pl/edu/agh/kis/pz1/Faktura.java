@@ -1,6 +1,7 @@
 package pl.edu.agh.kis.pz1;
 
 import javax.xml.bind.annotation.*;
+import javax.xml.bind.annotation.adapters.XmlJavaTypeAdapter;
 
 @XmlRootElement(name = "Faktura")
 @XmlType(propOrder = { "waluta", "nazwaOdbiorcy", "adresOdbiorcy", "NIP", "dataWystawienia", "dataSprzedazy", "nrFaktury", "cenaNettoFakturyLacznie", "cenaBruttoFakturyLacznie" })
@@ -18,16 +19,18 @@ public class Faktura {
     String dataSprzedazy;
     @XmlElement(name = "NumerFaktury")
     String nrFaktury;
+    @XmlJavaTypeAdapter(type = String.class, value = ZloteStringAdapter.class)
     @XmlElement(name = "CenaNettoFakturyŁącznie")
     String cenaNettoFakturyLacznie;
 
     @XmlTransient
-    float cenaNettoFakturyLacznieL;
+    int cenaNettoFakturyLacznieL;
+    @XmlJavaTypeAdapter(type = String.class, value = ZloteStringAdapter.class)
     @XmlElement(name = "CenaBruttoFakturyŁącznie")
     String cenaBruttoFakturyLacznie;
 
     @XmlTransient
-    float cenaBruttoFakturyLacznieL;
+    int cenaBruttoFakturyLacznieL;
 
     @XmlElement(name = "KodWaluty")
     String waluta;
@@ -81,20 +84,20 @@ public class Faktura {
 
     public void setCenaNettoFakturyLacznie(String cenaNettoFakturyLacznie) {
         this.cenaNettoFakturyLacznie = cenaNettoFakturyLacznie;
-        this.cenaNettoFakturyLacznieL = FakturaWiersz.toFloat(cenaNettoFakturyLacznie);
+        this.cenaNettoFakturyLacznieL = FakturaWiersz.toGrosze(cenaNettoFakturyLacznie);
     }
 
     public void setCenaBruttoFakturyLacznie(String cenaBruttoFakturyLacznie) {
         this.cenaBruttoFakturyLacznie = cenaBruttoFakturyLacznie;
         this.waluta = cenaNettoFakturyLacznie.substring(cenaBruttoFakturyLacznie.length() - 2);
-        this.cenaBruttoFakturyLacznieL = FakturaWiersz.toFloat(cenaBruttoFakturyLacznie);
+        this.cenaBruttoFakturyLacznieL = FakturaWiersz.toGrosze(cenaBruttoFakturyLacznie);
     }
 
-    public float getCenaNettoFakturyLacznieL() {
+    public int getCenaNettoFakturyLacznieL() {
         return cenaNettoFakturyLacznieL;
     }
 
-    public float getCenaBruttoFakturyLacznieL() {
+    public int getCenaBruttoFakturyLacznieL() {
         return cenaBruttoFakturyLacznieL;
     }
 }

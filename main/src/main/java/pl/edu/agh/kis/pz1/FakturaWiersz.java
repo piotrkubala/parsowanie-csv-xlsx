@@ -1,6 +1,7 @@
 package pl.edu.agh.kis.pz1;
 
 import javax.xml.bind.annotation.*;
+import javax.xml.bind.annotation.adapters.XmlJavaTypeAdapter;
 
 @XmlRootElement(name = "FakturaWiersz")
 @XmlType(propOrder = { "tytulPozycji", "liczbaSztuk", "cenaJednostkowa", "stawkaPodatku", "kwotaPodatku", "cenaNetto", "cenaBrutto", "nrFaktury" })
@@ -16,22 +17,26 @@ public class FakturaWiersz {
     float cenaJednostkowaL;
     @XmlElement(name = "StawkaPodatku")
     String stawkaPodatku;
+    @XmlJavaTypeAdapter(type = String.class, value = ZloteStringAdapter.class)
     @XmlElement(name = "KwotaPodatku")
     String kwotaPodatku;
+    @XmlJavaTypeAdapter(type = String.class, value = ZloteStringAdapter.class)
     @XmlElement(name = "CenaNetto")
     String cenaNetto;
     @XmlTransient
-    float cenaNettoL;
+    int cenaNettoL;
+    @XmlJavaTypeAdapter(type = String.class, value = ZloteStringAdapter.class)
     @XmlElement(name = "CenaBrutto")
     String cenaBrutto;
+
     @XmlTransient
-    float cenaBruttoL;
+    int cenaBruttoL;
 
     @XmlElement(name = "NumerFaktury")
     String nrFaktury;
 
-    static float toFloat(String kwota) {
-        return Float.parseFloat(kwota.substring(0, kwota.length() - 2).replaceAll("[\\s\\u00A0]+", "").replace(",", "."));
+    static int toGrosze(String kwota) {
+        return Integer.parseInt(kwota.substring(0, kwota.length() - 2).replaceAll("[\\s\\u00A0]+", "").replace(",", ""));
     }
 
     public FakturaWiersz() {
@@ -41,9 +46,9 @@ public class FakturaWiersz {
         stawkaPodatku = "";
         kwotaPodatku = "";
         cenaNetto = "";
-        cenaNettoL = 0.0f;
+        cenaNettoL = 0;
         cenaBrutto = "";
-        cenaBruttoL = 0.0f;
+        cenaBruttoL = 0;
         nrFaktury = "";
     }
 
@@ -68,7 +73,7 @@ public class FakturaWiersz {
 
     public void setCenaJednostkowa(String cenaJednostkowa) {
         this.cenaJednostkowa = cenaJednostkowa;
-        this.cenaJednostkowaL = toFloat(cenaJednostkowa);
+        this.cenaJednostkowaL = toGrosze(cenaJednostkowa);
     }
 
     public void setStawkaPodatku(String stawkaPodatku) {
@@ -81,23 +86,23 @@ public class FakturaWiersz {
 
     public void setCenaNetto(String cenaNetto) {
         this.cenaNetto = cenaNetto;
-        this.cenaNettoL = toFloat(cenaNetto);
+        this.cenaNettoL = toGrosze(cenaNetto);
     }
 
     public void setCenaBrutto(String cenaBrutto) {
         this.cenaBrutto = cenaBrutto;
-        this.cenaBruttoL = toFloat(cenaBrutto);
+        this.cenaBruttoL = toGrosze(cenaBrutto);
     }
 
     public void setNrFaktury(String nrFaktury) {
         this.nrFaktury = nrFaktury;
     }
 
-    public float getCenaNettoL() {
+    public int getCenaNettoL() {
         return cenaNettoL;
     }
 
-    public float getCenaBruttoL() {
+    public int getCenaBruttoL() {
         return cenaBruttoL;
     }
 }

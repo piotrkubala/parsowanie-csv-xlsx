@@ -8,8 +8,8 @@
         <DataWystawienia>2020-10-09</DataWystawienia>
         <DataSprzedaży>2020-10-09</DataSprzedaży>
         <NumerFaktury>3-09/10/2020</NumerFaktury>
-        <CenaNettoFakturyŁącznie>3 000,00 zł</CenaNettoFakturyŁącznie>
-        <CenaBruttoFakturyŁącznie>3 690,00 zł</CenaBruttoFakturyŁącznie>
+        <CenaNettoFakturyŁącznie>3000.00</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>3690.00</CenaBruttoFakturyŁącznie>
     </Faktura>
     <Faktura>
         <KodWaluty>zł</KodWaluty>
@@ -19,8 +19,8 @@
         <DataWystawienia>2020-10-09</DataWystawienia>
         <DataSprzedaży>2020-10-09</DataSprzedaży>
         <NumerFaktury>4-09/10/2020</NumerFaktury>
-        <CenaNettoFakturyŁącznie>7 000,00 zł</CenaNettoFakturyŁącznie>
-        <CenaBruttoFakturyŁącznie>8 610,00 zł</CenaBruttoFakturyŁącznie>
+        <CenaNettoFakturyŁącznie>7000.00</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>8610.00</CenaBruttoFakturyŁącznie>
     </Faktura>
     <Faktura>
         <KodWaluty>zł</KodWaluty>
@@ -30,8 +30,8 @@
         <DataWystawienia>2020-10-13</DataWystawienia>
         <DataSprzedaży>2020-10-13</DataSprzedaży>
         <NumerFaktury>1-13/10/2020</NumerFaktury>
-        <CenaNettoFakturyŁącznie>3 774,00 zł</CenaNettoFakturyŁącznie>
-        <CenaBruttoFakturyŁącznie>4 642,02 zł</CenaBruttoFakturyŁącznie>
+        <CenaNettoFakturyŁącznie>3774.00</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>4642.02</CenaBruttoFakturyŁącznie>
     </Faktura>
     <Faktura>
         <KodWaluty>zł</KodWaluty>
@@ -41,8 +41,8 @@
         <DataWystawienia>2020-10-14</DataWystawienia>
         <DataSprzedaży>2020-10-14</DataSprzedaży>
         <NumerFaktury>3-14/10/2020</NumerFaktury>
-        <CenaNettoFakturyŁącznie>76 250,00 zł</CenaNettoFakturyŁącznie>
-        <CenaBruttoFakturyŁącznie>93 787,50 zł</CenaBruttoFakturyŁącznie>
+        <CenaNettoFakturyŁącznie>76250.00</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>93787.50</CenaBruttoFakturyŁącznie>
     </Faktura>
     <Faktura>
         <KodWaluty>zł</KodWaluty>
@@ -52,8 +52,8 @@
         <DataWystawienia>2020-10-15</DataWystawienia>
         <DataSprzedaży>2020-10-15</DataSprzedaży>
         <NumerFaktury>1-15/10/2020</NumerFaktury>
-        <CenaNettoFakturyŁącznie>161 382,11 zł</CenaNettoFakturyŁącznie>
-        <CenaBruttoFakturyŁącznie>198 500,00 zł</CenaBruttoFakturyŁącznie>
+        <CenaNettoFakturyŁącznie>161382.11</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>198500.00</CenaBruttoFakturyŁącznie>
     </Faktura>
     <Faktura>
         <KodWaluty>zł</KodWaluty>
@@ -63,8 +63,8 @@
         <DataWystawienia>2020-10-15</DataWystawienia>
         <DataSprzedaży>2020-10-15</DataSprzedaży>
         <NumerFaktury>2-15/10/2020</NumerFaktury>
-        <CenaNettoFakturyŁącznie>48 739,84 zł</CenaNettoFakturyŁącznie>
-        <CenaBruttoFakturyŁącznie>59 950,00 zł</CenaBruttoFakturyŁącznie>
+        <CenaNettoFakturyŁącznie>48739.84</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>59950.00</CenaBruttoFakturyŁącznie>
     </Faktura>
     <Faktura>
         <KodWaluty>zł</KodWaluty>
@@ -74,8 +74,8 @@
         <DataWystawienia>2020-10-15</DataWystawienia>
         <DataSprzedaży>2020-10-15</DataSprzedaży>
         <NumerFaktury>3-15/10/2020</NumerFaktury>
-        <CenaNettoFakturyŁącznie>173 983,74 zł</CenaNettoFakturyŁącznie>
-        <CenaBruttoFakturyŁącznie>214 000,00 zł</CenaBruttoFakturyŁącznie>
+        <CenaNettoFakturyŁącznie>173983.74</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>214000.00</CenaBruttoFakturyŁącznie>
     </Faktura>
     <Faktura>
         <KodWaluty>zł</KodWaluty>
@@ -85,8 +85,8 @@
         <DataWystawienia>2020-10-16</DataWystawienia>
         <DataSprzedaży>2020-10-16</DataSprzedaży>
         <NumerFaktury>1-16/10/2020</NumerFaktury>
-        <CenaNettoFakturyŁącznie>1 268,29 zł</CenaNettoFakturyŁącznie>
-        <CenaBruttoFakturyŁącznie>1 560,00 zł</CenaBruttoFakturyŁącznie>
+        <CenaNettoFakturyŁącznie>1268.29</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>1560.00</CenaBruttoFakturyŁącznie>
     </Faktura>
     <Faktura>
         <KodWaluty>zł</KodWaluty>
@@ -96,8 +96,8 @@
         <DataWystawienia>2020-11-05</DataWystawienia>
         <DataSprzedaży>2020-10-30</DataSprzedaży>
         <NumerFaktury>1-05/11/2020</NumerFaktury>
-        <CenaNettoFakturyŁącznie>13 000,00 zł</CenaNettoFakturyŁącznie>
-        <CenaBruttoFakturyŁącznie>15 990,00 zł</CenaBruttoFakturyŁącznie>
+        <CenaNettoFakturyŁącznie>13000.00</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>15990.00</CenaBruttoFakturyŁącznie>
     </Faktura>
     <Faktura>
         <KodWaluty>zł</KodWaluty>
@@ -107,8 +107,8 @@
         <DataWystawienia>2020-11-05</DataWystawienia>
         <DataSprzedaży>2020-10-30</DataSprzedaży>
         <NumerFaktury>2-05/11/2020</NumerFaktury>
-        <CenaNettoFakturyŁącznie>3 909,38 zł</CenaNettoFakturyŁącznie>
-        <CenaBruttoFakturyŁącznie>4 808,54 zł</CenaBruttoFakturyŁącznie>
+        <CenaNettoFakturyŁącznie>3909.38</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>4808.54</CenaBruttoFakturyŁącznie>
     </Faktura>
     <Faktura>
         <KodWaluty>zł</KodWaluty>
@@ -118,8 +118,8 @@
         <DataWystawienia>2020-11-05</DataWystawienia>
         <DataSprzedaży>2020-10-30</DataSprzedaży>
         <NumerFaktury>3-05/11/2020</NumerFaktury>
-        <CenaNettoFakturyŁącznie>17 640,00 zł</CenaNettoFakturyŁącznie>
-        <CenaBruttoFakturyŁącznie>21 697,20 zł</CenaBruttoFakturyŁącznie>
+        <CenaNettoFakturyŁącznie>17640.00</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>21697.20</CenaBruttoFakturyŁącznie>
     </Faktura>
     <Faktura>
         <KodWaluty>zł</KodWaluty>
@@ -129,8 +129,8 @@
         <DataWystawienia>2020-11-09</DataWystawienia>
         <DataSprzedaży>2020-10-30</DataSprzedaży>
         <NumerFaktury>1-09/11/2020</NumerFaktury>
-        <CenaNettoFakturyŁącznie>112 386,88 zł</CenaNettoFakturyŁącznie>
-        <CenaBruttoFakturyŁącznie>138 235,86 zł</CenaBruttoFakturyŁącznie>
+        <CenaNettoFakturyŁącznie>112386.88</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>138235.86</CenaBruttoFakturyŁącznie>
     </Faktura>
     <Faktura>
         <KodWaluty>zł</KodWaluty>
@@ -140,8 +140,8 @@
         <DataWystawienia>2020-11-09</DataWystawienia>
         <DataSprzedaży>2020-10-30</DataSprzedaży>
         <NumerFaktury>2-09/11/2020</NumerFaktury>
-        <CenaNettoFakturyŁącznie>23 359,38 zł</CenaNettoFakturyŁącznie>
-        <CenaBruttoFakturyŁącznie>28 732,04 zł</CenaBruttoFakturyŁącznie>
+        <CenaNettoFakturyŁącznie>23359.38</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>28732.04</CenaBruttoFakturyŁącznie>
     </Faktura>
     <Faktura>
         <KodWaluty>zł</KodWaluty>
@@ -151,8 +151,8 @@
         <DataWystawienia>2020-11-12</DataWystawienia>
         <DataSprzedaży>2020-11-12</DataSprzedaży>
         <NumerFaktury>1-12/11/2020</NumerFaktury>
-        <CenaNettoFakturyŁącznie>-1 015,62 zł</CenaNettoFakturyŁącznie>
-        <CenaBruttoFakturyŁącznie>-1 249,21 zł</CenaBruttoFakturyŁącznie>
+        <CenaNettoFakturyŁącznie>-1015.62</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>-1249.21</CenaBruttoFakturyŁącznie>
     </Faktura>
     <Faktura>
         <KodWaluty>zł</KodWaluty>
@@ -162,8 +162,8 @@
         <DataWystawienia>2020-11-10</DataWystawienia>
         <DataSprzedaży>2020-10-30</DataSprzedaży>
         <NumerFaktury>1-10/11/2020</NumerFaktury>
-        <CenaNettoFakturyŁącznie>33 093,75 zł</CenaNettoFakturyŁącznie>
-        <CenaBruttoFakturyŁącznie>40 705,31 zł</CenaBruttoFakturyŁącznie>
+        <CenaNettoFakturyŁącznie>33093.75</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>40705.31</CenaBruttoFakturyŁącznie>
     </Faktura>
     <Faktura>
         <KodWaluty>zł</KodWaluty>
@@ -173,8 +173,8 @@
         <DataWystawienia>2020-11-10</DataWystawienia>
         <DataSprzedaży>2020-11-10</DataSprzedaży>
         <NumerFaktury>2-10/11/2020</NumerFaktury>
-        <CenaNettoFakturyŁącznie>3 000,00 zł</CenaNettoFakturyŁącznie>
-        <CenaBruttoFakturyŁącznie>3 690,00 zł</CenaBruttoFakturyŁącznie>
+        <CenaNettoFakturyŁącznie>3000.00</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>3690.00</CenaBruttoFakturyŁącznie>
     </Faktura>
     <Faktura>
         <KodWaluty>zł</KodWaluty>
@@ -184,8 +184,8 @@
         <DataWystawienia>2020-11-10</DataWystawienia>
         <DataSprzedaży>2020-11-10</DataSprzedaży>
         <NumerFaktury>3-10/11/2020</NumerFaktury>
-        <CenaNettoFakturyŁącznie>7 000,00 zł</CenaNettoFakturyŁącznie>
-        <CenaBruttoFakturyŁącznie>8 610,00 zł</CenaBruttoFakturyŁącznie>
+        <CenaNettoFakturyŁącznie>7000.00</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>8610.00</CenaBruttoFakturyŁącznie>
     </Faktura>
     <Faktura>
         <KodWaluty>zł</KodWaluty>
@@ -195,8 +195,8 @@
         <DataWystawienia>2020-11-13</DataWystawienia>
         <DataSprzedaży>2020-10-30</DataSprzedaży>
         <NumerFaktury>1-13/11/2020</NumerFaktury>
-        <CenaNettoFakturyŁącznie>3 547,00 zł</CenaNettoFakturyŁącznie>
-        <CenaBruttoFakturyŁącznie>4 362,81 zł</CenaBruttoFakturyŁącznie>
+        <CenaNettoFakturyŁącznie>3547.00</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>4362.81</CenaBruttoFakturyŁącznie>
     </Faktura>
     <Faktura>
         <KodWaluty>zł</KodWaluty>
@@ -206,8 +206,8 @@
         <DataWystawienia>2020-11-17</DataWystawienia>
         <DataSprzedaży>2020-11-17</DataSprzedaży>
         <NumerFaktury>1-17/11/2020</NumerFaktury>
-        <CenaNettoFakturyŁącznie>1 593,50 zł</CenaNettoFakturyŁącznie>
-        <CenaBruttoFakturyŁącznie>1 960,00 zł</CenaBruttoFakturyŁącznie>
+        <CenaNettoFakturyŁącznie>1593.50</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>1960.00</CenaBruttoFakturyŁącznie>
     </Faktura>
     <Faktura>
         <KodWaluty>zł</KodWaluty>
@@ -217,8 +217,8 @@
         <DataWystawienia>2020-11-25</DataWystawienia>
         <DataSprzedaży>2020-10-30</DataSprzedaży>
         <NumerFaktury>1-25/11/2020</NumerFaktury>
-        <CenaNettoFakturyŁącznie>34 030,00 zł</CenaNettoFakturyŁącznie>
-        <CenaBruttoFakturyŁącznie>41 856,90 zł</CenaBruttoFakturyŁącznie>
+        <CenaNettoFakturyŁącznie>34030.00</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>41856.90</CenaBruttoFakturyŁącznie>
     </Faktura>
     <Faktura>
         <KodWaluty>zł</KodWaluty>
@@ -228,8 +228,8 @@
         <DataWystawienia>2020-11-25</DataWystawienia>
         <DataSprzedaży>2020-10-30</DataSprzedaży>
         <NumerFaktury>2-25/11/2020</NumerFaktury>
-        <CenaNettoFakturyŁącznie>12 775,00 zł</CenaNettoFakturyŁącznie>
-        <CenaBruttoFakturyŁącznie>15 713,25 zł</CenaBruttoFakturyŁącznie>
+        <CenaNettoFakturyŁącznie>12775.00</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>15713.25</CenaBruttoFakturyŁącznie>
     </Faktura>
     <Faktura>
         <KodWaluty>ł</KodWaluty>
@@ -239,8 +239,8 @@
         <DataWystawienia>2020-11-25</DataWystawienia>
         <DataSprzedaży>2020-11-25</DataSprzedaży>
         <NumerFaktury>3-25/11/2020</NumerFaktury>
-        <CenaNettoFakturyŁącznie>85 833,75 zł</CenaNettoFakturyŁącznie>
-        <CenaBruttoFakturyŁącznie>105 575,51 zł</CenaBruttoFakturyŁącznie>
+        <CenaNettoFakturyŁącznie>85833.75</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>105575.51</CenaBruttoFakturyŁącznie>
     </Faktura>
     <Faktura>
         <KodWaluty>zł</KodWaluty>
@@ -250,8 +250,8 @@
         <DataWystawienia>2020-12-07</DataWystawienia>
         <DataSprzedaży>2020-11-30</DataSprzedaży>
         <NumerFaktury>1-07/12/2020</NumerFaktury>
-        <CenaNettoFakturyŁącznie>13 000,00 zł</CenaNettoFakturyŁącznie>
-        <CenaBruttoFakturyŁącznie>15 990,00 zł</CenaBruttoFakturyŁącznie>
+        <CenaNettoFakturyŁącznie>13000.00</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>15990.00</CenaBruttoFakturyŁącznie>
     </Faktura>
     <Faktura>
         <KodWaluty>zł</KodWaluty>
@@ -261,8 +261,8 @@
         <DataWystawienia>2020-12-07</DataWystawienia>
         <DataSprzedaży>2020-11-30</DataSprzedaży>
         <NumerFaktury>2-07/12/2020</NumerFaktury>
-        <CenaNettoFakturyŁącznie>15 585,94 zł</CenaNettoFakturyŁącznie>
-        <CenaBruttoFakturyŁącznie>19 170,71 zł</CenaBruttoFakturyŁącznie>
+        <CenaNettoFakturyŁącznie>15585.94</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>19170.71</CenaBruttoFakturyŁącznie>
     </Faktura>
     <Faktura>
         <KodWaluty>zł</KodWaluty>
@@ -272,8 +272,8 @@
         <DataWystawienia>2020-12-07</DataWystawienia>
         <DataSprzedaży>2020-11-30</DataSprzedaży>
         <NumerFaktury>3-07/12/2020</NumerFaktury>
-        <CenaNettoFakturyŁącznie>4 026,50 zł</CenaNettoFakturyŁącznie>
-        <CenaBruttoFakturyŁącznie>4 952,60 zł</CenaBruttoFakturyŁącznie>
+        <CenaNettoFakturyŁącznie>4026.50</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>4952.60</CenaBruttoFakturyŁącznie>
     </Faktura>
     <Faktura>
         <KodWaluty>zł</KodWaluty>
@@ -283,8 +283,8 @@
         <DataWystawienia>2020-12-07</DataWystawienia>
         <DataSprzedaży>2020-11-30</DataSprzedaży>
         <NumerFaktury>4-07/12/2020</NumerFaktury>
-        <CenaNettoFakturyŁącznie>14 560,00 zł</CenaNettoFakturyŁącznie>
-        <CenaBruttoFakturyŁącznie>17 908,80 zł</CenaBruttoFakturyŁącznie>
+        <CenaNettoFakturyŁącznie>14560.00</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>17908.80</CenaBruttoFakturyŁącznie>
     </Faktura>
     <Faktura>
         <KodWaluty>zł</KodWaluty>
@@ -294,8 +294,8 @@
         <DataWystawienia>2020-12-07</DataWystawienia>
         <DataSprzedaży>2020-11-30</DataSprzedaży>
         <NumerFaktury>5-07/12/2020</NumerFaktury>
-        <CenaNettoFakturyŁącznie>28 000,00 zł</CenaNettoFakturyŁącznie>
-        <CenaBruttoFakturyŁącznie>34 440,00 zł</CenaBruttoFakturyŁącznie>
+        <CenaNettoFakturyŁącznie>28000.00</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>34440.00</CenaBruttoFakturyŁącznie>
     </Faktura>
     <Faktura>
         <KodWaluty>zł</KodWaluty>
@@ -305,8 +305,8 @@
         <DataWystawienia>2020-12-07</DataWystawienia>
         <DataSprzedaży>2020-11-30</DataSprzedaży>
         <NumerFaktury>6-07/12/2020</NumerFaktury>
-        <CenaNettoFakturyŁącznie>3 090,63 zł</CenaNettoFakturyŁącznie>
-        <CenaBruttoFakturyŁącznie>3 801,47 zł</CenaBruttoFakturyŁącznie>
+        <CenaNettoFakturyŁącznie>3090.63</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>3801.47</CenaBruttoFakturyŁącznie>
     </Faktura>
     <Faktura>
         <KodWaluty>zł</KodWaluty>
@@ -316,8 +316,8 @@
         <DataWystawienia>2020-12-09</DataWystawienia>
         <DataSprzedaży>2020-11-30</DataSprzedaży>
         <NumerFaktury>1-09/12/2020</NumerFaktury>
-        <CenaNettoFakturyŁącznie>106 340,00 zł</CenaNettoFakturyŁącznie>
-        <CenaBruttoFakturyŁącznie>130 798,20 zł</CenaBruttoFakturyŁącznie>
+        <CenaNettoFakturyŁącznie>106340.00</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>130798.20</CenaBruttoFakturyŁącznie>
     </Faktura>
     <Faktura>
         <KodWaluty>zł</KodWaluty>
@@ -327,8 +327,8 @@
         <DataWystawienia>2020-12-09</DataWystawienia>
         <DataSprzedaży>2020-11-30</DataSprzedaży>
         <NumerFaktury>2-09/12/2020</NumerFaktury>
-        <CenaNettoFakturyŁącznie>7 070,32 zł</CenaNettoFakturyŁącznie>
-        <CenaBruttoFakturyŁącznie>8 696,49 zł</CenaBruttoFakturyŁącznie>
+        <CenaNettoFakturyŁącznie>7070.32</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>8696.49</CenaBruttoFakturyŁącznie>
     </Faktura>
     <Faktura>
         <KodWaluty>zł</KodWaluty>
@@ -338,8 +338,8 @@
         <DataWystawienia>2020-12-10</DataWystawienia>
         <DataSprzedaży>2020-12-10</DataSprzedaży>
         <NumerFaktury>1-10/12/2020</NumerFaktury>
-        <CenaNettoFakturyŁącznie>3 000,00 zł</CenaNettoFakturyŁącznie>
-        <CenaBruttoFakturyŁącznie>3 690,00 zł</CenaBruttoFakturyŁącznie>
+        <CenaNettoFakturyŁącznie>3000.00</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>3690.00</CenaBruttoFakturyŁącznie>
     </Faktura>
     <Faktura>
         <KodWaluty>zł</KodWaluty>
@@ -349,8 +349,8 @@
         <DataWystawienia>2020-12-10</DataWystawienia>
         <DataSprzedaży>2020-12-10</DataSprzedaży>
         <NumerFaktury>2-10/12/2020</NumerFaktury>
-        <CenaNettoFakturyŁącznie>7 000,00 zł</CenaNettoFakturyŁącznie>
-        <CenaBruttoFakturyŁącznie>8 610,00 zł</CenaBruttoFakturyŁącznie>
+        <CenaNettoFakturyŁącznie>7000.00</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>8610.00</CenaBruttoFakturyŁącznie>
     </Faktura>
     <Faktura>
         <KodWaluty>zł</KodWaluty>
@@ -360,8 +360,8 @@
         <DataWystawienia>2020-12-14</DataWystawienia>
         <DataSprzedaży>2020-11-30</DataSprzedaży>
         <NumerFaktury>1-14/12/2020</NumerFaktury>
-        <CenaNettoFakturyŁącznie>28 920,00 zł</CenaNettoFakturyŁącznie>
-        <CenaBruttoFakturyŁącznie>35 571,60 zł</CenaBruttoFakturyŁącznie>
+        <CenaNettoFakturyŁącznie>28920.00</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>35571.60</CenaBruttoFakturyŁącznie>
     </Faktura>
     <Faktura>
         <KodWaluty>zł</KodWaluty>
@@ -371,8 +371,8 @@
         <DataWystawienia>2020-12-14</DataWystawienia>
         <DataSprzedaży>2020-11-30</DataSprzedaży>
         <NumerFaktury>2-14/12/2020</NumerFaktury>
-        <CenaNettoFakturyŁącznie>13 543,75 zł</CenaNettoFakturyŁącznie>
-        <CenaBruttoFakturyŁącznie>16 658,81 zł</CenaBruttoFakturyŁącznie>
+        <CenaNettoFakturyŁącznie>13543.75</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>16658.81</CenaBruttoFakturyŁącznie>
     </Faktura>
     <Faktura>
         <KodWaluty>zł</KodWaluty>
@@ -382,8 +382,8 @@
         <DataWystawienia>2020-12-14</DataWystawienia>
         <DataSprzedaży>2020-12-14</DataSprzedaży>
         <NumerFaktury>3-14/12/2020</NumerFaktury>
-        <CenaNettoFakturyŁącznie>45 093,75 zł</CenaNettoFakturyŁącznie>
-        <CenaBruttoFakturyŁącznie>55 465,31 zł</CenaBruttoFakturyŁącznie>
+        <CenaNettoFakturyŁącznie>45093.75</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>55465.31</CenaBruttoFakturyŁącznie>
     </Faktura>
     <Faktura>
         <KodWaluty>zł</KodWaluty>
@@ -393,8 +393,8 @@
         <DataWystawienia>2020-12-14</DataWystawienia>
         <DataSprzedaży>2020-12-14</DataSprzedaży>
         <NumerFaktury>4-14/12/2020</NumerFaktury>
-        <CenaNettoFakturyŁącznie>58 240,00 zł</CenaNettoFakturyŁącznie>
-        <CenaBruttoFakturyŁącznie>71 635,20 zł</CenaBruttoFakturyŁącznie>
+        <CenaNettoFakturyŁącznie>58240.00</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>71635.20</CenaBruttoFakturyŁącznie>
     </Faktura>
     <Faktura>
         <KodWaluty>zł</KodWaluty>
@@ -404,8 +404,8 @@
         <DataWystawienia>2021-01-04</DataWystawienia>
         <DataSprzedaży>2020-12-30</DataSprzedaży>
         <NumerFaktury>1-04/01/2021</NumerFaktury>
-        <CenaNettoFakturyŁącznie>19 414,06 zł</CenaNettoFakturyŁącznie>
-        <CenaBruttoFakturyŁącznie>23 879,29 zł</CenaBruttoFakturyŁącznie>
+        <CenaNettoFakturyŁącznie>19414.06</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>23879.29</CenaBruttoFakturyŁącznie>
     </Faktura>
     <Faktura>
         <KodWaluty>zł</KodWaluty>
@@ -415,8 +415,8 @@
         <DataWystawienia>2021-01-04</DataWystawienia>
         <DataSprzedaży>2020-12-30</DataSprzedaży>
         <NumerFaktury>2-04/01/2021</NumerFaktury>
-        <CenaNettoFakturyŁącznie>6 200,00 zł</CenaNettoFakturyŁącznie>
-        <CenaBruttoFakturyŁącznie>7 626,00 zł</CenaBruttoFakturyŁącznie>
+        <CenaNettoFakturyŁącznie>6200.00</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>7626.00</CenaBruttoFakturyŁącznie>
     </Faktura>
     <Faktura>
         <KodWaluty>zł</KodWaluty>
@@ -426,8 +426,8 @@
         <DataWystawienia>2021-01-04</DataWystawienia>
         <DataSprzedaży>2020-12-30</DataSprzedaży>
         <NumerFaktury>3-04/01/2021</NumerFaktury>
-        <CenaNettoFakturyŁącznie>126 918,13 zł</CenaNettoFakturyŁącznie>
-        <CenaBruttoFakturyŁącznie>156 109,30 zł</CenaBruttoFakturyŁącznie>
+        <CenaNettoFakturyŁącznie>126918.13</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>156109.30</CenaBruttoFakturyŁącznie>
     </Faktura>
     <Faktura>
         <KodWaluty>zł</KodWaluty>
@@ -437,8 +437,8 @@
         <DataWystawienia>2021-01-04</DataWystawienia>
         <DataSprzedaży>2020-12-30</DataSprzedaży>
         <NumerFaktury>4-04/01/2021</NumerFaktury>
-        <CenaNettoFakturyŁącznie>26 273,44 zł</CenaNettoFakturyŁącznie>
-        <CenaBruttoFakturyŁącznie>32 316,33 zł</CenaBruttoFakturyŁącznie>
+        <CenaNettoFakturyŁącznie>26273.44</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>32316.33</CenaBruttoFakturyŁącznie>
     </Faktura>
     <Faktura>
         <KodWaluty>zł</KodWaluty>
@@ -448,8 +448,8 @@
         <DataWystawienia>2021-01-04</DataWystawienia>
         <DataSprzedaży>2020-12-30</DataSprzedaży>
         <NumerFaktury>5-04/01/2021</NumerFaktury>
-        <CenaNettoFakturyŁącznie>13 000,00 zł</CenaNettoFakturyŁącznie>
-        <CenaBruttoFakturyŁącznie>15 990,00 zł</CenaBruttoFakturyŁącznie>
+        <CenaNettoFakturyŁącznie>13000.00</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>15990.00</CenaBruttoFakturyŁącznie>
     </Faktura>
     <Faktura>
         <KodWaluty>zł</KodWaluty>
@@ -459,8 +459,8 @@
         <DataWystawienia>2021-01-12</DataWystawienia>
         <DataSprzedaży>2020-12-30</DataSprzedaży>
         <NumerFaktury>1-12/01/2021</NumerFaktury>
-        <CenaNettoFakturyŁącznie>4 470,25 zł</CenaNettoFakturyŁącznie>
-        <CenaBruttoFakturyŁącznie>5 498,41 zł</CenaBruttoFakturyŁącznie>
+        <CenaNettoFakturyŁącznie>4470.25</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>5498.41</CenaBruttoFakturyŁącznie>
     </Faktura>
     <Faktura>
         <KodWaluty>zł</KodWaluty>
@@ -470,8 +470,8 @@
         <DataWystawienia>2021-01-12</DataWystawienia>
         <DataSprzedaży>2020-12-30</DataSprzedaży>
         <NumerFaktury>2-12/01/2021</NumerFaktury>
-        <CenaNettoFakturyŁącznie>18 200,00 zł</CenaNettoFakturyŁącznie>
-        <CenaBruttoFakturyŁącznie>22 386,00 zł</CenaBruttoFakturyŁącznie>
+        <CenaNettoFakturyŁącznie>18200.00</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>22386.00</CenaBruttoFakturyŁącznie>
     </Faktura>
     <Faktura>
         <KodWaluty>zł</KodWaluty>
@@ -481,8 +481,8 @@
         <DataWystawienia>2021-01-19</DataWystawienia>
         <DataSprzedaży>2020-12-30</DataSprzedaży>
         <NumerFaktury>1-19/01/2021</NumerFaktury>
-        <CenaNettoFakturyŁącznie>30 833,75 zł</CenaNettoFakturyŁącznie>
-        <CenaBruttoFakturyŁącznie>37 925,51 zł</CenaBruttoFakturyŁącznie>
+        <CenaNettoFakturyŁącznie>30833.75</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>37925.51</CenaBruttoFakturyŁącznie>
     </Faktura>
     <Faktura>
         <KodWaluty>zł</KodWaluty>
@@ -492,21 +492,21 @@
         <DataWystawienia>2021-01-19</DataWystawienia>
         <DataSprzedaży>2020-12-30</DataSprzedaży>
         <NumerFaktury>2-19/01/2021</NumerFaktury>
-        <CenaNettoFakturyŁącznie>13 431,25 zł</CenaNettoFakturyŁącznie>
-        <CenaBruttoFakturyŁącznie>16 520,44 zł</CenaBruttoFakturyŁącznie>
+        <CenaNettoFakturyŁącznie>13431.25</CenaNettoFakturyŁącznie>
+        <CenaBruttoFakturyŁącznie>16520.44</CenaBruttoFakturyŁącznie>
     </Faktura>
     <FakturaCtrl>
         <LiczbaFaktur>45</LiczbaFaktur>
-        <WartośćFaktur>1761068.2</WartośćFaktur>
+        <WartoscFaktur>1761068.20</WartoscFaktur>
     </FakturaCtrl>
     <FakturaWiersz>
         <TytułPozycji>Czynsz z tytułu najmu powierzchni w budynku przy ul. Radwańskiego 15 w Krakowie za Październik 2020</TytułPozycji>
         <LiczbaSztuk>1</LiczbaSztuk>
         <CenaJednostkowa>3 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>690,00 zł</KwotaPodatku>
-        <CenaNetto>3 000,00 zł</CenaNetto>
-        <CenaBrutto>3 690,00 zł</CenaBrutto>
+        <KwotaPodatku>690.00</KwotaPodatku>
+        <CenaNetto>3000.00</CenaNetto>
+        <CenaBrutto>3690.00</CenaBrutto>
         <NumerFaktury>3-09/10/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -514,9 +514,9 @@
         <LiczbaSztuk>1</LiczbaSztuk>
         <CenaJednostkowa>7 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>1 610,00 zł</KwotaPodatku>
-        <CenaNetto>7 000,00 zł</CenaNetto>
-        <CenaBrutto>8 610,00 zł</CenaBrutto>
+        <KwotaPodatku>1610.00</KwotaPodatku>
+        <CenaNetto>7000.00</CenaNetto>
+        <CenaBrutto>8610.00</CenaBrutto>
         <NumerFaktury>4-09/10/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -524,9 +524,9 @@
         <LiczbaSztuk>1</LiczbaSztuk>
         <CenaJednostkowa>3 774,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>868,02 zł</KwotaPodatku>
-        <CenaNetto>3 774,00 zł</CenaNetto>
-        <CenaBrutto>4 642,02 zł</CenaBrutto>
+        <KwotaPodatku>868.02</KwotaPodatku>
+        <CenaNetto>3774.00</CenaNetto>
+        <CenaBrutto>4642.02</CenaBrutto>
         <NumerFaktury>1-13/10/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -534,9 +534,9 @@
         <LiczbaSztuk>4,75</LiczbaSztuk>
         <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>1 092,50 zł</KwotaPodatku>
-        <CenaNetto>4 750,00 zł</CenaNetto>
-        <CenaBrutto>5 842,50 zł</CenaBrutto>
+        <KwotaPodatku>1092.50</KwotaPodatku>
+        <CenaNetto>4750.00</CenaNetto>
+        <CenaBrutto>5842.50</CenaBrutto>
         <NumerFaktury>3-14/10/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -544,9 +544,9 @@
         <LiczbaSztuk>55</LiczbaSztuk>
         <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>12 650,00 zł</KwotaPodatku>
-        <CenaNetto>55 000,00 zł</CenaNetto>
-        <CenaBrutto>67 650,00 zł</CenaBrutto>
+        <KwotaPodatku>12650.00</KwotaPodatku>
+        <CenaNetto>55000.00</CenaNetto>
+        <CenaBrutto>67650.00</CenaBrutto>
         <NumerFaktury>3-14/10/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -554,9 +554,9 @@
         <LiczbaSztuk>10</LiczbaSztuk>
         <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>2 300,00 zł</KwotaPodatku>
-        <CenaNetto>10 000,00 zł</CenaNetto>
-        <CenaBrutto>12 300,00 zł</CenaBrutto>
+        <KwotaPodatku>2300.00</KwotaPodatku>
+        <CenaNetto>10000.00</CenaNetto>
+        <CenaBrutto>12300.00</CenaBrutto>
         <NumerFaktury>3-14/10/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -564,9 +564,9 @@
         <LiczbaSztuk>0,75</LiczbaSztuk>
         <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>172,50 zł</KwotaPodatku>
-        <CenaNetto>750,00 zł</CenaNetto>
-        <CenaBrutto>922,50 zł</CenaBrutto>
+        <KwotaPodatku>172.50</KwotaPodatku>
+        <CenaNetto>750.00</CenaNetto>
+        <CenaBrutto>922.50</CenaBrutto>
         <NumerFaktury>3-14/10/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -574,9 +574,9 @@
         <LiczbaSztuk>2</LiczbaSztuk>
         <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>460,00 zł</KwotaPodatku>
-        <CenaNetto>2 000,00 zł</CenaNetto>
-        <CenaBrutto>2 460,00 zł</CenaBrutto>
+        <KwotaPodatku>460.00</KwotaPodatku>
+        <CenaNetto>2000.00</CenaNetto>
+        <CenaBrutto>2460.00</CenaBrutto>
         <NumerFaktury>3-14/10/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -584,9 +584,9 @@
         <LiczbaSztuk>1,5</LiczbaSztuk>
         <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>345,00 zł</KwotaPodatku>
-        <CenaNetto>1 500,00 zł</CenaNetto>
-        <CenaBrutto>1 845,00 zł</CenaBrutto>
+        <KwotaPodatku>345.00</KwotaPodatku>
+        <CenaNetto>1500.00</CenaNetto>
+        <CenaBrutto>1845.00</CenaBrutto>
         <NumerFaktury>3-14/10/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -594,9 +594,9 @@
         <LiczbaSztuk>2,25</LiczbaSztuk>
         <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>517,50 zł</KwotaPodatku>
-        <CenaNetto>2 250,00 zł</CenaNetto>
-        <CenaBrutto>2 767,50 zł</CenaBrutto>
+        <KwotaPodatku>517.50</KwotaPodatku>
+        <CenaNetto>2250.00</CenaNetto>
+        <CenaBrutto>2767.50</CenaBrutto>
         <NumerFaktury>3-14/10/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -604,9 +604,9 @@
         <LiczbaSztuk>1</LiczbaSztuk>
         <CenaJednostkowa>33 739,84 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>7 760,16 zł</KwotaPodatku>
-        <CenaNetto>33 739,84 zł</CenaNetto>
-        <CenaBrutto>41 500,00 zł</CenaBrutto>
+        <KwotaPodatku>7760.16</KwotaPodatku>
+        <CenaNetto>33739.84</CenaNetto>
+        <CenaBrutto>41500.00</CenaBrutto>
         <NumerFaktury>1-15/10/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -614,9 +614,9 @@
         <LiczbaSztuk>1</LiczbaSztuk>
         <CenaJednostkowa>21 951,22 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>5 048,78 zł</KwotaPodatku>
-        <CenaNetto>21 951,22 zł</CenaNetto>
-        <CenaBrutto>27 000,00 zł</CenaBrutto>
+        <KwotaPodatku>5048.78</KwotaPodatku>
+        <CenaNetto>21951.22</CenaNetto>
+        <CenaBrutto>27000.00</CenaBrutto>
         <NumerFaktury>1-15/10/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -624,9 +624,9 @@
         <LiczbaSztuk>1</LiczbaSztuk>
         <CenaJednostkowa>22 764,23 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>5 235,77 zł</KwotaPodatku>
-        <CenaNetto>22 764,23 zł</CenaNetto>
-        <CenaBrutto>28 000,00 zł</CenaBrutto>
+        <KwotaPodatku>5235.77</KwotaPodatku>
+        <CenaNetto>22764.23</CenaNetto>
+        <CenaBrutto>28000.00</CenaBrutto>
         <NumerFaktury>1-15/10/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -634,9 +634,9 @@
         <LiczbaSztuk>1</LiczbaSztuk>
         <CenaJednostkowa>26 829,27 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>6 170,73 zł</KwotaPodatku>
-        <CenaNetto>26 829,27 zł</CenaNetto>
-        <CenaBrutto>33 000,00 zł</CenaBrutto>
+        <KwotaPodatku>6170.73</KwotaPodatku>
+        <CenaNetto>26829.27</CenaNetto>
+        <CenaBrutto>33000.00</CenaBrutto>
         <NumerFaktury>1-15/10/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -644,9 +644,9 @@
         <LiczbaSztuk>1</LiczbaSztuk>
         <CenaJednostkowa>17 886,18 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>4 113,82 zł</KwotaPodatku>
-        <CenaNetto>17 886,18 zł</CenaNetto>
-        <CenaBrutto>22 000,00 zł</CenaBrutto>
+        <KwotaPodatku>4113.82</KwotaPodatku>
+        <CenaNetto>17886.18</CenaNetto>
+        <CenaBrutto>22000.00</CenaBrutto>
         <NumerFaktury>1-15/10/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -654,9 +654,9 @@
         <LiczbaSztuk>1</LiczbaSztuk>
         <CenaJednostkowa>23 577,24 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>5 422,76 zł</KwotaPodatku>
-        <CenaNetto>23 577,24 zł</CenaNetto>
-        <CenaBrutto>29 000,00 zł</CenaBrutto>
+        <KwotaPodatku>5422.76</KwotaPodatku>
+        <CenaNetto>23577.24</CenaNetto>
+        <CenaBrutto>29000.00</CenaBrutto>
         <NumerFaktury>1-15/10/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -664,9 +664,9 @@
         <LiczbaSztuk>1</LiczbaSztuk>
         <CenaJednostkowa>14 634,15 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>3 365,85 zł</KwotaPodatku>
-        <CenaNetto>14 634,15 zł</CenaNetto>
-        <CenaBrutto>18 000,00 zł</CenaBrutto>
+        <KwotaPodatku>3365.85</KwotaPodatku>
+        <CenaNetto>14634.15</CenaNetto>
+        <CenaBrutto>18000.00</CenaBrutto>
         <NumerFaktury>1-15/10/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -674,9 +674,9 @@
         <LiczbaSztuk>1</LiczbaSztuk>
         <CenaJednostkowa>31 707,32 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>7 292,68 zł</KwotaPodatku>
-        <CenaNetto>31 707,32 zł</CenaNetto>
-        <CenaBrutto>39 000,00 zł</CenaBrutto>
+        <KwotaPodatku>7292.68</KwotaPodatku>
+        <CenaNetto>31707.32</CenaNetto>
+        <CenaBrutto>39000.00</CenaBrutto>
         <NumerFaktury>2-15/10/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -684,9 +684,9 @@
         <LiczbaSztuk>1</LiczbaSztuk>
         <CenaJednostkowa>10 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>2 300,00 zł</KwotaPodatku>
-        <CenaNetto>10 000,00 zł</CenaNetto>
-        <CenaBrutto>12 300,00 zł</CenaBrutto>
+        <KwotaPodatku>2300.00</KwotaPodatku>
+        <CenaNetto>10000.00</CenaNetto>
+        <CenaBrutto>12300.00</CenaBrutto>
         <NumerFaktury>2-15/10/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -694,9 +694,9 @@
         <LiczbaSztuk>1</LiczbaSztuk>
         <CenaJednostkowa>2 032,52 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>467,48 zł</KwotaPodatku>
-        <CenaNetto>2 032,52 zł</CenaNetto>
-        <CenaBrutto>2 500,00 zł</CenaBrutto>
+        <KwotaPodatku>467.48</KwotaPodatku>
+        <CenaNetto>2032.52</CenaNetto>
+        <CenaBrutto>2500.00</CenaBrutto>
         <NumerFaktury>2-15/10/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -704,9 +704,9 @@
         <LiczbaSztuk>1</LiczbaSztuk>
         <CenaJednostkowa>5 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>1 150,00 zł</KwotaPodatku>
-        <CenaNetto>5 000,00 zł</CenaNetto>
-        <CenaBrutto>6 150,00 zł</CenaBrutto>
+        <KwotaPodatku>1150.00</KwotaPodatku>
+        <CenaNetto>5000.00</CenaNetto>
+        <CenaBrutto>6150.00</CenaBrutto>
         <NumerFaktury>2-15/10/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -714,9 +714,9 @@
         <LiczbaSztuk>24</LiczbaSztuk>
         <CenaJednostkowa>6 351,63 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>35 060,98 zł</KwotaPodatku>
-        <CenaNetto>152 439,02 zł</CenaNetto>
-        <CenaBrutto>187 500,00 zł</CenaBrutto>
+        <KwotaPodatku>35060.98</KwotaPodatku>
+        <CenaNetto>152439.02</CenaNetto>
+        <CenaBrutto>187500.00</CenaBrutto>
         <NumerFaktury>3-15/10/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -724,9 +724,9 @@
         <LiczbaSztuk>24</LiczbaSztuk>
         <CenaJednostkowa>406,50 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>2 243,90 zł</KwotaPodatku>
-        <CenaNetto>9 756,10 zł</CenaNetto>
-        <CenaBrutto>12 000,00 zł</CenaBrutto>
+        <KwotaPodatku>2243.90</KwotaPodatku>
+        <CenaNetto>9756.10</CenaNetto>
+        <CenaBrutto>12000.00</CenaBrutto>
         <NumerFaktury>3-15/10/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -734,9 +734,9 @@
         <LiczbaSztuk>24</LiczbaSztuk>
         <CenaJednostkowa>406,50 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>2 243,90 zł</KwotaPodatku>
-        <CenaNetto>9 756,10 zł</CenaNetto>
-        <CenaBrutto>12 000,00 zł</CenaBrutto>
+        <KwotaPodatku>2243.90</KwotaPodatku>
+        <CenaNetto>9756.10</CenaNetto>
+        <CenaBrutto>12000.00</CenaBrutto>
         <NumerFaktury>3-15/10/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -744,9 +744,9 @@
         <LiczbaSztuk>2</LiczbaSztuk>
         <CenaJednostkowa>406,51 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>186,99 zł</KwotaPodatku>
-        <CenaNetto>813,01 zł</CenaNetto>
-        <CenaBrutto>1 000,00 zł</CenaBrutto>
+        <KwotaPodatku>186.99</KwotaPodatku>
+        <CenaNetto>813.01</CenaNetto>
+        <CenaBrutto>1000.00</CenaBrutto>
         <NumerFaktury>3-15/10/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -754,9 +754,9 @@
         <LiczbaSztuk>2</LiczbaSztuk>
         <CenaJednostkowa>528,46 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>243,09 zł</KwotaPodatku>
-        <CenaNetto>1 056,91 zł</CenaNetto>
-        <CenaBrutto>1 300,00 zł</CenaBrutto>
+        <KwotaPodatku>243.09</KwotaPodatku>
+        <CenaNetto>1056.91</CenaNetto>
+        <CenaBrutto>1300.00</CenaBrutto>
         <NumerFaktury>3-15/10/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -764,9 +764,9 @@
         <LiczbaSztuk>28</LiczbaSztuk>
         <CenaJednostkowa>2,90 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>18,70 zł</KwotaPodatku>
-        <CenaNetto>81,30 zł</CenaNetto>
-        <CenaBrutto>100,00 zł</CenaBrutto>
+        <KwotaPodatku>18.70</KwotaPodatku>
+        <CenaNetto>81.30</CenaNetto>
+        <CenaBrutto>100.00</CenaBrutto>
         <NumerFaktury>3-15/10/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -774,9 +774,9 @@
         <LiczbaSztuk>24</LiczbaSztuk>
         <CenaJednostkowa>3,39 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>18,70 zł</KwotaPodatku>
-        <CenaNetto>81,30 zł</CenaNetto>
-        <CenaBrutto>100,00 zł</CenaBrutto>
+        <KwotaPodatku>18.70</KwotaPodatku>
+        <CenaNetto>81.30</CenaNetto>
+        <CenaBrutto>100.00</CenaBrutto>
         <NumerFaktury>3-15/10/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -784,9 +784,9 @@
         <LiczbaSztuk>1</LiczbaSztuk>
         <CenaJednostkowa>1 268,29 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>291,71 zł</KwotaPodatku>
-        <CenaNetto>1 268,29 zł</CenaNetto>
-        <CenaBrutto>1 560,00 zł</CenaBrutto>
+        <KwotaPodatku>291.71</KwotaPodatku>
+        <CenaNetto>1268.29</CenaNetto>
+        <CenaBrutto>1560.00</CenaBrutto>
         <NumerFaktury>1-16/10/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -794,9 +794,9 @@
         <LiczbaSztuk>1</LiczbaSztuk>
         <CenaJednostkowa>13 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>2 990,00 zł</KwotaPodatku>
-        <CenaNetto>13 000,00 zł</CenaNetto>
-        <CenaBrutto>15 990,00 zł</CenaBrutto>
+        <KwotaPodatku>2990.00</KwotaPodatku>
+        <CenaNetto>13000.00</CenaNetto>
+        <CenaBrutto>15990.00</CenaBrutto>
         <NumerFaktury>1-05/11/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -804,9 +804,9 @@
         <LiczbaSztuk>1</LiczbaSztuk>
         <CenaJednostkowa>3 909,38 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>899,16 zł</KwotaPodatku>
-        <CenaNetto>3 909,38 zł</CenaNetto>
-        <CenaBrutto>4 808,54 zł</CenaBrutto>
+        <KwotaPodatku>899.16</KwotaPodatku>
+        <CenaNetto>3909.38</CenaNetto>
+        <CenaBrutto>4808.54</CenaBrutto>
         <NumerFaktury>2-05/11/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -814,9 +814,9 @@
         <LiczbaSztuk>63</LiczbaSztuk>
         <CenaJednostkowa>280,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>4 057,20 zł</KwotaPodatku>
-        <CenaNetto>17 640,00 zł</CenaNetto>
-        <CenaBrutto>21 697,20 zł</CenaBrutto>
+        <KwotaPodatku>4057.20</KwotaPodatku>
+        <CenaNetto>17640.00</CenaNetto>
+        <CenaBrutto>21697.20</CenaBrutto>
         <NumerFaktury>3-05/11/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -824,9 +824,9 @@
         <LiczbaSztuk>83,6375</LiczbaSztuk>
         <CenaJednostkowa>1 250,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>22 895,78 zł</KwotaPodatku>
-        <CenaNetto>99 546,88 zł</CenaNetto>
-        <CenaBrutto>122 442,66 zł</CenaBrutto>
+        <KwotaPodatku>22895.78</KwotaPodatku>
+        <CenaNetto>99546.88</CenaNetto>
+        <CenaBrutto>122442.66</CenaBrutto>
         <NumerFaktury>1-09/11/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -834,9 +834,9 @@
         <LiczbaSztuk>1</LiczbaSztuk>
         <CenaJednostkowa>7 840,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>1 803,20 zł</KwotaPodatku>
-        <CenaNetto>7 840,00 zł</CenaNetto>
-        <CenaBrutto>9 643,20 zł</CenaBrutto>
+        <KwotaPodatku>1803.20</KwotaPodatku>
+        <CenaNetto>7840.00</CenaNetto>
+        <CenaBrutto>9643.20</CenaBrutto>
         <NumerFaktury>1-09/11/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -844,9 +844,9 @@
         <LiczbaSztuk>4</LiczbaSztuk>
         <CenaJednostkowa>1 250,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>1 150,00 zł</KwotaPodatku>
-        <CenaNetto>5 000,00 zł</CenaNetto>
-        <CenaBrutto>6 150,00 zł</CenaBrutto>
+        <KwotaPodatku>1150.00</KwotaPodatku>
+        <CenaNetto>5000.00</CenaNetto>
+        <CenaBrutto>6150.00</CenaBrutto>
         <NumerFaktury>1-09/11/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -854,9 +854,9 @@
         <LiczbaSztuk>12,18750</LiczbaSztuk>
         <CenaJednostkowa>1 250,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>3 503,91 zł</KwotaPodatku>
-        <CenaNetto>15 234,38 zł</CenaNetto>
-        <CenaBrutto>18 738,29 zł</CenaBrutto>
+        <KwotaPodatku>3503.91</KwotaPodatku>
+        <CenaNetto>15234.38</CenaNetto>
+        <CenaBrutto>18738.29</CenaBrutto>
         <NumerFaktury>2-09/11/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -864,9 +864,9 @@
         <LiczbaSztuk>6,50000</LiczbaSztuk>
         <CenaJednostkowa>1 250,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>1 868,75 zł</KwotaPodatku>
-        <CenaNetto>8 125,00 zł</CenaNetto>
-        <CenaBrutto>9 993,75 zł</CenaBrutto>
+        <KwotaPodatku>1868.75</KwotaPodatku>
+        <CenaNetto>8125.00</CenaNetto>
+        <CenaBrutto>9993.75</CenaBrutto>
         <NumerFaktury>2-09/11/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -874,9 +874,9 @@
         <LiczbaSztuk>-0,81250</LiczbaSztuk>
         <CenaJednostkowa>1 250,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>-233,59 zł</KwotaPodatku>
-        <CenaNetto>-1 015,62 zł</CenaNetto>
-        <CenaBrutto>-1 249,21 zł</CenaBrutto>
+        <KwotaPodatku>-233.59</KwotaPodatku>
+        <CenaNetto>-1015.62</CenaNetto>
+        <CenaBrutto>-1249.21</CenaBrutto>
         <NumerFaktury>1-12/11/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -884,9 +884,9 @@
         <LiczbaSztuk>26,47500</LiczbaSztuk>
         <CenaJednostkowa>1 250,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>7 611,56 zł</KwotaPodatku>
-        <CenaNetto>33 093,75 zł</CenaNetto>
-        <CenaBrutto>40 705,31 zł</CenaBrutto>
+        <KwotaPodatku>7611.56</KwotaPodatku>
+        <CenaNetto>33093.75</CenaNetto>
+        <CenaBrutto>40705.31</CenaBrutto>
         <NumerFaktury>1-10/11/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -894,9 +894,9 @@
         <LiczbaSztuk>1</LiczbaSztuk>
         <CenaJednostkowa>3 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>690,00 zł</KwotaPodatku>
-        <CenaNetto>3 000,00 zł</CenaNetto>
-        <CenaBrutto>3 690,00 zł</CenaBrutto>
+        <KwotaPodatku>690.00</KwotaPodatku>
+        <CenaNetto>3000.00</CenaNetto>
+        <CenaBrutto>3690.00</CenaBrutto>
         <NumerFaktury>2-10/11/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -904,9 +904,9 @@
         <LiczbaSztuk>1</LiczbaSztuk>
         <CenaJednostkowa>7 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>1 610,00 zł</KwotaPodatku>
-        <CenaNetto>7 000,00 zł</CenaNetto>
-        <CenaBrutto>8 610,00 zł</CenaBrutto>
+        <KwotaPodatku>1610.00</KwotaPodatku>
+        <CenaNetto>7000.00</CenaNetto>
+        <CenaBrutto>8610.00</CenaBrutto>
         <NumerFaktury>3-10/11/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -914,9 +914,9 @@
         <LiczbaSztuk>472,9337</LiczbaSztuk>
         <CenaJednostkowa>7,50 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>815,81 zł</KwotaPodatku>
-        <CenaNetto>3 547,00 zł</CenaNetto>
-        <CenaBrutto>4 362,81 zł</CenaBrutto>
+        <KwotaPodatku>815.81</KwotaPodatku>
+        <CenaNetto>3547.00</CenaNetto>
+        <CenaBrutto>4362.81</CenaBrutto>
         <NumerFaktury>1-13/11/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -924,9 +924,9 @@
         <LiczbaSztuk>1</LiczbaSztuk>
         <CenaJednostkowa>1 593,50 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>366,50 zł</KwotaPodatku>
-        <CenaNetto>1 593,50 zł</CenaNetto>
-        <CenaBrutto>1 960,00 zł</CenaBrutto>
+        <KwotaPodatku>366.50</KwotaPodatku>
+        <CenaNetto>1593.50</CenaNetto>
+        <CenaBrutto>1960.00</CenaBrutto>
         <NumerFaktury>1-17/11/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -934,9 +934,9 @@
         <LiczbaSztuk>8,95125</LiczbaSztuk>
         <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>2 058,79 zł</KwotaPodatku>
-        <CenaNetto>8 951,25 zł</CenaNetto>
-        <CenaBrutto>11 010,04 zł</CenaBrutto>
+        <KwotaPodatku>2058.79</KwotaPodatku>
+        <CenaNetto>8951.25</CenaNetto>
+        <CenaBrutto>11010.04</CenaBrutto>
         <NumerFaktury>1-25/11/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -944,9 +944,9 @@
         <LiczbaSztuk>3,41750</LiczbaSztuk>
         <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>786,03 zł</KwotaPodatku>
-        <CenaNetto>3 417,50 zł</CenaNetto>
-        <CenaBrutto>4 203,53 zł</CenaBrutto>
+        <KwotaPodatku>786.03</KwotaPodatku>
+        <CenaNetto>3417.50</CenaNetto>
+        <CenaBrutto>4203.53</CenaBrutto>
         <NumerFaktury>1-25/11/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -954,9 +954,9 @@
         <LiczbaSztuk>14,56250</LiczbaSztuk>
         <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>3 349,38 zł</KwotaPodatku>
-        <CenaNetto>14 562,50 zł</CenaNetto>
-        <CenaBrutto>17 911,88 zł</CenaBrutto>
+        <KwotaPodatku>3349.38</KwotaPodatku>
+        <CenaNetto>14562.50</CenaNetto>
+        <CenaBrutto>17911.88</CenaBrutto>
         <NumerFaktury>1-25/11/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -964,9 +964,9 @@
         <LiczbaSztuk>1,81250</LiczbaSztuk>
         <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>416,88 zł</KwotaPodatku>
-        <CenaNetto>1 812,50 zł</CenaNetto>
-        <CenaBrutto>2 229,38 zł</CenaBrutto>
+        <KwotaPodatku>416.88</KwotaPodatku>
+        <CenaNetto>1812.50</CenaNetto>
+        <CenaBrutto>2229.38</CenaBrutto>
         <NumerFaktury>1-25/11/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -974,9 +974,9 @@
         <LiczbaSztuk>0,56250</LiczbaSztuk>
         <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>129,38 zł</KwotaPodatku>
-        <CenaNetto>562,50 zł</CenaNetto>
-        <CenaBrutto>691,88 zł</CenaBrutto>
+        <KwotaPodatku>129.38</KwotaPodatku>
+        <CenaNetto>562.50</CenaNetto>
+        <CenaBrutto>691.88</CenaBrutto>
         <NumerFaktury>1-25/11/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -984,9 +984,9 @@
         <LiczbaSztuk>1,21875</LiczbaSztuk>
         <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>280,31 zł</KwotaPodatku>
-        <CenaNetto>1 218,75 zł</CenaNetto>
-        <CenaBrutto>1 499,06 zł</CenaBrutto>
+        <KwotaPodatku>280.31</KwotaPodatku>
+        <CenaNetto>1218.75</CenaNetto>
+        <CenaBrutto>1499.06</CenaBrutto>
         <NumerFaktury>1-25/11/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -994,9 +994,9 @@
         <LiczbaSztuk>0,20625</LiczbaSztuk>
         <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>47,44 zł</KwotaPodatku>
-        <CenaNetto>206,25 zł</CenaNetto>
-        <CenaBrutto>253,69 zł</CenaBrutto>
+        <KwotaPodatku>47.44</KwotaPodatku>
+        <CenaNetto>206.25</CenaNetto>
+        <CenaBrutto>253.69</CenaBrutto>
         <NumerFaktury>1-25/11/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1004,9 +1004,9 @@
         <LiczbaSztuk>3,29875</LiczbaSztuk>
         <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>758,71 zł</KwotaPodatku>
-        <CenaNetto>3 298,75 zł</CenaNetto>
-        <CenaBrutto>4 057,46 zł</CenaBrutto>
+        <KwotaPodatku>758.71</KwotaPodatku>
+        <CenaNetto>3298.75</CenaNetto>
+        <CenaBrutto>4057.46</CenaBrutto>
         <NumerFaktury>1-25/11/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1014,9 +1014,9 @@
         <LiczbaSztuk>12,77500</LiczbaSztuk>
         <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>2 938,25 zł</KwotaPodatku>
-        <CenaNetto>12 775,00 zł</CenaNetto>
-        <CenaBrutto>15 713,25 zł</CenaBrutto>
+        <KwotaPodatku>2938.25</KwotaPodatku>
+        <CenaNetto>12775.00</CenaNetto>
+        <CenaBrutto>15713.25</CenaBrutto>
         <NumerFaktury>2-25/11/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1024,9 +1024,9 @@
         <LiczbaSztuk>18,25</LiczbaSztuk>
         <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>4 197,50 zł</KwotaPodatku>
-        <CenaNetto>18 250,00 zł</CenaNetto>
-        <CenaBrutto>22 447,50 zł</CenaBrutto>
+        <KwotaPodatku>4197.50</KwotaPodatku>
+        <CenaNetto>18250.00</CenaNetto>
+        <CenaBrutto>22447.50</CenaBrutto>
         <NumerFaktury>3-25/11/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1034,9 +1034,9 @@
         <LiczbaSztuk>2,5</LiczbaSztuk>
         <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>575,00 zł</KwotaPodatku>
-        <CenaNetto>2 500,00 zł</CenaNetto>
-        <CenaBrutto>3 075,00 zł</CenaBrutto>
+        <KwotaPodatku>575.00</KwotaPodatku>
+        <CenaNetto>2500.00</CenaNetto>
+        <CenaBrutto>3075.00</CenaBrutto>
         <NumerFaktury>3-25/11/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1044,9 +1044,9 @@
         <LiczbaSztuk>3</LiczbaSztuk>
         <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>690,00 zł</KwotaPodatku>
-        <CenaNetto>3 000,00 zł</CenaNetto>
-        <CenaBrutto>3 690,00 zł</CenaBrutto>
+        <KwotaPodatku>690.00</KwotaPodatku>
+        <CenaNetto>3000.00</CenaNetto>
+        <CenaBrutto>3690.00</CenaBrutto>
         <NumerFaktury>3-25/11/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1056,9 +1056,9 @@
         <LiczbaSztuk>2</LiczbaSztuk>
         <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>460,00 zł</KwotaPodatku>
-        <CenaNetto>2 000,00 zł</CenaNetto>
-        <CenaBrutto>2 460,00 zł</CenaBrutto>
+        <KwotaPodatku>460.00</KwotaPodatku>
+        <CenaNetto>2000.00</CenaNetto>
+        <CenaBrutto>2460.00</CenaBrutto>
         <NumerFaktury>3-25/11/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1066,9 +1066,9 @@
         <LiczbaSztuk>29,2125</LiczbaSztuk>
         <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>6 718,88 zł</KwotaPodatku>
-        <CenaNetto>29 212,50 zł</CenaNetto>
-        <CenaBrutto>35 931,38 zł</CenaBrutto>
+        <KwotaPodatku>6718.88</KwotaPodatku>
+        <CenaNetto>29212.50</CenaNetto>
+        <CenaBrutto>35931.38</CenaBrutto>
         <NumerFaktury>3-25/11/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1076,9 +1076,9 @@
         <LiczbaSztuk>30,87125</LiczbaSztuk>
         <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>7 100,39 zł</KwotaPodatku>
-        <CenaNetto>30 871,25 zł</CenaNetto>
-        <CenaBrutto>37 971,64 zł</CenaBrutto>
+        <KwotaPodatku>7100.39</KwotaPodatku>
+        <CenaNetto>30871.25</CenaNetto>
+        <CenaBrutto>37971.64</CenaBrutto>
         <NumerFaktury>3-25/11/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1086,9 +1086,9 @@
         <LiczbaSztuk>1</LiczbaSztuk>
         <CenaJednostkowa>13 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>2 990,00 zł</KwotaPodatku>
-        <CenaNetto>13 000,00 zł</CenaNetto>
-        <CenaBrutto>15 990,00 zł</CenaBrutto>
+        <KwotaPodatku>2990.00</KwotaPodatku>
+        <CenaNetto>13000.00</CenaNetto>
+        <CenaBrutto>15990.00</CenaBrutto>
         <NumerFaktury>1-07/12/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1096,9 +1096,9 @@
         <LiczbaSztuk>12,46875</LiczbaSztuk>
         <CenaJednostkowa>1 250,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>3 584,77 zł</KwotaPodatku>
-        <CenaNetto>15 585,94 zł</CenaNetto>
-        <CenaBrutto>19 170,71 zł</CenaBrutto>
+        <KwotaPodatku>3584.77</KwotaPodatku>
+        <CenaNetto>15585.94</CenaNetto>
+        <CenaBrutto>19170.71</CenaBrutto>
         <NumerFaktury>2-07/12/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1106,9 +1106,9 @@
         <LiczbaSztuk>536,86620</LiczbaSztuk>
         <CenaJednostkowa>7,50 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>926,10 zł</KwotaPodatku>
-        <CenaNetto>4 026,50 zł</CenaNetto>
-        <CenaBrutto>4 952,60 zł</CenaBrutto>
+        <KwotaPodatku>926.10</KwotaPodatku>
+        <CenaNetto>4026.50</CenaNetto>
+        <CenaBrutto>4952.60</CenaBrutto>
         <NumerFaktury>3-07/12/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1116,9 +1116,9 @@
         <LiczbaSztuk>52</LiczbaSztuk>
         <CenaJednostkowa>280,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>3 348,80 zł</KwotaPodatku>
-        <CenaNetto>14 560,00 zł</CenaNetto>
-        <CenaBrutto>17 908,80 zł</CenaBrutto>
+        <KwotaPodatku>3348.80</KwotaPodatku>
+        <CenaNetto>14560.00</CenaNetto>
+        <CenaBrutto>17908.80</CenaBrutto>
         <NumerFaktury>4-07/12/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1126,9 +1126,9 @@
         <LiczbaSztuk>100</LiczbaSztuk>
         <CenaJednostkowa>280,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>6 440,00 zł</KwotaPodatku>
-        <CenaNetto>28 000,00 zł</CenaNetto>
-        <CenaBrutto>34 440,00 zł</CenaBrutto>
+        <KwotaPodatku>6440.00</KwotaPodatku>
+        <CenaNetto>28000.00</CenaNetto>
+        <CenaBrutto>34440.00</CenaBrutto>
         <NumerFaktury>5-07/12/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1136,9 +1136,9 @@
         <LiczbaSztuk>1</LiczbaSztuk>
         <CenaJednostkowa>3 090,63 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>710,84 zł</KwotaPodatku>
-        <CenaNetto>3 090,63 zł</CenaNetto>
-        <CenaBrutto>3 801,47 zł</CenaBrutto>
+        <KwotaPodatku>710.84</KwotaPodatku>
+        <CenaNetto>3090.63</CenaNetto>
+        <CenaBrutto>3801.47</CenaBrutto>
         <NumerFaktury>6-07/12/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1146,9 +1146,9 @@
         <LiczbaSztuk>78,8000</LiczbaSztuk>
         <CenaJednostkowa>1 250,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>21 505,00 zł</KwotaPodatku>
-        <CenaNetto>93 500,00 zł</CenaNetto>
-        <CenaBrutto>115 005,00 zł</CenaBrutto>
+        <KwotaPodatku>21505.00</KwotaPodatku>
+        <CenaNetto>93500.00</CenaNetto>
+        <CenaBrutto>115005.00</CenaBrutto>
         <NumerFaktury>1-09/12/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1156,9 +1156,9 @@
         <LiczbaSztuk>1</LiczbaSztuk>
         <CenaJednostkowa>7 840,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>1 803,20 zł</KwotaPodatku>
-        <CenaNetto>7 840,00 zł</CenaNetto>
-        <CenaBrutto>9 643,20 zł</CenaBrutto>
+        <KwotaPodatku>1803.20</KwotaPodatku>
+        <CenaNetto>7840.00</CenaNetto>
+        <CenaBrutto>9643.20</CenaBrutto>
         <NumerFaktury>1-09/12/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1166,9 +1166,9 @@
         <LiczbaSztuk>4</LiczbaSztuk>
         <CenaJednostkowa>1 250,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>1 150,00 zł</KwotaPodatku>
-        <CenaNetto>5 000,00 zł</CenaNetto>
-        <CenaBrutto>6 150,00 zł</CenaBrutto>
+        <KwotaPodatku>1150.00</KwotaPodatku>
+        <CenaNetto>5000.00</CenaNetto>
+        <CenaBrutto>6150.00</CenaBrutto>
         <NumerFaktury>1-09/12/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1176,9 +1176,9 @@
         <LiczbaSztuk>4,71875</LiczbaSztuk>
         <CenaJednostkowa>1 250,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>1 356,64 zł</KwotaPodatku>
-        <CenaNetto>5 898,44 zł</CenaNetto>
-        <CenaBrutto>7 255,08 zł</CenaBrutto>
+        <KwotaPodatku>1356.64</KwotaPodatku>
+        <CenaNetto>5898.44</CenaNetto>
+        <CenaBrutto>7255.08</CenaBrutto>
         <NumerFaktury>2-09/12/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1186,9 +1186,9 @@
         <LiczbaSztuk>0,93750</LiczbaSztuk>
         <CenaJednostkowa>1 250,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>269,53 zł</KwotaPodatku>
-        <CenaNetto>1 171,88 zł</CenaNetto>
-        <CenaBrutto>1 441,41 zł</CenaBrutto>
+        <KwotaPodatku>269.53</KwotaPodatku>
+        <CenaNetto>1171.88</CenaNetto>
+        <CenaBrutto>1441.41</CenaBrutto>
         <NumerFaktury>2-09/12/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1196,9 +1196,9 @@
         <LiczbaSztuk>1</LiczbaSztuk>
         <CenaJednostkowa>3 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>690,00 zł</KwotaPodatku>
-        <CenaNetto>3 000,00 zł</CenaNetto>
-        <CenaBrutto>3 690,00 zł</CenaBrutto>
+        <KwotaPodatku>690.00</KwotaPodatku>
+        <CenaNetto>3000.00</CenaNetto>
+        <CenaBrutto>3690.00</CenaBrutto>
         <NumerFaktury>1-10/12/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1206,9 +1206,9 @@
         <LiczbaSztuk>1</LiczbaSztuk>
         <CenaJednostkowa>7 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>1 610,00 zł</KwotaPodatku>
-        <CenaNetto>7 000,00 zł</CenaNetto>
-        <CenaBrutto>8 610,00 zł</CenaBrutto>
+        <KwotaPodatku>1610.00</KwotaPodatku>
+        <CenaNetto>7000.00</CenaNetto>
+        <CenaBrutto>8610.00</CenaBrutto>
         <NumerFaktury>2-10/12/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1216,9 +1216,9 @@
         <LiczbaSztuk>3,97500</LiczbaSztuk>
         <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>914,25 zł</KwotaPodatku>
-        <CenaNetto>3 975,00 zł</CenaNetto>
-        <CenaBrutto>4 889,25 zł</CenaBrutto>
+        <KwotaPodatku>914.25</KwotaPodatku>
+        <CenaNetto>3975.00</CenaNetto>
+        <CenaBrutto>4889.25</CenaBrutto>
         <NumerFaktury>1-14/12/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1226,9 +1226,9 @@
         <LiczbaSztuk>16,06625</LiczbaSztuk>
         <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>3 695,24 zł</KwotaPodatku>
-        <CenaNetto>16 066,25 zł</CenaNetto>
-        <CenaBrutto>19 761,49 zł</CenaBrutto>
+        <KwotaPodatku>3695.24</KwotaPodatku>
+        <CenaNetto>16066.25</CenaNetto>
+        <CenaBrutto>19761.49</CenaBrutto>
         <NumerFaktury>1-14/12/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1236,9 +1236,9 @@
         <LiczbaSztuk>5,69375</LiczbaSztuk>
         <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>1 309,56 zł</KwotaPodatku>
-        <CenaNetto>5 693,75 zł</CenaNetto>
-        <CenaBrutto>7 003,31 zł</CenaBrutto>
+        <KwotaPodatku>1309.56</KwotaPodatku>
+        <CenaNetto>5693.75</CenaNetto>
+        <CenaBrutto>7003.31</CenaBrutto>
         <NumerFaktury>1-14/12/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1246,9 +1246,9 @@
         <LiczbaSztuk>0,50000</LiczbaSztuk>
         <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>115,00 zł</KwotaPodatku>
-        <CenaNetto>500,00 zł</CenaNetto>
-        <CenaBrutto>615,00 zł</CenaBrutto>
+        <KwotaPodatku>115.00</KwotaPodatku>
+        <CenaNetto>500.00</CenaNetto>
+        <CenaBrutto>615.00</CenaBrutto>
         <NumerFaktury>1-14/12/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1256,9 +1256,9 @@
         <LiczbaSztuk>0,43750</LiczbaSztuk>
         <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>100,63 zł</KwotaPodatku>
-        <CenaNetto>437,50 zł</CenaNetto>
-        <CenaBrutto>538,13 zł</CenaBrutto>
+        <KwotaPodatku>100.63</KwotaPodatku>
+        <CenaNetto>437.50</CenaNetto>
+        <CenaBrutto>538.13</CenaBrutto>
         <NumerFaktury>1-14/12/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1266,9 +1266,9 @@
         <LiczbaSztuk>0,53125</LiczbaSztuk>
         <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>122,19 zł</KwotaPodatku>
-        <CenaNetto>531,25 zł</CenaNetto>
-        <CenaBrutto>653,44 zł</CenaBrutto>
+        <KwotaPodatku>122.19</KwotaPodatku>
+        <CenaNetto>531.25</CenaNetto>
+        <CenaBrutto>653.44</CenaBrutto>
         <NumerFaktury>1-14/12/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1276,9 +1276,9 @@
         <LiczbaSztuk>0,03125</LiczbaSztuk>
         <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>7,19 zł</KwotaPodatku>
-        <CenaNetto>31,25 zł</CenaNetto>
-        <CenaBrutto>38,44 zł</CenaBrutto>
+        <KwotaPodatku>7.19</KwotaPodatku>
+        <CenaNetto>31.25</CenaNetto>
+        <CenaBrutto>38.44</CenaBrutto>
         <NumerFaktury>1-14/12/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1286,9 +1286,9 @@
         <LiczbaSztuk>0,12500</LiczbaSztuk>
         <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>28,75 zł</KwotaPodatku>
-        <CenaNetto>125,00 zł</CenaNetto>
-        <CenaBrutto>153,75 zł</CenaBrutto>
+        <KwotaPodatku>28.75</KwotaPodatku>
+        <CenaNetto>125.00</CenaNetto>
+        <CenaBrutto>153.75</CenaBrutto>
         <NumerFaktury>1-14/12/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1296,9 +1296,9 @@
         <LiczbaSztuk>1,56000</LiczbaSztuk>
         <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>358,80 zł</KwotaPodatku>
-        <CenaNetto>1 560,00 zł</CenaNetto>
-        <CenaBrutto>1 918,80 zł</CenaBrutto>
+        <KwotaPodatku>358.80</KwotaPodatku>
+        <CenaNetto>1560.00</CenaNetto>
+        <CenaBrutto>1918.80</CenaBrutto>
         <NumerFaktury>1-14/12/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1306,9 +1306,9 @@
         <LiczbaSztuk>13,54375</LiczbaSztuk>
         <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>3 115,06 zł</KwotaPodatku>
-        <CenaNetto>13 543,75 zł</CenaNetto>
-        <CenaBrutto>16 658,81 zł</CenaBrutto>
+        <KwotaPodatku>3115.06</KwotaPodatku>
+        <CenaNetto>13543.75</CenaNetto>
+        <CenaBrutto>16658.81</CenaBrutto>
         <NumerFaktury>2-14/12/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1316,9 +1316,9 @@
         <LiczbaSztuk>19</LiczbaSztuk>
         <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>4 370,00 zł</KwotaPodatku>
-        <CenaNetto>19 000,00 zł</CenaNetto>
-        <CenaBrutto>23 370,00 zł</CenaBrutto>
+        <KwotaPodatku>4370.00</KwotaPodatku>
+        <CenaNetto>19000.00</CenaNetto>
+        <CenaBrutto>23370.00</CenaBrutto>
         <NumerFaktury>3-14/12/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1326,9 +1326,9 @@
         <LiczbaSztuk>15</LiczbaSztuk>
         <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>3 450,00 zł</KwotaPodatku>
-        <CenaNetto>15 000,00 zł</CenaNetto>
-        <CenaBrutto>18 450,00 zł</CenaBrutto>
+        <KwotaPodatku>3450.00</KwotaPodatku>
+        <CenaNetto>15000.00</CenaNetto>
+        <CenaBrutto>18450.00</CenaBrutto>
         <NumerFaktury>3-14/12/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1336,9 +1336,9 @@
         <LiczbaSztuk>4,75</LiczbaSztuk>
         <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>1 092,50 zł</KwotaPodatku>
-        <CenaNetto>4 750,00 zł</CenaNetto>
-        <CenaBrutto>5 842,50 zł</CenaBrutto>
+        <KwotaPodatku>1092.50</KwotaPodatku>
+        <CenaNetto>4750.00</CenaNetto>
+        <CenaBrutto>5842.50</CenaBrutto>
         <NumerFaktury>3-14/12/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1346,9 +1346,9 @@
         <LiczbaSztuk>3,46875</LiczbaSztuk>
         <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>797,81 zł</KwotaPodatku>
-        <CenaNetto>3 468,75 zł</CenaNetto>
-        <CenaBrutto>4 266,56 zł</CenaBrutto>
+        <KwotaPodatku>797.81</KwotaPodatku>
+        <CenaNetto>3468.75</CenaNetto>
+        <CenaBrutto>4266.56</CenaBrutto>
         <NumerFaktury>3-14/12/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1356,9 +1356,9 @@
         <LiczbaSztuk>1</LiczbaSztuk>
         <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>230,00 zł</KwotaPodatku>
-        <CenaNetto>1 000,00 zł</CenaNetto>
-        <CenaBrutto>1 230,00 zł</CenaBrutto>
+        <KwotaPodatku>230.00</KwotaPodatku>
+        <CenaNetto>1000.00</CenaNetto>
+        <CenaBrutto>1230.00</CenaBrutto>
         <NumerFaktury>3-14/12/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1366,9 +1366,9 @@
         <LiczbaSztuk>1,875</LiczbaSztuk>
         <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>431,25 zł</KwotaPodatku>
-        <CenaNetto>1 875,00 zł</CenaNetto>
-        <CenaBrutto>2 306,25 zł</CenaBrutto>
+        <KwotaPodatku>431.25</KwotaPodatku>
+        <CenaNetto>1875.00</CenaNetto>
+        <CenaBrutto>2306.25</CenaBrutto>
         <NumerFaktury>3-14/12/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1376,9 +1376,9 @@
         <LiczbaSztuk>41,60</LiczbaSztuk>
         <CenaJednostkowa>1 400,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>13 395,20 zł</KwotaPodatku>
-        <CenaNetto>58 240,00 zł</CenaNetto>
-        <CenaBrutto>71 635,20 zł</CenaBrutto>
+        <KwotaPodatku>13395.20</KwotaPodatku>
+        <CenaNetto>58240.00</CenaNetto>
+        <CenaBrutto>71635.20</CenaBrutto>
         <NumerFaktury>4-14/12/2020</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1386,9 +1386,9 @@
         <LiczbaSztuk>14,65625</LiczbaSztuk>
         <CenaJednostkowa>1 250,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>4 213,67 zł</KwotaPodatku>
-        <CenaNetto>18 320,31 zł</CenaNetto>
-        <CenaBrutto>22 533,98 zł</CenaBrutto>
+        <KwotaPodatku>4213.67</KwotaPodatku>
+        <CenaNetto>18320.31</CenaNetto>
+        <CenaBrutto>22533.98</CenaBrutto>
         <NumerFaktury>1-04/01/2021</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1396,9 +1396,9 @@
         <LiczbaSztuk>0,87500</LiczbaSztuk>
         <CenaJednostkowa>1 250,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>251,56 zł</KwotaPodatku>
-        <CenaNetto>1 093,75 zł</CenaNetto>
-        <CenaBrutto>1 345,31 zł</CenaBrutto>
+        <KwotaPodatku>251.56</KwotaPodatku>
+        <CenaNetto>1093.75</CenaNetto>
+        <CenaBrutto>1345.31</CenaBrutto>
         <NumerFaktury>1-04/01/2021</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1406,9 +1406,9 @@
         <LiczbaSztuk>1</LiczbaSztuk>
         <CenaJednostkowa>6 200,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>1 426,00 zł</KwotaPodatku>
-        <CenaNetto>6 200,00 zł</CenaNetto>
-        <CenaBrutto>7 626,00 zł</CenaBrutto>
+        <KwotaPodatku>1426.00</KwotaPodatku>
+        <CenaNetto>6200.00</CenaNetto>
+        <CenaBrutto>7626.00</CenaBrutto>
         <NumerFaktury>2-04/01/2021</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1416,9 +1416,9 @@
         <LiczbaSztuk>95,26250</LiczbaSztuk>
         <CenaJednostkowa>1 250,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>26 237,97 zł</KwotaPodatku>
-        <CenaNetto>114 078,13 zł</CenaNetto>
-        <CenaBrutto>140 316,10 zł</CenaBrutto>
+        <KwotaPodatku>26237.97</KwotaPodatku>
+        <CenaNetto>114078.13</CenaNetto>
+        <CenaBrutto>140316.10</CenaBrutto>
         <NumerFaktury>3-04/01/2021</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1426,9 +1426,9 @@
         <LiczbaSztuk>1</LiczbaSztuk>
         <CenaJednostkowa>7 840,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>1 803,20 zł</KwotaPodatku>
-        <CenaNetto>7 840,00 zł</CenaNetto>
-        <CenaBrutto>9 643,20 zł</CenaBrutto>
+        <KwotaPodatku>1803.20</KwotaPodatku>
+        <CenaNetto>7840.00</CenaNetto>
+        <CenaBrutto>9643.20</CenaBrutto>
         <NumerFaktury>3-04/01/2021</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1436,9 +1436,9 @@
         <LiczbaSztuk>4</LiczbaSztuk>
         <CenaJednostkowa>1 250,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>1 150,00 zł</KwotaPodatku>
-        <CenaNetto>5 000,00 zł</CenaNetto>
-        <CenaBrutto>6 150,00 zł</CenaBrutto>
+        <KwotaPodatku>1150.00</KwotaPodatku>
+        <CenaNetto>5000.00</CenaNetto>
+        <CenaBrutto>6150.00</CenaBrutto>
         <NumerFaktury>3-04/01/2021</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1446,9 +1446,9 @@
         <LiczbaSztuk>21,01875</LiczbaSztuk>
         <CenaJednostkowa>1 250,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>6 042,89 zł</KwotaPodatku>
-        <CenaNetto>26 273,44 zł</CenaNetto>
-        <CenaBrutto>32 316,33 zł</CenaBrutto>
+        <KwotaPodatku>6042.89</KwotaPodatku>
+        <CenaNetto>26273.44</CenaNetto>
+        <CenaBrutto>32316.33</CenaBrutto>
         <NumerFaktury>4-04/01/2021</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1456,9 +1456,9 @@
         <LiczbaSztuk>1</LiczbaSztuk>
         <CenaJednostkowa>13 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>2 990,00 zł</KwotaPodatku>
-        <CenaNetto>13 000,00 zł</CenaNetto>
-        <CenaBrutto>15 990,00 zł</CenaBrutto>
+        <KwotaPodatku>2990.00</KwotaPodatku>
+        <CenaNetto>13000.00</CenaNetto>
+        <CenaBrutto>15990.00</CenaBrutto>
         <NumerFaktury>5-04/01/2021</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1467,8 +1467,8 @@
         <CenaJednostkowa>7,50 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
         <KwotaPodatku>1 028,16</KwotaPodatku>
-        <CenaNetto>4 470,25 zł</CenaNetto>
-        <CenaBrutto>5 498,41 zł</CenaBrutto>
+        <CenaNetto>4470.25</CenaNetto>
+        <CenaBrutto>5498.41</CenaBrutto>
         <NumerFaktury>1-12/01/2021</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1476,9 +1476,9 @@
         <LiczbaSztuk>65</LiczbaSztuk>
         <CenaJednostkowa>280,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>4 186,00 zł</KwotaPodatku>
-        <CenaNetto>18 200,00 zł</CenaNetto>
-        <CenaBrutto>22 386,00 zł</CenaBrutto>
+        <KwotaPodatku>4186.00</KwotaPodatku>
+        <CenaNetto>18200.00</CenaNetto>
+        <CenaBrutto>22386.00</CenaBrutto>
         <NumerFaktury>2-12/01/2021</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1486,9 +1486,9 @@
         <LiczbaSztuk>8,68750</LiczbaSztuk>
         <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>1 998,13 zł</KwotaPodatku>
-        <CenaNetto>8 687,50 zł</CenaNetto>
-        <CenaBrutto>10 685,63 zł</CenaBrutto>
+        <KwotaPodatku>1998.13</KwotaPodatku>
+        <CenaNetto>8687.50</CenaNetto>
+        <CenaBrutto>10685.63</CenaBrutto>
         <NumerFaktury>1-19/01/2021</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1496,9 +1496,9 @@
         <LiczbaSztuk>10,27750</LiczbaSztuk>
         <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>2 363,83 zł</KwotaPodatku>
-        <CenaNetto>10 277,50 zł</CenaNetto>
-        <CenaBrutto>12 641,33 zł</CenaBrutto>
+        <KwotaPodatku>2363.83</KwotaPodatku>
+        <CenaNetto>10277.50</CenaNetto>
+        <CenaBrutto>12641.33</CenaBrutto>
         <NumerFaktury>1-19/01/2021</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1506,9 +1506,9 @@
         <LiczbaSztuk>4,50000</LiczbaSztuk>
         <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>1 035,00 zł</KwotaPodatku>
-        <CenaNetto>4 500,00 zł</CenaNetto>
-        <CenaBrutto>5 535,00 zł</CenaBrutto>
+        <KwotaPodatku>1035.00</KwotaPodatku>
+        <CenaNetto>4500.00</CenaNetto>
+        <CenaBrutto>5535.00</CenaBrutto>
         <NumerFaktury>1-19/01/2021</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1516,9 +1516,9 @@
         <LiczbaSztuk>0,68750</LiczbaSztuk>
         <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>158,13 zł</KwotaPodatku>
-        <CenaNetto>687,50 zł</CenaNetto>
-        <CenaBrutto>845,63 zł</CenaBrutto>
+        <KwotaPodatku>158.13</KwotaPodatku>
+        <CenaNetto>687.50</CenaNetto>
+        <CenaBrutto>845.63</CenaBrutto>
         <NumerFaktury>1-19/01/2021</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1526,9 +1526,9 @@
         <LiczbaSztuk>2,31250</LiczbaSztuk>
         <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>531,88 zł</KwotaPodatku>
-        <CenaNetto>2 312,50 zł</CenaNetto>
-        <CenaBrutto>2 844,38 zł</CenaBrutto>
+        <KwotaPodatku>531.88</KwotaPodatku>
+        <CenaNetto>2312.50</CenaNetto>
+        <CenaBrutto>2844.38</CenaBrutto>
         <NumerFaktury>1-19/01/2021</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1536,9 +1536,9 @@
         <LiczbaSztuk>0,31250</LiczbaSztuk>
         <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>71,88 zł</KwotaPodatku>
-        <CenaNetto>312,50 zł</CenaNetto>
-        <CenaBrutto>384,38 zł</CenaBrutto>
+        <KwotaPodatku>71.88</KwotaPodatku>
+        <CenaNetto>312.50</CenaNetto>
+        <CenaBrutto>384.38</CenaBrutto>
         <NumerFaktury>1-19/01/2021</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1546,9 +1546,9 @@
         <LiczbaSztuk>0,12500</LiczbaSztuk>
         <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>28,75 zł</KwotaPodatku>
-        <CenaNetto>125,00 zł</CenaNetto>
-        <CenaBrutto>153,75 zł</CenaBrutto>
+        <KwotaPodatku>28.75</KwotaPodatku>
+        <CenaNetto>125.00</CenaNetto>
+        <CenaBrutto>153.75</CenaBrutto>
         <NumerFaktury>1-19/01/2021</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1556,9 +1556,9 @@
         <LiczbaSztuk>0,18750</LiczbaSztuk>
         <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>43,13 zł</KwotaPodatku>
-        <CenaNetto>187,50 zł</CenaNetto>
-        <CenaBrutto>230,63 zł</CenaBrutto>
+        <KwotaPodatku>43.13</KwotaPodatku>
+        <CenaNetto>187.50</CenaNetto>
+        <CenaBrutto>230.63</CenaBrutto>
         <NumerFaktury>1-19/01/2021</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1566,9 +1566,9 @@
         <LiczbaSztuk>3,74375</LiczbaSztuk>
         <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>861,06 zł</KwotaPodatku>
-        <CenaNetto>3 743,75 zł</CenaNetto>
-        <CenaBrutto>4 604,81 zł</CenaBrutto>
+        <KwotaPodatku>861.06</KwotaPodatku>
+        <CenaNetto>3743.75</CenaNetto>
+        <CenaBrutto>4604.81</CenaBrutto>
         <NumerFaktury>1-19/01/2021</NumerFaktury>
     </FakturaWiersz>
     <FakturaWiersz>
@@ -1576,13 +1576,13 @@
         <LiczbaSztuk>13,43125</LiczbaSztuk>
         <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
         <StawkaPodatku>23</StawkaPodatku>
-        <KwotaPodatku>3 089,19 zł</KwotaPodatku>
-        <CenaNetto>13 431,25 zł</CenaNetto>
-        <CenaBrutto>16 520,44 zł</CenaBrutto>
+        <KwotaPodatku>3089.19</KwotaPodatku>
+        <CenaNetto>13431.25</CenaNetto>
+        <CenaBrutto>16520.44</CenaBrutto>
         <NumerFaktury>2-19/01/2021</NumerFaktury>
     </FakturaWiersz>
     <FakturaWierszCtrl>
         <LiczbaWierszyFaktur>108</LiczbaWierszyFaktur>
-        <WartośćWierszyFaktur>1431762.8</WartośćWierszyFaktur>
+        <WartośćWierszyFaktur>1431762.79</WartośćWierszyFaktur>
     </FakturaWierszCtrl>
 </JPK>
