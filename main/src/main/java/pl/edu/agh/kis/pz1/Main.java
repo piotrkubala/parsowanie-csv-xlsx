@@ -42,11 +42,11 @@ public class Main {
                 JAXBContext context = JAXBContext.newInstance(XMLData.class);
                 Marshaller mar = context.createMarshaller();
                 mar.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, Boolean.TRUE);
+                mar.setProperty(Marshaller.JAXB_FRAGMENT, true);
                 mar.marshal(xmlData, new File(output_filename));
             }
         } catch (Exception e) {
-            e.printStackTrace();
-            //logger.severe("Wystąpił błąd: " + e.getMessage());
+            logger.severe("Wystąpił błąd: " + e.getMessage());
         }
     }
 }

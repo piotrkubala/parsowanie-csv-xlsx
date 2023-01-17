@@ -9,16 +9,43 @@ import java.util.LinkedList;
 @XmlType(propOrder = { "naglowek", "podmiot1", "listaFaktur", "fakturaCtrl", "listaFakturWiersz", "fakturaWierszCtrl" })
 @XmlAccessorType(XmlAccessType.FIELD)
 public class XMLData {
+
+    @XmlAttribute(name = "xsi:schemaLocation")
+    String schemaLocation = "http://jpk.mf.gov.pl/wzor/2019/09/27/09271/ https://www.gov.pl/attachment/1abeab45-4e71-4616-b8d5-6b71699e86f8";
+
+    @XmlAttribute(name = "xmlns:tns")
+    String xmlnsTns = "http://jpk.mf.gov.pl/wzor/2019/09/27/09271/";
+
+    @XmlAttribute(name = "xmlns:xsi")
+    String xsi = "http://www.w3.org/2001/XMLSchema-instance";
+
+    @XmlAttribute(name = "xmlns:etd")
+    String etd = "http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2018/08/24/eD/DefinicjeTypy/";
+
+    @XmlAttribute(name = "xmlns:kck")
+    String kck = "http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2013/05/23/eD/KodyCECHKRAJOW/";
+
+    @XmlAttribute(name = "xmlns:xsd")
+    String xsd = "http://www.w3.org/2001/XMLSchema";
+
+    @XmlAttribute(name = "xmlns:msxsl")
+    String msxsl = "urn:schemas-microsoft-com:xslt";
+
+    @XmlAttribute(name = "xmlns:usr")
+    String usr = "urn:the-xml-files:xslt";
+
     @XmlRootElement(name = "tns:Naglowek")
     @XmlType(propOrder = {"wersjaFormularza", "wariantFormularza", "celZlozenia", "dataWytworzeniaJPK", "dataOd", "dataDo", "kodUrzedu" })
     @XmlAccessorType(XmlAccessType.FIELD)
     static class Naglowek {
         @XmlRootElement(name = "tns:KodFormularza")
-        @XmlType(propOrder = {})
+        @XmlType(propOrder = { "kodSystemowy", "wersjaSchemy" })
         @XmlAccessorType(XmlAccessType.FIELD)
         static class WersjaFormularza {
             @XmlAttribute(name = "kodSystemowy")
             String kodSystemowy = "JPK_FA (3)";
+            @XmlValue
+            String JPK_FA = "JPK_FA";
             @XmlAttribute(name = "wersjaSchemy")
             String wersjaSchemy = "1-0";
         }
