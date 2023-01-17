@@ -1,0 +1,4 @@
+"Nazwa odbiorcy"	"Adres odbiorcy"	"NIP odbiorcy"	"Data wystawienia"	"Data sprzedaży"	"Nr faktury"	"Tytuł pozycji"	"Liczba sztuk"	"Cena jednostkowa"	"Stawka podatku %"	"Kwota Podatku"	"Cena netto pozycji"	"Cena brutto pozycji"	"Cena netto faktury łącznie"	"Cena brutto faktury łącznie"
+"Firma 1 SP. Z O.O."	"UL. FELIKSA RADWAŃSKIEGO 15/1, 30-065 KRAKÓW"	"634-27-26-447"	2020-10-09	2020-10-09	"1/2023"	"Faktura 1,, pozycja 1"	1	1 000,00 zł	23	230,00 zł	1 000,00 zł	1 230,00 zł	1 000,00 zł	1 230,00 zł
+"Firma 2 Sp. z o.o"	"AL. A. Mickiewicza 141, 31-127 Kraków"	"113-29-95-753 "	2020-10-14	2020-10-14	"2/2023"	"Faktura 2, pozycja 1"	1	1 000,00 zł	23	230,00 zł	1 000,00 zł	1 230,00 zł	2 000,00 zł	2 460,00 zł
+"Firma 2 Sp. z o.o"	"AL. A. Mickiewicza 141, 31-127 Kraków"	"113-29-95-753 "	2020-10-14	2020-10-14	"2/2023"	"Faktura 2, pozycja 2"	1	1 000,00 zł	23	230,00 zł	1 000,00 zł	1 230,00 zł	2 000,00 zł	2 460,00 zł

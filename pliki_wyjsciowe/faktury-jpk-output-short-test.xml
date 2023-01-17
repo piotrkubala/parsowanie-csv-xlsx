@@ -1,0 +1,137 @@
+<tns:JPK xsi:schemaLocation="http://jpk.mf.gov.pl/wzor/2019/09/27/09271/ https://www.gov.pl/attachment/1abeab45-4e71-4616-b8d5-6b71699e86f8" xmlns:tns="http://jpk.mf.gov.pl/wzor/2019/09/27/09271/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:etd="http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2018/08/24/eD/DefinicjeTypy/" xmlns:kck="http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2013/05/23/eD/KodyCECHKRAJOW/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:usr="urn:the-xml-files:xslt">
+  <tns:Naglowek>
+    <tns:KodFormularza kodSystemowy="JPK_FA (3)" wersjaSchemy="1-0">JPK_FA</tns:KodFormularza>
+    <tns:WariantFormularza>3</tns:WariantFormularza>
+    <tns:CelZlozenia>1</tns:CelZlozenia>
+    <tns:DataWytworzeniaJPK>2021-10-28T16:30:54.533</tns:DataWytworzeniaJPK>
+    <tns:DataOd>2020-10-01</tns:DataOd>
+    <tns:DataDo>2020-12-31</tns:DataDo>
+    <tns:KodUrzedu>1208</tns:KodUrzedu>
+  </tns:Naglowek>
+  <tns:Podmiot1>
+    <tns:IdentyfikatorPodmiotu>
+      <etd:NIP>6762484560</etd:NIP>
+      <etd:PelnaNazwa>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</etd:PelnaNazwa>
+    </tns:IdentyfikatorPodmiotu>
+    <tns:AdresPodmiotu>
+      <etd:KodKraju>PL</etd:KodKraju>
+      <etd:Wojewodztwo>małopolskie</etd:Wojewodztwo>
+      <etd:Powiat>m. Kraków</etd:Powiat>
+      <etd:Gmina>Kraków</etd:Gmina>
+      <etd:Ulica>ul. Feliksa Radwańskiego</etd:Ulica>
+      <etd:NrDomu>15</etd:NrDomu>
+      <etd:NrLokalu>1</etd:NrLokalu>
+      <etd:Miejscowosc>Kraków</etd:Miejscowosc>
+      <etd:KodPocztowy>30-065</etd:KodPocztowy>
+    </tns:AdresPodmiotu>
+  </tns:Podmiot1>
+
+  <tns:Faktura>
+    <tns:KodWaluty>PLN</tns:KodWaluty>
+    <tns:P_1>2020-10-09</tns:P_1>
+    <tns:P_2A>1/2023</tns:P_2A>
+    <tns:P_3A>Firma 1 SP. Z O.O.</tns:P_3A>
+    <tns:P_3B>Firma 1 SP. Z O.O.-ADDRESS</tns:P_3B>
+    <tns:P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:P_3C>
+    <tns:P_3D>ul. Feliksa Radwańskiego 15/1, 30-065 Kraków</tns:P_3D>
+    <tns:P_4A>PL</tns:P_4A>
+    <tns:P_4B>6762484560</tns:P_4B>
+    <tns:P_5B>634-27-26-447</tns:P_5B>
+    <tns:P_6>2020-10-09</tns:P_6>
+    <tns:P_13_1>1000.00</tns:P_13_1>
+    <tns:P_14_1>230.00</tns:P_14_1>
+    <tns:P_15>1230.00</tns:P_15>
+    <tns:P_16>false</tns:P_16>
+    <tns:P_17>false</tns:P_17>
+    <tns:P_18>false</tns:P_18>
+    <tns:P_18A>false</tns:P_18A>
+    <tns:P_19>false</tns:P_19>
+    <tns:P_20>false</tns:P_20>
+    <tns:P_21>false</tns:P_21>
+    <tns:P_22>false</tns:P_22>
+    <tns:P_23>false</tns:P_23>
+    <tns:P_106E_2>false</tns:P_106E_2>
+    <tns:P_106E_3>false</tns:P_106E_3>
+    <tns:RodzajFaktury>VAT</tns:RodzajFaktury>
+  </tns:Faktura>
+
+  <tns:Faktura>
+    <tns:KodWaluty>PLN</tns:KodWaluty>
+    <tns:P_1>2020-10-14</tns:P_1>
+    <tns:P_2A>2/2023</tns:P_2A>
+    <tns:P_3A>Firma 2 Sp. z o.o</tns:P_3A>
+    <tns:P_3B>Firma 2 Sp. z o.o-ADDRESS</tns:P_3B>
+    <tns:P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</tns:P_3C>
+    <tns:P_3D>ul. Feliksa Radwańskiego 15/1, 30-065 Kraków</tns:P_3D>
+    <tns:P_4A>PL</tns:P_4A>
+    <tns:P_4B>6762484560</tns:P_4B>
+    <tns:P_5B>113-29-95-753 </tns:P_5B>
+    <tns:P_6>2020-10-14</tns:P_6>
+    <tns:P_13_1>2000.00</tns:P_13_1>
+    <tns:P_14_1>460.00</tns:P_14_1>
+    <tns:P_15>2460.00</tns:P_15>
+    <tns:P_16>false</tns:P_16>
+    <tns:P_17>false</tns:P_17>
+    <tns:P_18>false</tns:P_18>
+    <tns:P_18A>false</tns:P_18A>
+    <tns:P_19>false</tns:P_19>
+    <tns:P_20>false</tns:P_20>
+    <tns:P_21>false</tns:P_21>
+    <tns:P_22>false</tns:P_22>
+    <tns:P_23>false</tns:P_23>
+    <tns:P_106E_2>false</tns:P_106E_2>
+    <tns:P_106E_3>false</tns:P_106E_3>
+    <tns:RodzajFaktury>VAT</tns:RodzajFaktury>
+  </tns:Faktura>
+
+
+  <tns:FakturaCtrl>
+    <tns:LiczbaFaktur>2</tns:LiczbaFaktur>
+    <tns:WartoscFaktur>3690.00</tns:WartoscFaktur>
+  </tns:FakturaCtrl>
+
+
+
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>1/2023</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>1.00000</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>1000.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>2/2023</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>1.00000</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>1000.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+  <tns:FakturaWiersz>
+    <tns:P_2B>2/2023</tns:P_2B>
+    <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
+    <tns:P_8A>szt</tns:P_8A>
+    <tns:P_8B>1.00000</tns:P_8B>
+    <tns:P_9A>1000.00</tns:P_9A>
+    <tns:P_9B>1230.00</tns:P_9B>
+    <tns:P_11>1000.00</tns:P_11>
+    <tns:P_12>23</tns:P_12>
+  </tns:FakturaWiersz>
+
+
+  <tns:FakturaWierszCtrl>
+    <tns:LiczbaWierszyFaktur>3</tns:LiczbaWierszyFaktur>
+    <tns:WartoscWierszyFaktur>3000.00</tns:WartoscWierszyFaktur>
+  </tns:FakturaWierszCtrl>
+
+
+</tns:JPK>
+
