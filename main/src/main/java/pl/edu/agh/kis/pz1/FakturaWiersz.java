@@ -4,39 +4,61 @@ import javax.xml.bind.annotation.*;
 import javax.xml.bind.annotation.adapters.XmlJavaTypeAdapter;
 
 @XmlRootElement(name = "FakturaWiersz")
-@XmlType(propOrder = { "tytulPozycji", "liczbaSztuk", "cenaJednostkowa", "stawkaPodatku", "kwotaPodatku", "cenaNetto", "cenaBrutto", "nrFaktury" })
+@XmlType(propOrder = { "nrFaktury", "typSprzedazy", "P_8A", "liczbaSztuk",
+        "cenaJednostkowa", "cenaJednostkowaBruttoGrosze", "cenaNetto", "stawkaPodatku" })
 @XmlAccessorType(XmlAccessType.FIELD)
 public class FakturaWiersz {
-    @XmlElement(name = "TytułPozycji")
+    @XmlElement(name = "tns:P_2B")
+    String nrFaktury;
+
+    @XmlTransient
     String tytulPozycji;
-    @XmlElement(name = "LiczbaSztuk")
+
+    @XmlElement(name = "tns:P_7")
+    String typSprzedazy = "Sprzedaż usług krajowych";
+
+    @XmlElement(name = "tns:P_8A")
+    String P_8A = "szt";
+
+    @XmlElement(name = "tns:P_8B")
     String liczbaSztuk;
-    @XmlElement(name = "CenaJednostkowa")
+    @XmlJavaTypeAdapter(type = String.class, value = ZloteStringAdapter.class)
+    @XmlElement(name = "tns:P_9A")
     String cenaJednostkowa;
+
+    @XmlJavaTypeAdapter(type = String.class, value = IntGroszeAdapter.class)
+    @XmlElement(name = "tns:P_9B")
+    Integer cenaJednostkowaBruttoGrosze;
+
     @XmlTransient
     float cenaJednostkowaL;
-    @XmlElement(name = "StawkaPodatku")
-    String stawkaPodatku;
-    @XmlJavaTypeAdapter(type = String.class, value = ZloteStringAdapter.class)
-    @XmlElement(name = "KwotaPodatku")
+
+    @XmlTransient
     String kwotaPodatku;
     @XmlJavaTypeAdapter(type = String.class, value = ZloteStringAdapter.class)
-    @XmlElement(name = "CenaNetto")
+    @XmlElement(name = "tns:P_11")
     String cenaNetto;
     @XmlTransient
     int cenaNettoL;
-    @XmlJavaTypeAdapter(type = String.class, value = ZloteStringAdapter.class)
-    @XmlElement(name = "CenaBrutto")
+
+    @XmlTransient
     String cenaBrutto;
+
+    @XmlElement(name = "tns:P_12")
+    String stawkaPodatku;
+
+    @XmlTransient
+    int stawkaPodatkuL;
 
     @XmlTransient
     int cenaBruttoL;
 
-    @XmlElement(name = "NumerFaktury")
-    String nrFaktury;
-
     static int toGrosze(String kwota) {
         return Integer.parseInt(kwota.substring(0, kwota.length() - 2).replaceAll("[\\s\\u00A0]+", "").replace(",", ""));
+    }
+
+    static String toZlote(int grosze) {
+        return grosze / 100 + "," + grosze % 100 + " zł";
     }
 
     public FakturaWiersz() {
@@ -50,13 +72,14 @@ public class FakturaWiersz {
         cenaBrutto = "";
         cenaBruttoL = 0;
         nrFaktury = "";
+        cenaJednostkowaBruttoGrosze = 0;
     }
 
     public FakturaWiersz(String tytulPozycji, String liczbaSztuk, String cenaJednostkowa, String stawkaPodatku, String kwotaPodatku, String cenaNetto, String cenaBrutto, String nrFaktury) throws NumberFormatException {
+        setStawkaPodatku(stawkaPodatku);
         setTytulPozycji(tytulPozycji);
         setLiczbaSztuk(liczbaSztuk);
         setCenaJednostkowa(cenaJednostkowa);
-        setStawkaPodatku(stawkaPodatku);
         setKwotaPodatku(kwotaPodatku);
         setCenaNetto(cenaNetto);
         setCenaBrutto(cenaBrutto);
@@ -68,16 +91,19 @@ public class FakturaWiersz {
     }
 
     public void setLiczbaSztuk(String liczbaSztuk) {
-        this.liczbaSztuk = liczbaSztuk;
+        this.liczbaSztuk = liczbaSztuk.replace(",", ".");
     }
 
     public void setCenaJednostkowa(String cenaJednostkowa) {
         this.cenaJednostkowa = cenaJednostkowa;
         this.cenaJednostkowaL = toGrosze(cenaJednostkowa);
+
+        cenaJednostkowaBruttoGrosze = (int) (cenaJednostkowaL * this.stawkaPodatkuL / 100);
     }
 
     public void setStawkaPodatku(String stawkaPodatku) {
         this.stawkaPodatku = stawkaPodatku;
+        this.stawkaPodatkuL = Integer.parseInt(stawkaPodatku) + 100;
     }
 
     public void setKwotaPodatku(String kwotaPodatku) {
