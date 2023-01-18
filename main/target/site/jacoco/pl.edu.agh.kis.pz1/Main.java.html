@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="pl"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>Main.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">Modul glowny aplikacji - klasa Main z metoda main</a> &gt; <a href="index.source.html" class="el_package">pl.edu.agh.kis.pz1</a> &gt; <span class="el_source">Main.java</span></div><h1>Main.java</h1><pre class="source lang-java linenums">package pl.edu.agh.kis.pz1;
+
+import pl.edu.agh.kis.pz1.util.CustomLogger;
+
+import javax.xml.bind.JAXBContext;
+import javax.xml.bind.Marshaller;
+import java.io.File;
+
+/**
+ * Przykładowy kod do zajęć laboratoryjnych 2, 3, 4 z przedmiotu: Programowanie zaawansowane 1
+ * @author Paweł Skrzyński
+ */
+<span class="fc" id="L13">public class Main {</span>
+<span class="fc" id="L14">    static CustomLogger logger = new CustomLogger(Main.class.getName());</span>
+
+    public static void main(String[] args) {
+<span class="nc bnc" id="L17" title="All 2 branches missed.">        if (args.length &lt; 2) {</span>
+<span class="nc" id="L18">            logger.severe(&quot;Nie podano argumentu!&quot;);</span>
+<span class="nc" id="L19">            logger.info(&quot;Podaj argumenty: nazwa_pliku_wejsciowego nazwa_pliku_wyjsciowego&quot;);</span>
+<span class="nc" id="L20">            return;</span>
+        }
+
+<span class="nc" id="L23">        String filename = args[0];</span>
+<span class="nc" id="L24">        String output_filename = args[1];</span>
+
+<span class="nc" id="L26">        logger.info(&quot;Plik do odczytu: &quot; + filename);</span>
+
+        try {
+<span class="nc" id="L29">            XMLData xmlData = null;</span>
+
+<span class="nc bnc" id="L31" title="All 2 branches missed.">            if (filename.endsWith(&quot;.xlsx&quot;)) {</span>
+<span class="nc" id="L32">                XLSXReader reader = new XLSXReader(filename);</span>
+<span class="nc" id="L33">                xmlData = reader.readXLSX();</span>
+<span class="nc bnc" id="L34" title="All 2 branches missed.">            } else if (filename.endsWith(&quot;.csv&quot;)) {</span>
+<span class="nc" id="L35">                CSVReader reader = new CSVReader(filename);</span>
+<span class="nc" id="L36">                xmlData = reader.readCSV();</span>
+<span class="nc" id="L37">            } else {</span>
+<span class="nc" id="L38">                logger.severe(&quot;Nieobsługiwany format pliku!&quot;);</span>
+            }
+
+<span class="nc bnc" id="L41" title="All 2 branches missed.">            if (xmlData != null) {</span>
+<span class="nc" id="L42">                JAXBContext context = JAXBContext.newInstance(XMLData.class);</span>
+<span class="nc" id="L43">                Marshaller mar = context.createMarshaller();</span>
+<span class="nc" id="L44">                mar.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, Boolean.TRUE);</span>
+<span class="nc" id="L45">                mar.setProperty(Marshaller.JAXB_FRAGMENT, true);</span>
+<span class="nc" id="L46">                mar.marshal(xmlData, new File(output_filename));</span>
+            }
+<span class="nc" id="L48">        } catch (Exception e) {</span>
+<span class="nc" id="L49">            logger.severe(&quot;Wystąpił błąd: &quot; + e.getMessage());</span>
+<span class="nc" id="L50">        }</span>
+<span class="nc" id="L51">    }</span>
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.6.202009150832</span></div></body></html>

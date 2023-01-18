@@ -1,1 +1,6 @@
 pl/edu/agh/kis/pz1/MainTest.class
+pl/edu/agh/kis/pz1/FakturaTest.class
+pl/edu/agh/kis/pz1/CSVReaderTest.class
+pl/edu/agh/kis/pz1/XMLDataTest.class
+pl/edu/agh/kis/pz1/XLSXReaderTest.class
+pl/edu/agh/kis/pz1/FakturaWierszTest.class

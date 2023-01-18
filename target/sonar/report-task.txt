@@ -1,0 +1,6 @@
+projectKey=faktury
+serverUrl=http://localhost:9000
+serverVersion=9.8.0.63668
+dashboardUrl=http://localhost:9000/dashboard?id=faktury
+ceTaskId=AYXCLrXIqe54lcOKI8w1
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYXCLrXIqe54lcOKI8w1

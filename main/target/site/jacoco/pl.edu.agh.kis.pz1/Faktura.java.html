@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="pl"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>Faktura.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">Modul glowny aplikacji - klasa Main z metoda main</a> &gt; <a href="index.source.html" class="el_package">pl.edu.agh.kis.pz1</a> &gt; <span class="el_source">Faktura.java</span></div><h1>Faktura.java</h1><pre class="source lang-java linenums">package pl.edu.agh.kis.pz1;
+
+import javax.xml.bind.annotation.*;
+import javax.xml.bind.annotation.adapters.XmlJavaTypeAdapter;
+
+/**
+ * @author Piotr Kubala
+ */
+@XmlRootElement(name = &quot;Faktura&quot;)
+@XmlType(propOrder = { &quot;waluta&quot;, &quot;dataWystawienia&quot;, &quot;nrFaktury&quot;,
+        &quot;nazwaOdbiorcy&quot;, &quot;nazwaOdbiorcy3B&quot;, &quot;nazwaWystawcy3C&quot;,
+        &quot;adresOdbiorcy&quot;, &quot;P_4A&quot;, &quot;NIPWystawcy&quot;, &quot;NIP&quot;,
+        &quot;dataSprzedazy&quot;, &quot;cenaNettoFakturyLacznie&quot;, &quot;wartoscPodatku&quot;,
+        &quot;cenaBruttoFakturyLacznie&quot;, &quot;P_16&quot;, &quot;P_17&quot;, &quot;P_18&quot;, &quot;P_18A&quot;, &quot;P_19&quot;,
+        &quot;P_20&quot;, &quot;P_21&quot;, &quot;P_22&quot;, &quot;P_23&quot;, &quot;P_106E_2&quot;, &quot;P_106E_3&quot;, &quot;rodzajFaktury&quot; })
+@XmlAccessorType(XmlAccessType.FIELD)
+public class Faktura {
+    /**
+     * Waluta faktury
+     */
+<span class="pc" id="L21">    @XmlElement(name = &quot;tns:KodWaluty&quot;)</span>
+    String waluta = &quot;PLN&quot;;
+
+    /**
+     * Data wystawienia faktury
+     */
+    @XmlElement(name = &quot;tns:P_1&quot;)
+    String dataWystawienia;
+
+    /**
+     * Numer faktury
+     */
+    @XmlElement(name = &quot;tns:P_2A&quot;)
+    String nrFaktury;
+
+    /**
+     * Nazwa odbiorcy
+     */
+    @XmlElement(name = &quot;tns:P_3_A&quot;)
+    String nazwaOdbiorcy;
+
+    /**
+     * Nazwa odbiorcy 3B
+     */
+    @XmlElement(name = &quot;tns:P_3_B&quot;)
+    String nazwaOdbiorcy3B;
+
+    /**
+     * Nazwa wystawcy 3C
+     */
+<span class="pc" id="L51">    @XmlElement(name = &quot;tns:P_3_C&quot;)</span>
+    String nazwaWystawcy3C = &quot;\&quot;CORE LOGIC\&quot; SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ&quot;;
+
+    /**
+     * Adres odbiorcy
+     */
+    @XmlElement(name = &quot;tns::P_3D&quot;)
+    String adresOdbiorcy;
+
+    /**
+     * P_4A
+     */
+<span class="pc" id="L63">    @XmlElement(name = &quot;tns:P_4A&quot;)</span>
+    String P_4A = &quot;PL&quot;;
+
+    /**
+     * NIP wystawcy
+     */
+<span class="pc" id="L69">    @XmlElement(name = &quot;tns:P_4B&quot;)</span>
+    String NIPWystawcy = &quot;6762484560&quot;;
+
+    /**
+     * NIP odbiorcy
+     */
+    @XmlElement(name = &quot;tns:P_5B&quot;)
+    String NIP;
+
+    /**
+     * Data sprzedaży
+     */
+    @XmlElement(name = &quot;tns:P_6&quot;)
+    String dataSprzedazy;
+
+    /**
+     * Cena netto faktury łącznie
+     */
+    @XmlJavaTypeAdapter(type = String.class, value = ZloteStringAdapter.class)
+    @XmlElement(name = &quot;tns:P_13_1&quot;)
+    String cenaNettoFakturyLacznie;
+
+    /**
+     * Wartość podatku
+     */
+    @XmlJavaTypeAdapter(type = String.class, value = ZloteStringAdapter.class)
+    @XmlElement(name = &quot;tns:P_13_2&quot;)
+    String wartoscPodatku;
+
+    /**
+     * Cena brutto faktury łącznie
+     */
+    @XmlTransient
+    int wartoscPodatkuL;
+
+    /**
+     * Cena brutto faktury łącznie
+     */
+    @XmlTransient
+    int cenaNettoFakturyLacznieL;
+
+    /**
+     * Cena brutto faktury łącznie
+     */
+    @XmlJavaTypeAdapter(type = String.class, value = ZloteStringAdapter.class)
+    @XmlElement(name = &quot;tns:P_15&quot;)
+    String cenaBruttoFakturyLacznie;
+
+    /**
+     * P_16
+     */
+    @XmlTransient
+    int cenaBruttoFakturyLacznieL;
+
+    /**
+     * P_16
+     */
+<span class="pc" id="L126">    @XmlElement(name = &quot;tns:P_16&quot;)</span>
+    boolean P_16 = false;
+
+    /**
+     * P_17
+     */
+<span class="pc" id="L132">    @XmlElement(name = &quot;tns:P_17&quot;)</span>
+    boolean P_17 = false;
+
+    /**
+     * P_18
+     */
+<span class="pc" id="L138">    @XmlElement(name = &quot;tns:P_18&quot;)</span>
+    boolean P_18 = false;
+
+    /**
+     * P_18A
+     */
+<span class="pc" id="L144">    @XmlElement(name = &quot;tns:P_18A&quot;)</span>
+    boolean P_18A = false;
+
+    /**
+     * P_19
+     */
+<span class="pc" id="L150">    @XmlElement(name = &quot;tns:P_19&quot;)</span>
+    boolean P_19 = false;
+
+    /**
+     * P_20
+     */
+<span class="pc" id="L156">    @XmlElement(name = &quot;tns:P_20&quot;)</span>
+    boolean P_20 = false;
+
+    /**
+     * P_21
+     */
+<span class="pc" id="L162">    @XmlElement(name = &quot;tns:P_21&quot;)</span>
+    boolean P_21 = false;
+
+    /**
+     * P_22
+     */
+<span class="pc" id="L168">    @XmlElement(name = &quot;tns:P_22&quot;)</span>
+    boolean P_22 = false;
+
+    /**
+     * P_23
+     */
+<span class="pc" id="L174">    @XmlElement(name = &quot;tns:P_23&quot;)</span>
+    boolean P_23 = false;
+
+    /**
+     * P_106E_2
+     */
+<span class="pc" id="L180">    @XmlElement(name = &quot;tns:P_106E_2&quot;)</span>
+    boolean P_106E_2 = false;
+
+    /**
+     * P_106E_3
+     */
+<span class="pc" id="L186">    @XmlElement(name = &quot;tns:P_106E_3&quot;)</span>
+    boolean P_106E_3 = false;
+
+    /**
+     * Rodzaj faktury
+     */
+<span class="pc" id="L192">    @XmlElement(name = &quot;tns:RodzajFaktury&quot;)</span>
+    String rodzajFaktury = &quot;VAT&quot;;
+
+    /**
+     * Konstruktor
+     */
+<span class="fc" id="L198">    public Faktura() {</span>
+<span class="fc" id="L199">        nazwaOdbiorcy = &quot;&quot;;</span>
+<span class="fc" id="L200">        adresOdbiorcy = &quot;&quot;;</span>
+<span class="fc" id="L201">        NIP = &quot;&quot;;</span>
+<span class="fc" id="L202">        dataWystawienia = &quot;&quot;;</span>
+<span class="fc" id="L203">        dataSprzedazy = &quot;&quot;;</span>
+<span class="fc" id="L204">        nrFaktury = &quot;&quot;;</span>
+<span class="fc" id="L205">        cenaNettoFakturyLacznie = &quot;&quot;;</span>
+<span class="fc" id="L206">        cenaBruttoFakturyLacznie = &quot;&quot;;</span>
+<span class="fc" id="L207">        nazwaOdbiorcy3B = &quot;&quot;;</span>
+<span class="fc" id="L208">        waluta = &quot;&quot;;</span>
+<span class="fc" id="L209">    }</span>
+
+    /**
+     * Konstruktor
+     *
+     * @param nazwaOdbiorcy nazwa odbiorcy
+     * @param adresOdbiorcy adres odbiorcy
+     * @param NIP NIP odbiorcy
+     * @param dataWystawienia data wystawienia faktury
+     * @param dataSprzedazy data sprzedaży
+     * @param nrFaktury numer faktury
+     * @param cenaNettoFakturyLacznie cena netto faktury łącznie
+     * @param cenaBruttoFakturyLacznie cena brutto faktury łącznie
+     */
+<span class="nc" id="L223">    public Faktura(String nazwaOdbiorcy, String adresOdbiorcy, String NIP, String dataWystawienia, String dataSprzedazy, String nrFaktury, String cenaNettoFakturyLacznie, String cenaBruttoFakturyLacznie) {</span>
+<span class="nc" id="L224">        setNazwaOdbiorcy(nazwaOdbiorcy);</span>
+<span class="nc" id="L225">        setAdresOdbiorcy(adresOdbiorcy);</span>
+<span class="nc" id="L226">        setNIP(NIP);</span>
+<span class="nc" id="L227">        setDataWystawienia(dataWystawienia);</span>
+<span class="nc" id="L228">        setDataSprzedazy(dataSprzedazy);</span>
+<span class="nc" id="L229">        setNrFaktury(nrFaktury);</span>
+<span class="nc" id="L230">        setCenaNettoFakturyLacznie(cenaNettoFakturyLacznie);</span>
+<span class="nc" id="L231">        setCenaBruttoFakturyLacznie(cenaBruttoFakturyLacznie);</span>
+<span class="nc" id="L232">    }</span>
+
+    /**
+     * @return the nazwaOdbiorcy
+     */
+    public void setNazwaOdbiorcy(String nazwaOdbiorcy) {
+<span class="nc" id="L238">        this.nazwaOdbiorcy = nazwaOdbiorcy;</span>
+<span class="nc" id="L239">        this.nazwaOdbiorcy3B = nazwaOdbiorcy + &quot;-ADDRESS&quot;;</span>
+<span class="nc" id="L240">    }</span>
+
+    /**
+     * @return the adresOdbiorcy
+     */
+    public void setAdresOdbiorcy(String adresOdbiorcy) {
+<span class="nc" id="L246">        this.adresOdbiorcy = adresOdbiorcy;</span>
+<span class="nc" id="L247">    }</span>
+
+    /**
+     * @return the NIP
+     */
+    public void setNIP(String NIP) {
+<span class="nc" id="L253">        this.NIP = NIP;</span>
+<span class="nc" id="L254">    }</span>
+
+    /**
+     * @return the dataWystawienia
+     */
+    public void setDataWystawienia(String dataWystawienia) {
+<span class="nc" id="L260">        this.dataWystawienia = dataWystawienia;</span>
+<span class="nc" id="L261">    }</span>
+
+    /**
+     * @return the dataSprzedazy
+     */
+    public void setDataSprzedazy(String dataSprzedazy) {
+<span class="nc" id="L267">        this.dataSprzedazy = dataSprzedazy;</span>
+<span class="nc" id="L268">    }</span>
+
+    /**
+     * @return the nrFaktury
+     */
+    public void setNrFaktury(String nrFaktury) {
+<span class="nc" id="L274">        this.nrFaktury = nrFaktury;</span>
+<span class="nc" id="L275">    }</span>
+
+    /**
+     * @return the cenaNettoFakturyLacznie
+     */
+    public void setCenaNettoFakturyLacznie(String cenaNettoFakturyLacznie) {
+<span class="nc" id="L281">        this.cenaNettoFakturyLacznie = cenaNettoFakturyLacznie;</span>
+<span class="nc" id="L282">        this.cenaNettoFakturyLacznieL = FakturaWiersz.toGrosze(cenaNettoFakturyLacznie);</span>
+
+<span class="nc" id="L284">        this.wartoscPodatkuL = cenaBruttoFakturyLacznieL - cenaNettoFakturyLacznieL;</span>
+<span class="nc" id="L285">        this.wartoscPodatku = FakturaWiersz.toZlote(wartoscPodatkuL);</span>
+<span class="nc" id="L286">    }</span>
+
+    /**
+     * @return the cenaBruttoFakturyLacznie
+     */
+    public void setCenaBruttoFakturyLacznie(String cenaBruttoFakturyLacznie) {
+<span class="nc" id="L292">        this.cenaBruttoFakturyLacznie = cenaBruttoFakturyLacznie;</span>
+<span class="nc" id="L293">        this.waluta = cenaNettoFakturyLacznie.substring(cenaBruttoFakturyLacznie.length() - 2);</span>
+<span class="nc" id="L294">        this.cenaBruttoFakturyLacznieL = FakturaWiersz.toGrosze(cenaBruttoFakturyLacznie);</span>
+
+<span class="nc" id="L296">        this.wartoscPodatkuL = cenaBruttoFakturyLacznieL - cenaNettoFakturyLacznieL;</span>
+<span class="nc" id="L297">        this.wartoscPodatku = FakturaWiersz.toZlote(wartoscPodatkuL);</span>
+<span class="nc" id="L298">    }</span>
+
+    /**
+     * @return cenaNettoFakturyLacznieL
+     */
+    public int getCenaNettoFakturyLacznieL() {
+<span class="nc" id="L304">        return cenaNettoFakturyLacznieL;</span>
+    }
+
+    /**
+     * @return cenaBruttoFakturyLacznieL
+     */
+    public int getCenaBruttoFakturyLacznieL() {
+<span class="nc" id="L311">        return cenaBruttoFakturyLacznieL;</span>
+    }
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.6.202009150832</span></div></body></html>

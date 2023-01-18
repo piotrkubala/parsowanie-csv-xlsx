@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="pl"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>XMLData.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">Modul glowny aplikacji - klasa Main z metoda main</a> &gt; <a href="index.source.html" class="el_package">pl.edu.agh.kis.pz1</a> &gt; <span class="el_source">XMLData.java</span></div><h1>XMLData.java</h1><pre class="source lang-java linenums">package pl.edu.agh.kis.pz1;
+
+import javax.xml.bind.annotation.*;
+import javax.xml.bind.annotation.adapters.XmlJavaTypeAdapter;
+import java.text.SimpleDateFormat;
+import java.util.LinkedList;
+
+/**
+ * Class for storing data from XML file
+ * @author Piotr Kubala
+ */
+@XmlRootElement(name = &quot;tns:JPK&quot;)
+@XmlType(propOrder = { &quot;naglowek&quot;, &quot;podmiot1&quot;, &quot;listaFaktur&quot;, &quot;fakturaCtrl&quot;, &quot;listaFakturWiersz&quot;, &quot;fakturaWierszCtrl&quot; })
+@XmlAccessorType(XmlAccessType.FIELD)
+public class XMLData {
+    /**
+     * Header of the XML file1
+     */
+<span class="fc" id="L19">    @XmlAttribute(name = &quot;xsi:schemaLocation&quot;)</span>
+    String schemaLocation = &quot;http://jpk.mf.gov.pl/wzor/2019/09/27/09271/ https://www.gov.pl/attachment/1abeab45-4e71-4616-b8d5-6b71699e86f8&quot;;
+
+    /**
+     * Header of the XML file2
+     */
+<span class="fc" id="L25">    @XmlAttribute(name = &quot;xmlns:tns&quot;)</span>
+    String xmlnsTns = &quot;http://jpk.mf.gov.pl/wzor/2019/09/27/09271/&quot;;
+
+    /**
+     * Header of the XML file3
+     */
+<span class="fc" id="L31">    @XmlAttribute(name = &quot;xmlns:xsi&quot;)</span>
+    String xsi = &quot;http://www.w3.org/2001/XMLSchema-instance&quot;;
+
+    /**
+     * Header of the XML file4
+     */
+<span class="fc" id="L37">    @XmlAttribute(name = &quot;xmlns:etd&quot;)</span>
+    String etd = &quot;http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2018/08/24/eD/DefinicjeTypy/&quot;;
+
+    /**
+     * Header of the XML file5
+     */
+<span class="fc" id="L43">    @XmlAttribute(name = &quot;xmlns:kck&quot;)</span>
+    String kck = &quot;http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2013/05/23/eD/KodyCECHKRAJOW/&quot;;
+
+    /**
+     * Header of the XML file6
+     */
+<span class="fc" id="L49">    @XmlAttribute(name = &quot;xmlns:xsd&quot;)</span>
+    String xsd = &quot;http://www.w3.org/2001/XMLSchema&quot;;
+
+    /**
+     * Header of the XML file7
+     */
+<span class="fc" id="L55">    @XmlAttribute(name = &quot;xmlns:msxsl&quot;)</span>
+    String msxsl = &quot;urn:schemas-microsoft-com:xslt&quot;;
+
+    /**
+     * Header of the XML file8
+     */
+<span class="fc" id="L61">    @XmlAttribute(name = &quot;xmlns:usr&quot;)</span>
+    String usr = &quot;urn:the-xml-files:xslt&quot;;
+
+    /**
+     * Naglowek of the XML file
+     */
+    @XmlRootElement(name = &quot;tns:Naglowek&quot;)
+    @XmlType(propOrder = {&quot;wersjaFormularza&quot;, &quot;wariantFormularza&quot;, &quot;celZlozenia&quot;, &quot;dataWytworzeniaJPK&quot;, &quot;dataOd&quot;, &quot;dataDo&quot;, &quot;kodUrzedu&quot; })
+    @XmlAccessorType(XmlAccessType.FIELD)
+<span class="fc" id="L70">    static class Naglowek {</span>
+        /**
+         * Wersja formularza
+         */
+        @XmlRootElement(name = &quot;tns:KodFormularza&quot;)
+        @XmlType(propOrder = { &quot;kodSystemowy&quot;, &quot;wersjaSchemy&quot; })
+        @XmlAccessorType(XmlAccessType.FIELD)
+<span class="fc" id="L77">        static class WersjaFormularza {</span>
+            /**
+             * Kod systemowy
+             */
+<span class="fc" id="L81">            @XmlAttribute(name = &quot;kodSystemowy&quot;)</span>
+            String kodSystemowy = &quot;JPK_FA (3)&quot;;
+            /**
+             * Wersja schemy
+             */
+<span class="fc" id="L86">            @XmlValue</span>
+            String JPK_FA = &quot;JPK_FA&quot;;
+            /**
+             * Wersja schemy
+             */
+<span class="fc" id="L91">            @XmlAttribute(name = &quot;wersjaSchemy&quot;)</span>
+            String wersjaSchemy = &quot;1-0&quot;;
+        }
+
+        /**
+         * Kod formularza
+         */
+<span class="fc" id="L98">        @XmlElement(name = &quot;tns:KodFormularza&quot;)</span>
+        WersjaFormularza wersjaFormularza = new WersjaFormularza();
+
+        /**
+         * Wariant formularza
+         */
+<span class="fc" id="L104">        @XmlElement(name = &quot;tns:WersjaFormularza&quot;)</span>
+        String wariantFormularza = &quot;3&quot;;
+
+        /**
+         * Cel zlozenia
+         */
+<span class="fc" id="L110">        @XmlElement(name = &quot;tns:CelZlozenia&quot;)</span>
+        String celZlozenia = &quot;1&quot;;
+
+        /**
+         * Data wytworzenia JPK
+         */
+<span class="fc" id="L116">        @XmlElement(name = &quot;tns:DataWytworzeniaJPK&quot;)</span>
+<span class="fc" id="L117">        String dataWytworzeniaJPK = (new SimpleDateFormat(&quot;yyyy-MM-dd'T'HH:mm:ss.SSS&quot;)).format(new java.util.Date());</span>
+
+        /**
+         * Data od
+         */
+<span class="fc" id="L122">        @XmlElement(name = &quot;tns:DataOd&quot;)</span>
+        String dataOd = &quot;2020-10-01&quot;;
+
+        /**
+         * Data do
+         */
+<span class="fc" id="L128">        @XmlElement(name = &quot;tns:DataDo&quot;)</span>
+        String dataDo = &quot;2020-12-31&quot;;
+
+        /**
+         * Kod urzedu
+         */
+<span class="fc" id="L134">        @XmlElement(name = &quot;tns:KodUrzedu&quot;)</span>
+        String kodUrzedu = &quot;1208&quot;;
+    }
+
+    /**
+     * Naglowek of the XML file
+     */
+    @XmlRootElement(name = &quot;tns:Podmiot1&quot;)
+    @XmlType(propOrder = {&quot;identyfikatorPodmiotu&quot;, &quot;adresPodmiotu&quot;})
+    @XmlAccessorType(XmlAccessType.FIELD)
+<span class="fc" id="L144">    static class Podmiot1 {</span>
+        /**
+         * Identyfikator podmiotu
+         */
+        @XmlRootElement(name = &quot;tns:IdentyfikatorPodmiotu&quot;)
+        @XmlType(propOrder = { &quot;NIP&quot;, &quot;PelnaNazwa&quot; })
+        @XmlAccessorType(XmlAccessType.FIELD)
+<span class="fc" id="L151">        static class IdentyfikatorPodmiotu {</span>
+            /**
+             * NIP
+             */
+<span class="fc" id="L155">            @XmlElement(name = &quot;etd:NIP&quot;)</span>
+            String NIP = &quot;6762484560&quot;;
+            /**
+             * Pelna nazwa
+             */
+<span class="fc" id="L160">            @XmlElement(name = &quot;etd:PelnaNazwa&quot;)</span>
+            String PelnaNazwa = &quot;\&quot;CORE LOGIC\&quot; SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ&quot;;
+        }
+
+        /**
+         * Identyfikator podmiotu
+         */
+        @XmlRootElement(name = &quot;tns:AdressPodmiotu&quot;)
+        @XmlType(propOrder = { &quot;kodKraju&quot;, &quot;wojewodztwo&quot;, &quot;powiat&quot;, &quot;gmina&quot;, &quot;ulica&quot;, &quot;nrDomu&quot;, &quot;nrLokalu&quot;, &quot;miejscowosc&quot;, &quot;kodPocztowy&quot; })
+        @XmlAccessorType(XmlAccessType.FIELD)
+<span class="fc" id="L170">        static class AdresPodmiotu {</span>
+            /**
+             * Kod kraju
+             */
+<span class="fc" id="L174">            @XmlElement(name = &quot;etd:KodKraju&quot;)</span>
+            String kodKraju = &quot;PL&quot;;
+            /**
+             * Wojewodztwo
+             */
+<span class="fc" id="L179">            @XmlElement(name = &quot;etd:Wojewodztwo&quot;)</span>
+            String wojewodztwo = &quot;małopolskie&quot;;
+            /**
+             * Powiat
+             */
+<span class="fc" id="L184">            @XmlElement(name = &quot;etd:Powiat&quot;)</span>
+            String powiat = &quot;m. Kraków&quot;;
+            /**
+             * Gmina
+             */
+<span class="fc" id="L189">            @XmlElement(name = &quot;etd:Gmina&quot;)</span>
+            String gmina = &quot;Kraków&quot;;
+            /**
+             * Ulica
+             */
+<span class="fc" id="L194">            @XmlElement(name = &quot;etd:Ulica&quot;)</span>
+            String ulica = &quot;ul. Feliksa Radwańskiego&quot;;
+            /**
+             * Nr domu
+             */
+<span class="fc" id="L199">            @XmlElement(name = &quot;etd:NrDomu&quot;)</span>
+            String nrDomu = &quot;15&quot;;
+            /**
+             * Nr lokalu
+             */
+<span class="fc" id="L204">            @XmlElement(name = &quot;etd:NrLokalu&quot;)</span>
+            String nrLokalu = &quot;1&quot;;
+            /**
+             * Miejscowosc
+             */
+<span class="fc" id="L209">            @XmlElement(name = &quot;etd:Miejscowosc&quot;)</span>
+            String miejscowosc = &quot;Kraków&quot;;
+            /**
+             * Kod pocztowy
+             */
+<span class="fc" id="L214">            @XmlElement(name = &quot;etd:KodPocztowy&quot;)</span>
+            String kodPocztowy = &quot;31-123&quot;;
+        }
+
+        /**
+         * Identyfikator podmiotu
+         */
+<span class="fc" id="L221">        @XmlElement(name = &quot;tns:IdentyfikatorPodmiotu&quot;)</span>
+        IdentyfikatorPodmiotu identyfikatorPodmiotu = new IdentyfikatorPodmiotu();
+
+        /**
+         * Adres podmiotu
+         */
+<span class="fc" id="L227">        @XmlElement(name = &quot;tns:AdresPodmiotu&quot;)</span>
+        AdresPodmiotu adresPodmiotu = new AdresPodmiotu();
+    }
+
+    /**
+     * Naglowek of the XML file
+     */
+<span class="fc" id="L234">    @XmlElement(name = &quot;tns:Naglowek&quot;)</span>
+    Naglowek naglowek = new Naglowek();
+
+    /**
+     * Podmiot of the XML file
+     */
+<span class="fc" id="L240">    @XmlElement(name = &quot;tns:Podmiot1&quot;)</span>
+    Podmiot1 podmiot1 = new Podmiot1();
+
+    /**
+     * Faktura of the XML file
+     */
+    @XmlElement(name = &quot;tns:Faktura&quot;)
+    LinkedList&lt;Faktura&gt; listaFaktur;
+
+    /**
+     * FakturaWiersz of the XML file
+     */
+    @XmlElement(name = &quot;tns:FakturaWiersz&quot;)
+    LinkedList&lt;FakturaWiersz&gt; listaFakturWiersz;
+
+    /**
+     * FakturaCtrl of the XML file
+     */
+    @XmlRootElement(name = &quot;tns:FakturaCtrl&quot;)
+    @XmlType(propOrder = { &quot;liczbaFaktur&quot;, &quot;wartoscFaktur&quot; })
+<span class="fc" id="L260">    static class FakturaCtrl {</span>
+        /**
+         * Liczba faktur
+         */
+        @XmlElement(name = &quot;LiczbaFaktur&quot;)
+        public int liczbaFaktur;
+        /**
+         * Wartosc faktur
+         */
+<span class="fc" id="L269">        @XmlJavaTypeAdapter(type = String.class, value = IntGroszeAdapter.class)</span>
+        @XmlElement(name = &quot;WartoscFaktur&quot;)
+<span class="fc" id="L271">        public Integer wartoscFaktur = 0;</span>
+    }
+
+    /**
+     * FakturaWierszCtrl of the XML file
+     */
+    @XmlRootElement(name = &quot;tns:FakturaWierszCtrl&quot;)
+    @XmlType(propOrder = { &quot;liczbaWierszyFaktur&quot;, &quot;wartoscWierszyFaktur&quot; })
+<span class="fc" id="L279">    static class FakturaWierszCtrl {</span>
+        /**
+         * Liczba wierszy faktur
+         */
+        @XmlElement(name = &quot;LiczbaWierszyFaktur&quot;)
+        public int liczbaWierszyFaktur;
+        /**
+         * Wartosc wierszy faktur
+         */
+<span class="fc" id="L288">        @XmlJavaTypeAdapter(type = String.class, value = IntGroszeAdapter.class)</span>
+        @XmlElement(name = &quot;WartośćWierszyFaktur&quot;)
+<span class="fc" id="L290">        public Integer wartoscWierszyFaktur = 0;</span>
+    }
+
+    /**
+     * FakturaCtrl of the XML file
+     */
+    @XmlElement(name = &quot;tns:FakturaCtrl&quot;)
+    FakturaCtrl fakturaCtrl;
+    /**
+     * FakturaWierszCtrl of the XML file
+     */
+    @XmlElement(name = &quot;tns:FakturaWierszCtrl&quot;)
+    FakturaWierszCtrl fakturaWierszCtrl;
+
+    /**
+     * Konstruktor
+     */
+<span class="fc" id="L307">    public XMLData() {</span>
+<span class="fc" id="L308">        listaFaktur = new LinkedList&lt;&gt;();</span>
+<span class="fc" id="L309">        listaFakturWiersz = new LinkedList&lt;&gt;();</span>
+<span class="fc" id="L310">        fakturaWierszCtrl = new FakturaWierszCtrl();</span>
+<span class="fc" id="L311">        fakturaCtrl = new FakturaCtrl();</span>
+<span class="fc" id="L312">    }</span>
+
+    /**
+     * Dodaje fakturę do listy faktur
+     *
+     * @param faktura
+     *            faktura do dodania
+     */
+    public void addFaktura(Faktura faktura) {
+<span class="nc" id="L321">        listaFaktur.add(faktura);</span>
+
+<span class="nc" id="L323">        fakturaCtrl.liczbaFaktur++;</span>
+<span class="nc" id="L324">        fakturaCtrl.wartoscFaktur += faktura.getCenaBruttoFakturyLacznieL();</span>
+<span class="nc" id="L325">    }</span>
+
+    /**
+     * Dodaje wiersz faktury do listy wierszy faktur
+     *
+     * @param fakturaWiersz
+     *            wiersz faktury do dodania
+     */
+    public void addFakturaWiersz(FakturaWiersz fakturaWiersz) {
+<span class="nc" id="L334">        listaFakturWiersz.add(fakturaWiersz);</span>
+
+<span class="nc" id="L336">        fakturaWierszCtrl.liczbaWierszyFaktur++;</span>
+<span class="nc" id="L337">        fakturaWierszCtrl.wartoscWierszyFaktur += fakturaWiersz.getCenaNettoL();</span>
+<span class="nc" id="L338">    }</span>
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.6.202009150832</span></div></body></html>
