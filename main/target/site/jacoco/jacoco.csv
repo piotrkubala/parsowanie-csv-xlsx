@@ -1,5 +1,5 @@
 GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
-Modul glowny aplikacji - klasa Main z metoda main,pl.edu.agh.kis.pz1,FakturaWiersz,17,193,3,3,4,53,4,13,1,13
+Modul glowny aplikacji - klasa Main z metoda main,pl.edu.agh.kis.pz1,FakturaWiersz,13,208,2,2,4,56,5,13,3,13
 Modul glowny aplikacji - klasa Main z metoda main,pl.edu.agh.kis.pz1,XMLData.Naglowek.WersjaFormularza,0,12,0,0,0,4,0,1,0,1
 Modul glowny aplikacji - klasa Main z metoda main,pl.edu.agh.kis.pz1,XMLData.FakturaWierszCtrl,0,7,0,0,0,3,0,1,0,1
 Modul glowny aplikacji - klasa Main z metoda main,pl.edu.agh.kis.pz1,CSVReader,13,125,0,4,2,21,0,4,0,2
@@ -7,7 +7,7 @@ Modul glowny aplikacji - klasa Main z metoda main,pl.edu.agh.kis.pz1,ZloteString
 Modul glowny aplikacji - klasa Main z metoda main,pl.edu.agh.kis.pz1,XMLData.Naglowek,0,33,0,0,0,9,0,1,0,1
 Modul glowny aplikacji - klasa Main z metoda main,pl.edu.agh.kis.pz1,Faktura,18,250,1,1,3,64,2,11,1,11
 Modul glowny aplikacji - klasa Main z metoda main,pl.edu.agh.kis.pz1,XLSXReader,147,27,6,0,24,7,4,1,1,1
-Modul glowny aplikacji - klasa Main z metoda main,pl.edu.agh.kis.pz1,Main,31,82,4,4,8,20,4,3,0,3
+Modul glowny aplikacji - klasa Main z metoda main,pl.edu.agh.kis.pz1,Main,19,85,4,4,6,22,4,3,0,3
 Modul glowny aplikacji - klasa Main z metoda main,pl.edu.agh.kis.pz1,IntGroszeAdapter,7,20,0,0,1,2,1,2,1,2
 Modul glowny aplikacji - klasa Main z metoda main,pl.edu.agh.kis.pz1,XMLData.Podmiot1.IdentyfikatorPodmiotu,0,9,0,0,0,3,0,1,0,1
 Modul glowny aplikacji - klasa Main z metoda main,pl.edu.agh.kis.pz1,XMLData,0,111,0,0,0,24,0,3,0,3

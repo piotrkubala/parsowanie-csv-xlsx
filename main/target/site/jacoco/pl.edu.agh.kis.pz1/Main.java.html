@@ -45,9 +45,10 @@ import java.io.File;
 <span class="fc" id="L45">                mar.setProperty(Marshaller.JAXB_FRAGMENT, true);</span>
 <span class="fc" id="L46">                mar.marshal(xmlData, new File(output_filename));</span>
             }
-<span class="nc" id="L48">        } catch (Exception e) {</span>
-<span class="nc" id="L49">            logger.severe(&quot;Wystąpił błąd: &quot; + e.getMessage());</span>
-<span class="fc" id="L50">        }</span>
-<span class="fc" id="L51">    }</span>
+<span class="fc" id="L48">        } catch (Exception e) {</span>
+<span class="fc" id="L49">            e.printStackTrace();</span>
+            //logger.severe(&quot;Wystąpił błąd: &quot; + e.getMessage());
+<span class="fc" id="L51">        }</span>
+<span class="fc" id="L52">    }</span>
 }
 </pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.6.202009150832</span></div></body></html>

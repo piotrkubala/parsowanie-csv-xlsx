@@ -232,88 +232,96 @@ public class Faktura {
 <span class="fc" id="L232">    }</span>
 
     /**
-     * @return the nazwaOdbiorcy
+     * ustawia nazwaOdbiorcy
+     * @param nazwaOdbiorcy nazwa odbiorcy
      */
     public void setNazwaOdbiorcy(String nazwaOdbiorcy) {
-<span class="fc" id="L238">        this.nazwaOdbiorcy = nazwaOdbiorcy;</span>
-<span class="fc" id="L239">        this.nazwaOdbiorcy3B = nazwaOdbiorcy + &quot;-ADDRESS&quot;;</span>
-<span class="fc" id="L240">    }</span>
+<span class="fc" id="L239">        this.nazwaOdbiorcy = nazwaOdbiorcy;</span>
+<span class="fc" id="L240">        this.nazwaOdbiorcy3B = nazwaOdbiorcy + &quot;-ADDRESS&quot;;</span>
+<span class="fc" id="L241">    }</span>
 
     /**
-     * @return the adresOdbiorcy
+     * ustawia adresOdbiorcy
+     * @param adresOdbiorcy adres odbiorcy
      */
     public void setAdresOdbiorcy(String adresOdbiorcy) {
-<span class="fc" id="L246">        this.adresOdbiorcy = adresOdbiorcy;</span>
-<span class="fc" id="L247">    }</span>
+<span class="fc" id="L248">        this.adresOdbiorcy = adresOdbiorcy;</span>
+<span class="fc" id="L249">    }</span>
 
     /**
-     * @return the NIP
+     * ustawia NIP
+     * @param NIP NIP odbiorcy
      */
     public void setNIP(String NIP) {
-<span class="fc" id="L253">        this.NIP = NIP;</span>
-<span class="fc" id="L254">    }</span>
+<span class="fc" id="L256">        this.NIP = NIP;</span>
+<span class="fc" id="L257">    }</span>
 
     /**
-     * @return the dataWystawienia
+     * ustawia the dataWystawienia
+     * @param dataWystawienia data wystawienia faktury
      */
     public void setDataWystawienia(String dataWystawienia) {
-<span class="fc" id="L260">        this.dataWystawienia = dataWystawienia;</span>
-<span class="fc" id="L261">    }</span>
+<span class="fc" id="L264">        this.dataWystawienia = dataWystawienia;</span>
+<span class="fc" id="L265">    }</span>
 
     /**
-     * @return the dataSprzedazy
+     * ustawia dataSprzedazy
+     * @param dataSprzedazy the dataSprzedazy to set
      */
     public void setDataSprzedazy(String dataSprzedazy) {
-<span class="fc" id="L267">        this.dataSprzedazy = dataSprzedazy;</span>
-<span class="fc" id="L268">    }</span>
+<span class="fc" id="L272">        this.dataSprzedazy = dataSprzedazy;</span>
+<span class="fc" id="L273">    }</span>
 
     /**
-     * @return the nrFaktury
+     * ustawia nrFaktury
+     * @param nrFaktury numer faktury
      */
     public void setNrFaktury(String nrFaktury) {
-<span class="fc" id="L274">        this.nrFaktury = nrFaktury;</span>
-<span class="fc" id="L275">    }</span>
+<span class="fc" id="L280">        this.nrFaktury = nrFaktury;</span>
+<span class="fc" id="L281">    }</span>
 
     /**
-     * @return the cenaNettoFakturyLacznie
+     * ustawia cenaNettoFakturyLacznie
+     * @param cenaNettoFakturyLacznie cena netto faktury łącznie
      */
     public void setCenaNettoFakturyLacznie(String cenaNettoFakturyLacznie) {
-<span class="fc" id="L281">        this.cenaNettoFakturyLacznie = cenaNettoFakturyLacznie;</span>
-<span class="fc" id="L282">        this.cenaNettoFakturyLacznieL = FakturaWiersz.toGrosze(cenaNettoFakturyLacznie);</span>
+<span class="fc" id="L288">        this.cenaNettoFakturyLacznie = cenaNettoFakturyLacznie;</span>
+<span class="fc" id="L289">        this.cenaNettoFakturyLacznieL = FakturaWiersz.toGrosze(cenaNettoFakturyLacznie);</span>
 
-<span class="fc" id="L284">        this.wartoscPodatkuL = cenaBruttoFakturyLacznieL - cenaNettoFakturyLacznieL;</span>
-<span class="fc" id="L285">        this.wartoscPodatku = FakturaWiersz.toZlote(wartoscPodatkuL);</span>
-<span class="fc" id="L286">    }</span>
+<span class="fc" id="L291">        this.wartoscPodatkuL = cenaBruttoFakturyLacznieL - cenaNettoFakturyLacznieL;</span>
+<span class="fc" id="L292">        this.wartoscPodatku = FakturaWiersz.toZlote(wartoscPodatkuL);</span>
+<span class="fc" id="L293">    }</span>
 
     /**
-     * @return the cenaBruttoFakturyLacznie
+     * cenaBruttoFakturyLacznie
+     * @param cenaBruttoFakturyLacznie cena brutto faktury łącznie
      */
     public void setCenaBruttoFakturyLacznie(String cenaBruttoFakturyLacznie) {
-<span class="fc" id="L292">        this.cenaBruttoFakturyLacznie = cenaBruttoFakturyLacznie;</span>
-<span class="pc bpc" id="L293" title="1 of 2 branches missed.">        if (cenaBruttoFakturyLacznie.charAt(cenaBruttoFakturyLacznie.length() - 1) != 'ł') {</span>
-<span class="nc" id="L294">            this.waluta = &quot;zł&quot;;</span>
-<span class="nc" id="L295">            this.cenaBruttoFakturyLacznieL = FakturaWiersz.toGrosze(cenaBruttoFakturyLacznie + &quot; zł&quot;);</span>
+<span class="fc" id="L300">        this.cenaBruttoFakturyLacznie = cenaBruttoFakturyLacznie;</span>
+<span class="pc bpc" id="L301" title="1 of 2 branches missed.">        if (cenaBruttoFakturyLacznie.charAt(cenaBruttoFakturyLacznie.length() - 1) != 'ł') {</span>
+<span class="nc" id="L302">            this.waluta = &quot;zł&quot;;</span>
+<span class="nc" id="L303">            this.cenaBruttoFakturyLacznieL = FakturaWiersz.toGrosze(cenaBruttoFakturyLacznie + &quot; zł&quot;);</span>
         } else {
-<span class="fc" id="L297">            this.waluta = cenaNettoFakturyLacznie.substring(cenaBruttoFakturyLacznie.length() - 2);</span>
-<span class="fc" id="L298">            this.cenaBruttoFakturyLacznieL = FakturaWiersz.toGrosze(cenaBruttoFakturyLacznie);</span>
+<span class="fc" id="L305">            this.waluta = cenaNettoFakturyLacznie.substring(cenaBruttoFakturyLacznie.length() - 2);</span>
+<span class="fc" id="L306">            this.cenaBruttoFakturyLacznieL = FakturaWiersz.toGrosze(cenaBruttoFakturyLacznie);</span>
         }
 
-<span class="fc" id="L301">        this.wartoscPodatkuL = cenaBruttoFakturyLacznieL - cenaNettoFakturyLacznieL;</span>
-<span class="fc" id="L302">        this.wartoscPodatku = FakturaWiersz.toZlote(wartoscPodatkuL);</span>
-<span class="fc" id="L303">    }</span>
+<span class="fc" id="L309">        this.wartoscPodatkuL = cenaBruttoFakturyLacznieL - cenaNettoFakturyLacznieL;</span>
+<span class="fc" id="L310">        this.wartoscPodatku = FakturaWiersz.toZlote(wartoscPodatkuL);</span>
+<span class="fc" id="L311">    }</span>
 
     /**
      * @return cenaNettoFakturyLacznieL
      */
     public int getCenaNettoFakturyLacznieL() {
-<span class="nc" id="L309">        return cenaNettoFakturyLacznieL;</span>
+<span class="nc" id="L317">        return cenaNettoFakturyLacznieL;</span>
     }
 
     /**
      * @return cenaBruttoFakturyLacznieL
      */
     public int getCenaBruttoFakturyLacznieL() {
-<span class="fc" id="L316">        return cenaBruttoFakturyLacznieL;</span>
+<span class="fc" id="L324">        return cenaBruttoFakturyLacznieL;</span>
     }
 }
 </pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.6.202009150832</span></div></body></html>
