@@ -46,7 +46,8 @@ public class Main {
                 mar.marshal(xmlData, new File(output_filename));
             }
         } catch (Exception e) {
-            logger.severe("Wystąpił błąd: " + e.getMessage());
+            e.printStackTrace();
+            //logger.severe("Wystąpił błąd: " + e.getMessage());
         }
     }
 }

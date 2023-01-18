@@ -4,7 +4,7 @@
         <tns:KodFormularza kodSystemowy="JPK_FA (3)" wersjaSchemy="1-0">JPK_FA</tns:KodFormularza>
         <tns:WersjaFormularza>3</tns:WersjaFormularza>
         <tns:CelZlozenia>1</tns:CelZlozenia>
-        <tns:DataWytworzeniaJPK>2023-01-18T10:33:06.688</tns:DataWytworzeniaJPK>
+        <tns:DataWytworzeniaJPK>2023-01-18T12:06:30.941</tns:DataWytworzeniaJPK>
         <tns:DataOd>2020-10-01</tns:DataOd>
         <tns:DataDo>2020-12-31</tns:DataDo>
         <tns:KodUrzedu>1208</tns:KodUrzedu>
@@ -28,7 +28,7 @@
     </tns:Podmiot1>
     <tns:Faktura>
         <tns:KodWaluty>zł</tns:KodWaluty>
-        <tns:P_1>2020-10-09</tns:P_1>
+        <tns:P_1>44113</tns:P_1>
         <tns:P_2A>3-09/10/2020</tns:P_2A>
         <tns:P_3_A>Firma5 SP. Z O.O.</tns:P_3_A>
         <tns:P_3_B>Firma5 SP. Z O.O.-ADDRESS</tns:P_3_B>
@@ -37,10 +37,10 @@
         <tns:P_4A>PL</tns:P_4A>
         <tns:P_4B>6762484560</tns:P_4B>
         <tns:P_5B>634-27-26-447</tns:P_5B>
-        <tns:P_6>2020-10-09</tns:P_6>
-        <tns:P_13_1>3000.00</tns:P_13_1>
+        <tns:P_6>44113</tns:P_6>
+        <tns:P_13_1>3000</tns:P_13_1>
         <tns:P_13_2>690.0</tns:P_13_2>
-        <tns:P_15>3690.00</tns:P_15>
+        <tns:P_15>3690</tns:P_15>
         <tns:P_16>false</tns:P_16>
         <tns:P_17>false</tns:P_17>
         <tns:P_18>false</tns:P_18>
@@ -56,7 +56,7 @@
     </tns:Faktura>
     <tns:Faktura>
         <tns:KodWaluty>zł</tns:KodWaluty>
-        <tns:P_1>2020-10-09</tns:P_1>
+        <tns:P_1>44113</tns:P_1>
         <tns:P_2A>4-09/10/2020</tns:P_2A>
         <tns:P_3_A>Firma6 SP. Z O.O.</tns:P_3_A>
         <tns:P_3_B>Firma6 SP. Z O.O.-ADDRESS</tns:P_3_B>
@@ -65,10 +65,10 @@
         <tns:P_4A>PL</tns:P_4A>
         <tns:P_4B>6762484560</tns:P_4B>
         <tns:P_5B>676-247-94-12</tns:P_5B>
-        <tns:P_6>2020-10-09</tns:P_6>
-        <tns:P_13_1>7000.00</tns:P_13_1>
+        <tns:P_6>44113</tns:P_6>
+        <tns:P_13_1>7000</tns:P_13_1>
         <tns:P_13_2>1610.0</tns:P_13_2>
-        <tns:P_15>8610.00</tns:P_15>
+        <tns:P_15>8610</tns:P_15>
         <tns:P_16>false</tns:P_16>
         <tns:P_17>false</tns:P_17>
         <tns:P_18>false</tns:P_18>
@@ -84,7 +84,7 @@
     </tns:Faktura>
     <tns:Faktura>
         <tns:KodWaluty>zł</tns:KodWaluty>
-        <tns:P_1>2020-10-13</tns:P_1>
+        <tns:P_1>44117</tns:P_1>
         <tns:P_2A>1-13/10/2020</tns:P_2A>
         <tns:P_3_A>Firma10 Sp. z o.o.</tns:P_3_A>
         <tns:P_3_B>Firma10 Sp. z o.o.-ADDRESS</tns:P_3_B>
@@ -93,8 +93,8 @@
         <tns:P_4A>PL</tns:P_4A>
         <tns:P_4B>6762484560</tns:P_4B>
         <tns:P_5B>676-256-68-84</tns:P_5B>
-        <tns:P_6>2020-10-13</tns:P_6>
-        <tns:P_13_1>3774.00</tns:P_13_1>
+        <tns:P_6>44117</tns:P_6>
+        <tns:P_13_1>3774</tns:P_13_1>
         <tns:P_13_2>868.2</tns:P_13_2>
         <tns:P_15>4642.02</tns:P_15>
         <tns:P_16>false</tns:P_16>
@@ -112,7 +112,7 @@
     </tns:Faktura>
     <tns:Faktura>
         <tns:KodWaluty>zł</tns:KodWaluty>
-        <tns:P_1>2020-10-14</tns:P_1>
+        <tns:P_1>44118</tns:P_1>
         <tns:P_2A>3-14/10/2020</tns:P_2A>
         <tns:P_3_A>Firma1 Sp. z o.o</tns:P_3_A>
         <tns:P_3_B>Firma1 Sp. z o.o-ADDRESS</tns:P_3_B>
@@ -121,10 +121,10 @@
         <tns:P_4A>PL</tns:P_4A>
         <tns:P_4B>6762484560</tns:P_4B>
         <tns:P_5B>113-29-95-753 </tns:P_5B>
-        <tns:P_6>2020-10-14</tns:P_6>
-        <tns:P_13_1>76250.00</tns:P_13_1>
+        <tns:P_6>44118</tns:P_6>
+        <tns:P_13_1>76250</tns:P_13_1>
         <tns:P_13_2>17537.50</tns:P_13_2>
-        <tns:P_15>93787.50</tns:P_15>
+        <tns:P_15>93787.5</tns:P_15>
         <tns:P_16>false</tns:P_16>
         <tns:P_17>false</tns:P_17>
         <tns:P_18>false</tns:P_18>
@@ -140,7 +140,7 @@
     </tns:Faktura>
     <tns:Faktura>
         <tns:KodWaluty>zł</tns:KodWaluty>
-        <tns:P_1>2020-10-15</tns:P_1>
+        <tns:P_1>44119</tns:P_1>
         <tns:P_2A>1-15/10/2020</tns:P_2A>
         <tns:P_3_A>Firma2</tns:P_3_A>
         <tns:P_3_B>Firma2-ADDRESS</tns:P_3_B>
@@ -149,10 +149,10 @@
         <tns:P_4A>PL</tns:P_4A>
         <tns:P_4B>6762484560</tns:P_4B>
         <tns:P_5B>552-151-68-49</tns:P_5B>
-        <tns:P_6>2020-10-15</tns:P_6>
+        <tns:P_6>44119</tns:P_6>
         <tns:P_13_1>161382.11</tns:P_13_1>
         <tns:P_13_2>37117.89</tns:P_13_2>
-        <tns:P_15>198500.00</tns:P_15>
+        <tns:P_15>198500</tns:P_15>
         <tns:P_16>false</tns:P_16>
         <tns:P_17>false</tns:P_17>
         <tns:P_18>false</tns:P_18>
@@ -168,7 +168,7 @@
     </tns:Faktura>
     <tns:Faktura>
         <tns:KodWaluty>zł</tns:KodWaluty>
-        <tns:P_1>2020-10-15</tns:P_1>
+        <tns:P_1>44119</tns:P_1>
         <tns:P_2A>2-15/10/2020</tns:P_2A>
         <tns:P_3_A>Firma2</tns:P_3_A>
         <tns:P_3_B>Firma2-ADDRESS</tns:P_3_B>
@@ -177,10 +177,10 @@
         <tns:P_4A>PL</tns:P_4A>
         <tns:P_4B>6762484560</tns:P_4B>
         <tns:P_5B>552-151-68-49</tns:P_5B>
-        <tns:P_6>2020-10-15</tns:P_6>
+        <tns:P_6>44119</tns:P_6>
         <tns:P_13_1>48739.84</tns:P_13_1>
         <tns:P_13_2>11210.16</tns:P_13_2>
-        <tns:P_15>59950.00</tns:P_15>
+        <tns:P_15>59950</tns:P_15>
         <tns:P_16>false</tns:P_16>
         <tns:P_17>false</tns:P_17>
         <tns:P_18>false</tns:P_18>
@@ -196,7 +196,7 @@
     </tns:Faktura>
     <tns:Faktura>
         <tns:KodWaluty>zł</tns:KodWaluty>
-        <tns:P_1>2020-10-15</tns:P_1>
+        <tns:P_1>44119</tns:P_1>
         <tns:P_2A>3-15/10/2020</tns:P_2A>
         <tns:P_3_A>Firma2</tns:P_3_A>
         <tns:P_3_B>Firma2-ADDRESS</tns:P_3_B>
@@ -205,10 +205,10 @@
         <tns:P_4A>PL</tns:P_4A>
         <tns:P_4B>6762484560</tns:P_4B>
         <tns:P_5B>552-151-68-49</tns:P_5B>
-        <tns:P_6>2020-10-15</tns:P_6>
+        <tns:P_6>44119</tns:P_6>
         <tns:P_13_1>173983.74</tns:P_13_1>
         <tns:P_13_2>40016.26</tns:P_13_2>
-        <tns:P_15>214000.00</tns:P_15>
+        <tns:P_15>214000</tns:P_15>
         <tns:P_16>false</tns:P_16>
         <tns:P_17>false</tns:P_17>
         <tns:P_18>false</tns:P_18>
@@ -224,7 +224,7 @@
     </tns:Faktura>
     <tns:Faktura>
         <tns:KodWaluty>zł</tns:KodWaluty>
-        <tns:P_1>2020-10-16</tns:P_1>
+        <tns:P_1>44120</tns:P_1>
         <tns:P_2A>1-16/10/2020</tns:P_2A>
         <tns:P_3_A>Firma2</tns:P_3_A>
         <tns:P_3_B>Firma2-ADDRESS</tns:P_3_B>
@@ -233,10 +233,10 @@
         <tns:P_4A>PL</tns:P_4A>
         <tns:P_4B>6762484560</tns:P_4B>
         <tns:P_5B>552-151-68-49</tns:P_5B>
-        <tns:P_6>2020-10-16</tns:P_6>
+        <tns:P_6>44120</tns:P_6>
         <tns:P_13_1>1268.29</tns:P_13_1>
         <tns:P_13_2>291.71</tns:P_13_2>
-        <tns:P_15>1560.00</tns:P_15>
+        <tns:P_15>1560</tns:P_15>
         <tns:P_16>false</tns:P_16>
         <tns:P_17>false</tns:P_17>
         <tns:P_18>false</tns:P_18>
@@ -252,7 +252,7 @@
     </tns:Faktura>
     <tns:Faktura>
         <tns:KodWaluty>zł</tns:KodWaluty>
-        <tns:P_1>2020-11-05</tns:P_1>
+        <tns:P_1>44140</tns:P_1>
         <tns:P_2A>1-05/11/2020</tns:P_2A>
         <tns:P_3_A>Firma9 SP. Z O.O.</tns:P_3_A>
         <tns:P_3_B>Firma9 SP. Z O.O.-ADDRESS</tns:P_3_B>
@@ -261,10 +261,10 @@
         <tns:P_4A>PL</tns:P_4A>
         <tns:P_4B>6762484560</tns:P_4B>
         <tns:P_5B>118-16-48-603</tns:P_5B>
-        <tns:P_6>2020-10-30</tns:P_6>
-        <tns:P_13_1>13000.00</tns:P_13_1>
+        <tns:P_6>44134</tns:P_6>
+        <tns:P_13_1>13000</tns:P_13_1>
         <tns:P_13_2>2990.0</tns:P_13_2>
-        <tns:P_15>15990.00</tns:P_15>
+        <tns:P_15>15990</tns:P_15>
         <tns:P_16>false</tns:P_16>
         <tns:P_17>false</tns:P_17>
         <tns:P_18>false</tns:P_18>
@@ -280,7 +280,7 @@
     </tns:Faktura>
     <tns:Faktura>
         <tns:KodWaluty>zł</tns:KodWaluty>
-        <tns:P_1>2020-11-05</tns:P_1>
+        <tns:P_1>44140</tns:P_1>
         <tns:P_2A>2-05/11/2020</tns:P_2A>
         <tns:P_3_A>Firma3 sp. z o.o.</tns:P_3_A>
         <tns:P_3_B>Firma3 sp. z o.o.-ADDRESS</tns:P_3_B>
@@ -289,7 +289,7 @@
         <tns:P_4A>PL</tns:P_4A>
         <tns:P_4B>6762484560</tns:P_4B>
         <tns:P_5B>675-152-93-71</tns:P_5B>
-        <tns:P_6>2020-10-30</tns:P_6>
+        <tns:P_6>44134</tns:P_6>
         <tns:P_13_1>3909.38</tns:P_13_1>
         <tns:P_13_2>899.16</tns:P_13_2>
         <tns:P_15>4808.54</tns:P_15>
@@ -308,7 +308,7 @@
     </tns:Faktura>
     <tns:Faktura>
         <tns:KodWaluty>zł</tns:KodWaluty>
-        <tns:P_1>2020-11-05</tns:P_1>
+        <tns:P_1>44140</tns:P_1>
         <tns:P_2A>3-05/11/2020</tns:P_2A>
         <tns:P_3_A>Firma4</tns:P_3_A>
         <tns:P_3_B>Firma4-ADDRESS</tns:P_3_B>
@@ -317,10 +317,10 @@
         <tns:P_4A>PL</tns:P_4A>
         <tns:P_4B>6762484560</tns:P_4B>
         <tns:P_5B>873-171-75-73</tns:P_5B>
-        <tns:P_6>2020-10-30</tns:P_6>
-        <tns:P_13_1>17640.00</tns:P_13_1>
+        <tns:P_6>44134</tns:P_6>
+        <tns:P_13_1>17640</tns:P_13_1>
         <tns:P_13_2>4057.20</tns:P_13_2>
-        <tns:P_15>21697.20</tns:P_15>
+        <tns:P_15>21697.2</tns:P_15>
         <tns:P_16>false</tns:P_16>
         <tns:P_17>false</tns:P_17>
         <tns:P_18>false</tns:P_18>
@@ -336,7 +336,7 @@
     </tns:Faktura>
     <tns:Faktura>
         <tns:KodWaluty>zł</tns:KodWaluty>
-        <tns:P_1>2020-11-09</tns:P_1>
+        <tns:P_1>44144</tns:P_1>
         <tns:P_2A>1-09/11/2020</tns:P_2A>
         <tns:P_3_A>Firma3 sp. z o.o.</tns:P_3_A>
         <tns:P_3_B>Firma3 sp. z o.o.-ADDRESS</tns:P_3_B>
@@ -345,7 +345,7 @@
         <tns:P_4A>PL</tns:P_4A>
         <tns:P_4B>6762484560</tns:P_4B>
         <tns:P_5B>675-152-93-71</tns:P_5B>
-        <tns:P_6>2020-10-30</tns:P_6>
+        <tns:P_6>44134</tns:P_6>
         <tns:P_13_1>112386.88</tns:P_13_1>
         <tns:P_13_2>25848.98</tns:P_13_2>
         <tns:P_15>138235.86</tns:P_15>
@@ -364,7 +364,7 @@
     </tns:Faktura>
     <tns:Faktura>
         <tns:KodWaluty>zł</tns:KodWaluty>
-        <tns:P_1>2020-11-09</tns:P_1>
+        <tns:P_1>44144</tns:P_1>
         <tns:P_2A>2-09/11/2020</tns:P_2A>
         <tns:P_3_A>Firma3 sp. z o.o.</tns:P_3_A>
         <tns:P_3_B>Firma3 sp. z o.o.-ADDRESS</tns:P_3_B>
@@ -373,7 +373,7 @@
         <tns:P_4A>PL</tns:P_4A>
         <tns:P_4B>6762484560</tns:P_4B>
         <tns:P_5B>675-152-93-71</tns:P_5B>
-        <tns:P_6>2020-10-30</tns:P_6>
+        <tns:P_6>44134</tns:P_6>
         <tns:P_13_1>23359.38</tns:P_13_1>
         <tns:P_13_2>5372.66</tns:P_13_2>
         <tns:P_15>28732.04</tns:P_15>
@@ -392,7 +392,7 @@
     </tns:Faktura>
     <tns:Faktura>
         <tns:KodWaluty>zł</tns:KodWaluty>
-        <tns:P_1>2020-11-10</tns:P_1>
+        <tns:P_1>44145</tns:P_1>
         <tns:P_2A>1-10/11/2020</tns:P_2A>
         <tns:P_3_A>Firma8 Sp. z o.o. sp.k.</tns:P_3_A>
         <tns:P_3_B>Firma8 Sp. z o.o. sp.k.-ADDRESS</tns:P_3_B>
@@ -401,7 +401,7 @@
         <tns:P_4A>PL</tns:P_4A>
         <tns:P_4B>6762484560</tns:P_4B>
         <tns:P_5B>677-00-46-633</tns:P_5B>
-        <tns:P_6>2020-10-30</tns:P_6>
+        <tns:P_6>44134</tns:P_6>
         <tns:P_13_1>33093.75</tns:P_13_1>
         <tns:P_13_2>7611.56</tns:P_13_2>
         <tns:P_15>40705.31</tns:P_15>
@@ -420,7 +420,7 @@
     </tns:Faktura>
     <tns:Faktura>
         <tns:KodWaluty>zł</tns:KodWaluty>
-        <tns:P_1>2020-11-10</tns:P_1>
+        <tns:P_1>44145</tns:P_1>
         <tns:P_2A>2-10/11/2020</tns:P_2A>
         <tns:P_3_A>Firma5 SP. Z O.O.</tns:P_3_A>
         <tns:P_3_B>Firma5 SP. Z O.O.-ADDRESS</tns:P_3_B>
@@ -429,10 +429,10 @@
         <tns:P_4A>PL</tns:P_4A>
         <tns:P_4B>6762484560</tns:P_4B>
         <tns:P_5B>634-27-26-447</tns:P_5B>
-        <tns:P_6>2020-11-10</tns:P_6>
-        <tns:P_13_1>3000.00</tns:P_13_1>
+        <tns:P_6>44145</tns:P_6>
+        <tns:P_13_1>3000</tns:P_13_1>
         <tns:P_13_2>690.0</tns:P_13_2>
-        <tns:P_15>3690.00</tns:P_15>
+        <tns:P_15>3690</tns:P_15>
         <tns:P_16>false</tns:P_16>
         <tns:P_17>false</tns:P_17>
         <tns:P_18>false</tns:P_18>
@@ -448,7 +448,7 @@
     </tns:Faktura>
     <tns:Faktura>
         <tns:KodWaluty>zł</tns:KodWaluty>
-        <tns:P_1>2020-11-10</tns:P_1>
+        <tns:P_1>44145</tns:P_1>
         <tns:P_2A>3-10/11/2020</tns:P_2A>
         <tns:P_3_A>Firma6 SP. Z O.O.</tns:P_3_A>
         <tns:P_3_B>Firma6 SP. Z O.O.-ADDRESS</tns:P_3_B>
@@ -457,10 +457,10 @@
         <tns:P_4A>PL</tns:P_4A>
         <tns:P_4B>6762484560</tns:P_4B>
         <tns:P_5B>676-247-94-12</tns:P_5B>
-        <tns:P_6>2020-11-10</tns:P_6>
-        <tns:P_13_1>7000.00</tns:P_13_1>
+        <tns:P_6>44145</tns:P_6>
+        <tns:P_13_1>7000</tns:P_13_1>
         <tns:P_13_2>1610.0</tns:P_13_2>
-        <tns:P_15>8610.00</tns:P_15>
+        <tns:P_15>8610</tns:P_15>
         <tns:P_16>false</tns:P_16>
         <tns:P_17>false</tns:P_17>
         <tns:P_18>false</tns:P_18>
@@ -476,7 +476,7 @@
     </tns:Faktura>
     <tns:Faktura>
         <tns:KodWaluty>zł</tns:KodWaluty>
-        <tns:P_1>2020-11-13</tns:P_1>
+        <tns:P_1>44148</tns:P_1>
         <tns:P_2A>1-13/11/2020</tns:P_2A>
         <tns:P_3_A>Firma4</tns:P_3_A>
         <tns:P_3_B>Firma4-ADDRESS</tns:P_3_B>
@@ -485,8 +485,8 @@
         <tns:P_4A>PL</tns:P_4A>
         <tns:P_4B>6762484560</tns:P_4B>
         <tns:P_5B>873-171-75-73</tns:P_5B>
-        <tns:P_6>2020-10-30</tns:P_6>
-        <tns:P_13_1>3547.00</tns:P_13_1>
+        <tns:P_6>44134</tns:P_6>
+        <tns:P_13_1>3547</tns:P_13_1>
         <tns:P_13_2>815.81</tns:P_13_2>
         <tns:P_15>4362.81</tns:P_15>
         <tns:P_16>false</tns:P_16>
@@ -504,7 +504,7 @@
     </tns:Faktura>
     <tns:Faktura>
         <tns:KodWaluty>zł</tns:KodWaluty>
-        <tns:P_1>2020-11-17</tns:P_1>
+        <tns:P_1>44152</tns:P_1>
         <tns:P_2A>1-17/11/2020</tns:P_2A>
         <tns:P_3_A>Firma2</tns:P_3_A>
         <tns:P_3_B>Firma2-ADDRESS</tns:P_3_B>
@@ -513,10 +513,10 @@
         <tns:P_4A>PL</tns:P_4A>
         <tns:P_4B>6762484560</tns:P_4B>
         <tns:P_5B>552-151-68-49</tns:P_5B>
-        <tns:P_6>2020-11-17</tns:P_6>
-        <tns:P_13_1>1593.50</tns:P_13_1>
+        <tns:P_6>44152</tns:P_6>
+        <tns:P_13_1>1593.5</tns:P_13_1>
         <tns:P_13_2>366.50</tns:P_13_2>
-        <tns:P_15>1960.00</tns:P_15>
+        <tns:P_15>1960</tns:P_15>
         <tns:P_16>false</tns:P_16>
         <tns:P_17>false</tns:P_17>
         <tns:P_18>false</tns:P_18>
@@ -532,7 +532,7 @@
     </tns:Faktura>
     <tns:Faktura>
         <tns:KodWaluty>zł</tns:KodWaluty>
-        <tns:P_1>2020-11-25</tns:P_1>
+        <tns:P_1>44160</tns:P_1>
         <tns:P_2A>1-25/11/2020</tns:P_2A>
         <tns:P_3_A>Firma1 Sp. z o.o</tns:P_3_A>
         <tns:P_3_B>Firma1 Sp. z o.o-ADDRESS</tns:P_3_B>
@@ -541,10 +541,10 @@
         <tns:P_4A>PL</tns:P_4A>
         <tns:P_4B>6762484560</tns:P_4B>
         <tns:P_5B>113-29-95-753 </tns:P_5B>
-        <tns:P_6>2020-10-30</tns:P_6>
-        <tns:P_13_1>34030.00</tns:P_13_1>
+        <tns:P_6>44134</tns:P_6>
+        <tns:P_13_1>34030</tns:P_13_1>
         <tns:P_13_2>7826.90</tns:P_13_2>
-        <tns:P_15>41856.90</tns:P_15>
+        <tns:P_15>41856.9</tns:P_15>
         <tns:P_16>false</tns:P_16>
         <tns:P_17>false</tns:P_17>
         <tns:P_18>false</tns:P_18>
@@ -560,7 +560,7 @@
     </tns:Faktura>
     <tns:Faktura>
         <tns:KodWaluty>zł</tns:KodWaluty>
-        <tns:P_1>2020-11-25</tns:P_1>
+        <tns:P_1>44160</tns:P_1>
         <tns:P_2A>2-25/11/2020</tns:P_2A>
         <tns:P_3_A>Firma1 Sp. z o.o</tns:P_3_A>
         <tns:P_3_B>Firma1 Sp. z o.o-ADDRESS</tns:P_3_B>
@@ -569,8 +569,8 @@
         <tns:P_4A>PL</tns:P_4A>
         <tns:P_4B>6762484560</tns:P_4B>
         <tns:P_5B>113-29-95-753 </tns:P_5B>
-        <tns:P_6>2020-10-30</tns:P_6>
-        <tns:P_13_1>12775.00</tns:P_13_1>
+        <tns:P_6>44134</tns:P_6>
+        <tns:P_13_1>12775</tns:P_13_1>
         <tns:P_13_2>2938.25</tns:P_13_2>
         <tns:P_15>15713.25</tns:P_15>
         <tns:P_16>false</tns:P_16>
@@ -587,8 +587,8 @@
         <tns:RodzajFaktury>VAT</tns:RodzajFaktury>
     </tns:Faktura>
     <tns:Faktura>
-        <tns:KodWaluty>ł</tns:KodWaluty>
-        <tns:P_1>2020-11-25</tns:P_1>
+        <tns:KodWaluty>zł</tns:KodWaluty>
+        <tns:P_1>44160</tns:P_1>
         <tns:P_2A>3-25/11/2020</tns:P_2A>
         <tns:P_3_A>Firma1 Sp. z o.o</tns:P_3_A>
         <tns:P_3_B>Firma1 Sp. z o.o-ADDRESS</tns:P_3_B>
@@ -597,7 +597,7 @@
         <tns:P_4A>PL</tns:P_4A>
         <tns:P_4B>6762484560</tns:P_4B>
         <tns:P_5B>113-29-95-753 </tns:P_5B>
-        <tns:P_6>2020-11-25</tns:P_6>
+        <tns:P_6>44160</tns:P_6>
         <tns:P_13_1>85833.75</tns:P_13_1>
         <tns:P_13_2>19741.76</tns:P_13_2>
         <tns:P_15>105575.51</tns:P_15>
@@ -616,7 +616,7 @@
     </tns:Faktura>
     <tns:Faktura>
         <tns:KodWaluty>zł</tns:KodWaluty>
-        <tns:P_1>2020-12-07</tns:P_1>
+        <tns:P_1>44172</tns:P_1>
         <tns:P_2A>1-07/12/2020</tns:P_2A>
         <tns:P_3_A>Firma9 SP. Z O.O.</tns:P_3_A>
         <tns:P_3_B>Firma9 SP. Z O.O.-ADDRESS</tns:P_3_B>
@@ -625,10 +625,10 @@
         <tns:P_4A>PL</tns:P_4A>
         <tns:P_4B>6762484560</tns:P_4B>
         <tns:P_5B>118-16-48-603</tns:P_5B>
-        <tns:P_6>2020-11-30</tns:P_6>
-        <tns:P_13_1>13000.00</tns:P_13_1>
+        <tns:P_6>44165</tns:P_6>
+        <tns:P_13_1>13000</tns:P_13_1>
         <tns:P_13_2>2990.0</tns:P_13_2>
-        <tns:P_15>15990.00</tns:P_15>
+        <tns:P_15>15990</tns:P_15>
         <tns:P_16>false</tns:P_16>
         <tns:P_17>false</tns:P_17>
         <tns:P_18>false</tns:P_18>
@@ -644,7 +644,7 @@
     </tns:Faktura>
     <tns:Faktura>
         <tns:KodWaluty>zł</tns:KodWaluty>
-        <tns:P_1>2020-12-07</tns:P_1>
+        <tns:P_1>44172</tns:P_1>
         <tns:P_2A>2-07/12/2020</tns:P_2A>
         <tns:P_3_A>Firma8 Sp. z o.o. sp.k.</tns:P_3_A>
         <tns:P_3_B>Firma8 Sp. z o.o. sp.k.-ADDRESS</tns:P_3_B>
@@ -653,7 +653,7 @@
         <tns:P_4A>PL</tns:P_4A>
         <tns:P_4B>6762484560</tns:P_4B>
         <tns:P_5B>677-00-46-633</tns:P_5B>
-        <tns:P_6>2020-11-30</tns:P_6>
+        <tns:P_6>44165</tns:P_6>
         <tns:P_13_1>15585.94</tns:P_13_1>
         <tns:P_13_2>3584.77</tns:P_13_2>
         <tns:P_15>19170.71</tns:P_15>
@@ -672,7 +672,7 @@
     </tns:Faktura>
     <tns:Faktura>
         <tns:KodWaluty>zł</tns:KodWaluty>
-        <tns:P_1>2020-12-07</tns:P_1>
+        <tns:P_1>44172</tns:P_1>
         <tns:P_2A>3-07/12/2020</tns:P_2A>
         <tns:P_3_A>Firma4</tns:P_3_A>
         <tns:P_3_B>Firma4-ADDRESS</tns:P_3_B>
@@ -681,10 +681,10 @@
         <tns:P_4A>PL</tns:P_4A>
         <tns:P_4B>6762484560</tns:P_4B>
         <tns:P_5B>873-171-75-73</tns:P_5B>
-        <tns:P_6>2020-11-30</tns:P_6>
-        <tns:P_13_1>4026.50</tns:P_13_1>
+        <tns:P_6>44165</tns:P_6>
+        <tns:P_13_1>4026.5</tns:P_13_1>
         <tns:P_13_2>926.10</tns:P_13_2>
-        <tns:P_15>4952.60</tns:P_15>
+        <tns:P_15>4952.6</tns:P_15>
         <tns:P_16>false</tns:P_16>
         <tns:P_17>false</tns:P_17>
         <tns:P_18>false</tns:P_18>
@@ -700,7 +700,7 @@
     </tns:Faktura>
     <tns:Faktura>
         <tns:KodWaluty>zł</tns:KodWaluty>
-        <tns:P_1>2020-12-07</tns:P_1>
+        <tns:P_1>44172</tns:P_1>
         <tns:P_2A>4-07/12/2020</tns:P_2A>
         <tns:P_3_A>Firma4</tns:P_3_A>
         <tns:P_3_B>Firma4-ADDRESS</tns:P_3_B>
@@ -709,10 +709,10 @@
         <tns:P_4A>PL</tns:P_4A>
         <tns:P_4B>6762484560</tns:P_4B>
         <tns:P_5B>873-171-75-73</tns:P_5B>
-        <tns:P_6>2020-11-30</tns:P_6>
-        <tns:P_13_1>14560.00</tns:P_13_1>
+        <tns:P_6>44165</tns:P_6>
+        <tns:P_13_1>14560</tns:P_13_1>
         <tns:P_13_2>3348.80</tns:P_13_2>
-        <tns:P_15>17908.80</tns:P_15>
+        <tns:P_15>17908.8</tns:P_15>
         <tns:P_16>false</tns:P_16>
         <tns:P_17>false</tns:P_17>
         <tns:P_18>false</tns:P_18>
@@ -728,7 +728,7 @@
     </tns:Faktura>
     <tns:Faktura>
         <tns:KodWaluty>zł</tns:KodWaluty>
-        <tns:P_1>2020-12-07</tns:P_1>
+        <tns:P_1>44172</tns:P_1>
         <tns:P_2A>5-07/12/2020</tns:P_2A>
         <tns:P_3_A>Firma4</tns:P_3_A>
         <tns:P_3_B>Firma4-ADDRESS</tns:P_3_B>
@@ -737,10 +737,10 @@
         <tns:P_4A>PL</tns:P_4A>
         <tns:P_4B>6762484560</tns:P_4B>
         <tns:P_5B>873-171-75-73</tns:P_5B>
-        <tns:P_6>2020-11-30</tns:P_6>
-        <tns:P_13_1>28000.00</tns:P_13_1>
+        <tns:P_6>44165</tns:P_6>
+        <tns:P_13_1>28000</tns:P_13_1>
         <tns:P_13_2>6440.0</tns:P_13_2>
-        <tns:P_15>34440.00</tns:P_15>
+        <tns:P_15>34440</tns:P_15>
         <tns:P_16>false</tns:P_16>
         <tns:P_17>false</tns:P_17>
         <tns:P_18>false</tns:P_18>
@@ -756,7 +756,7 @@
     </tns:Faktura>
     <tns:Faktura>
         <tns:KodWaluty>zł</tns:KodWaluty>
-        <tns:P_1>2020-12-07</tns:P_1>
+        <tns:P_1>44172</tns:P_1>
         <tns:P_2A>6-07/12/2020</tns:P_2A>
         <tns:P_3_A>Firma3 sp. z o.o.</tns:P_3_A>
         <tns:P_3_B>Firma3 sp. z o.o.-ADDRESS</tns:P_3_B>
@@ -765,7 +765,7 @@
         <tns:P_4A>PL</tns:P_4A>
         <tns:P_4B>6762484560</tns:P_4B>
         <tns:P_5B>675-152-93-71</tns:P_5B>
-        <tns:P_6>2020-11-30</tns:P_6>
+        <tns:P_6>44165</tns:P_6>
         <tns:P_13_1>3090.63</tns:P_13_1>
         <tns:P_13_2>710.84</tns:P_13_2>
         <tns:P_15>3801.47</tns:P_15>
@@ -784,7 +784,7 @@
     </tns:Faktura>
     <tns:Faktura>
         <tns:KodWaluty>zł</tns:KodWaluty>
-        <tns:P_1>2020-12-09</tns:P_1>
+        <tns:P_1>44174</tns:P_1>
         <tns:P_2A>1-09/12/2020</tns:P_2A>
         <tns:P_3_A>Firma3 sp. z o.o.</tns:P_3_A>
         <tns:P_3_B>Firma3 sp. z o.o.-ADDRESS</tns:P_3_B>
@@ -793,10 +793,10 @@
         <tns:P_4A>PL</tns:P_4A>
         <tns:P_4B>6762484560</tns:P_4B>
         <tns:P_5B>675-152-93-71</tns:P_5B>
-        <tns:P_6>2020-11-30</tns:P_6>
-        <tns:P_13_1>106340.00</tns:P_13_1>
+        <tns:P_6>44165</tns:P_6>
+        <tns:P_13_1>106340</tns:P_13_1>
         <tns:P_13_2>24458.20</tns:P_13_2>
-        <tns:P_15>130798.20</tns:P_15>
+        <tns:P_15>130798.2</tns:P_15>
         <tns:P_16>false</tns:P_16>
         <tns:P_17>false</tns:P_17>
         <tns:P_18>false</tns:P_18>
@@ -812,7 +812,7 @@
     </tns:Faktura>
     <tns:Faktura>
         <tns:KodWaluty>zł</tns:KodWaluty>
-        <tns:P_1>2020-12-09</tns:P_1>
+        <tns:P_1>44174</tns:P_1>
         <tns:P_2A>2-09/12/2020</tns:P_2A>
         <tns:P_3_A>Firma3 sp. z o.o.</tns:P_3_A>
         <tns:P_3_B>Firma3 sp. z o.o.-ADDRESS</tns:P_3_B>
@@ -821,7 +821,7 @@
         <tns:P_4A>PL</tns:P_4A>
         <tns:P_4B>6762484560</tns:P_4B>
         <tns:P_5B>675-152-93-71</tns:P_5B>
-        <tns:P_6>2020-11-30</tns:P_6>
+        <tns:P_6>44165</tns:P_6>
         <tns:P_13_1>7070.32</tns:P_13_1>
         <tns:P_13_2>1626.17</tns:P_13_2>
         <tns:P_15>8696.49</tns:P_15>
@@ -840,7 +840,7 @@
     </tns:Faktura>
     <tns:Faktura>
         <tns:KodWaluty>zł</tns:KodWaluty>
-        <tns:P_1>2020-12-10</tns:P_1>
+        <tns:P_1>44175</tns:P_1>
         <tns:P_2A>1-10/12/2020</tns:P_2A>
         <tns:P_3_A>Firma5 SP. Z O.O.</tns:P_3_A>
         <tns:P_3_B>Firma5 SP. Z O.O.-ADDRESS</tns:P_3_B>
@@ -849,10 +849,10 @@
         <tns:P_4A>PL</tns:P_4A>
         <tns:P_4B>6762484560</tns:P_4B>
         <tns:P_5B>634-27-26-447</tns:P_5B>
-        <tns:P_6>2020-12-10</tns:P_6>
-        <tns:P_13_1>3000.00</tns:P_13_1>
+        <tns:P_6>44175</tns:P_6>
+        <tns:P_13_1>3000</tns:P_13_1>
         <tns:P_13_2>690.0</tns:P_13_2>
-        <tns:P_15>3690.00</tns:P_15>
+        <tns:P_15>3690</tns:P_15>
         <tns:P_16>false</tns:P_16>
         <tns:P_17>false</tns:P_17>
         <tns:P_18>false</tns:P_18>
@@ -868,7 +868,7 @@
     </tns:Faktura>
     <tns:Faktura>
         <tns:KodWaluty>zł</tns:KodWaluty>
-        <tns:P_1>2020-12-10</tns:P_1>
+        <tns:P_1>44175</tns:P_1>
         <tns:P_2A>2-10/12/2020</tns:P_2A>
         <tns:P_3_A>Firma6 SP. Z O.O.</tns:P_3_A>
         <tns:P_3_B>Firma6 SP. Z O.O.-ADDRESS</tns:P_3_B>
@@ -877,10 +877,10 @@
         <tns:P_4A>PL</tns:P_4A>
         <tns:P_4B>6762484560</tns:P_4B>
         <tns:P_5B>676-247-94-12</tns:P_5B>
-        <tns:P_6>2020-12-10</tns:P_6>
-        <tns:P_13_1>7000.00</tns:P_13_1>
+        <tns:P_6>44175</tns:P_6>
+        <tns:P_13_1>7000</tns:P_13_1>
         <tns:P_13_2>1610.0</tns:P_13_2>
-        <tns:P_15>8610.00</tns:P_15>
+        <tns:P_15>8610</tns:P_15>
         <tns:P_16>false</tns:P_16>
         <tns:P_17>false</tns:P_17>
         <tns:P_18>false</tns:P_18>
@@ -896,7 +896,7 @@
     </tns:Faktura>
     <tns:Faktura>
         <tns:KodWaluty>zł</tns:KodWaluty>
-        <tns:P_1>2020-12-14</tns:P_1>
+        <tns:P_1>44179</tns:P_1>
         <tns:P_2A>1-14/12/2020</tns:P_2A>
         <tns:P_3_A>Firma1 Sp. z o.o</tns:P_3_A>
         <tns:P_3_B>Firma1 Sp. z o.o-ADDRESS</tns:P_3_B>
@@ -905,10 +905,10 @@
         <tns:P_4A>PL</tns:P_4A>
         <tns:P_4B>6762484560</tns:P_4B>
         <tns:P_5B>113-29-95-753 </tns:P_5B>
-        <tns:P_6>2020-11-30</tns:P_6>
-        <tns:P_13_1>28920.00</tns:P_13_1>
+        <tns:P_6>44165</tns:P_6>
+        <tns:P_13_1>28920</tns:P_13_1>
         <tns:P_13_2>6651.60</tns:P_13_2>
-        <tns:P_15>35571.60</tns:P_15>
+        <tns:P_15>35571.6</tns:P_15>
         <tns:P_16>false</tns:P_16>
         <tns:P_17>false</tns:P_17>
         <tns:P_18>false</tns:P_18>
@@ -924,7 +924,7 @@
     </tns:Faktura>
     <tns:Faktura>
         <tns:KodWaluty>zł</tns:KodWaluty>
-        <tns:P_1>2020-12-14</tns:P_1>
+        <tns:P_1>44179</tns:P_1>
         <tns:P_2A>2-14/12/2020</tns:P_2A>
         <tns:P_3_A>Firma1 Sp. z o.o</tns:P_3_A>
         <tns:P_3_B>Firma1 Sp. z o.o-ADDRESS</tns:P_3_B>
@@ -933,7 +933,7 @@
         <tns:P_4A>PL</tns:P_4A>
         <tns:P_4B>6762484560</tns:P_4B>
         <tns:P_5B>113-29-95-753 </tns:P_5B>
-        <tns:P_6>2020-11-30</tns:P_6>
+        <tns:P_6>44165</tns:P_6>
         <tns:P_13_1>13543.75</tns:P_13_1>
         <tns:P_13_2>3115.6</tns:P_13_2>
         <tns:P_15>16658.81</tns:P_15>
@@ -952,7 +952,7 @@
     </tns:Faktura>
     <tns:Faktura>
         <tns:KodWaluty>zł</tns:KodWaluty>
-        <tns:P_1>2020-12-14</tns:P_1>
+        <tns:P_1>44179</tns:P_1>
         <tns:P_2A>3-14/12/2020</tns:P_2A>
         <tns:P_3_A>Firma1 Sp. z o.o</tns:P_3_A>
         <tns:P_3_B>Firma1 Sp. z o.o-ADDRESS</tns:P_3_B>
@@ -961,7 +961,7 @@
         <tns:P_4A>PL</tns:P_4A>
         <tns:P_4B>6762484560</tns:P_4B>
         <tns:P_5B>113-29-95-753 </tns:P_5B>
-        <tns:P_6>2020-12-14</tns:P_6>
+        <tns:P_6>44179</tns:P_6>
         <tns:P_13_1>45093.75</tns:P_13_1>
         <tns:P_13_2>10371.56</tns:P_13_2>
         <tns:P_15>55465.31</tns:P_15>
@@ -980,7 +980,7 @@
     </tns:Faktura>
     <tns:Faktura>
         <tns:KodWaluty>zł</tns:KodWaluty>
-        <tns:P_1>2020-12-14</tns:P_1>
+        <tns:P_1>44179</tns:P_1>
         <tns:P_2A>4-14/12/2020</tns:P_2A>
         <tns:P_3_A>Firma7 S.A.</tns:P_3_A>
         <tns:P_3_B>Firma7 S.A.-ADDRESS</tns:P_3_B>
@@ -989,10 +989,10 @@
         <tns:P_4A>PL</tns:P_4A>
         <tns:P_4B>6762484560</tns:P_4B>
         <tns:P_5B> 531 30 92 922</tns:P_5B>
-        <tns:P_6>2020-12-14</tns:P_6>
-        <tns:P_13_1>58240.00</tns:P_13_1>
+        <tns:P_6>44179</tns:P_6>
+        <tns:P_13_1>58240</tns:P_13_1>
         <tns:P_13_2>13395.20</tns:P_13_2>
-        <tns:P_15>71635.20</tns:P_15>
+        <tns:P_15>71635.2</tns:P_15>
         <tns:P_16>false</tns:P_16>
         <tns:P_17>false</tns:P_17>
         <tns:P_18>false</tns:P_18>
@@ -1008,7 +1008,7 @@
     </tns:Faktura>
     <tns:Faktura>
         <tns:KodWaluty>zł</tns:KodWaluty>
-        <tns:P_1>2021-01-04</tns:P_1>
+        <tns:P_1>44200</tns:P_1>
         <tns:P_2A>1-04/01/2021</tns:P_2A>
         <tns:P_3_A>Firma3 sp. z o.o.</tns:P_3_A>
         <tns:P_3_B>Firma3 sp. z o.o.-ADDRESS</tns:P_3_B>
@@ -1017,7 +1017,7 @@
         <tns:P_4A>PL</tns:P_4A>
         <tns:P_4B>6762484560</tns:P_4B>
         <tns:P_5B>675-152-93-71</tns:P_5B>
-        <tns:P_6>2020-12-30</tns:P_6>
+        <tns:P_6>44195</tns:P_6>
         <tns:P_13_1>19414.06</tns:P_13_1>
         <tns:P_13_2>4465.23</tns:P_13_2>
         <tns:P_15>23879.29</tns:P_15>
@@ -1036,7 +1036,7 @@
     </tns:Faktura>
     <tns:Faktura>
         <tns:KodWaluty>zł</tns:KodWaluty>
-        <tns:P_1>2021-01-04</tns:P_1>
+        <tns:P_1>44200</tns:P_1>
         <tns:P_2A>2-04/01/2021</tns:P_2A>
         <tns:P_3_A>Firma3 sp. z o.o.</tns:P_3_A>
         <tns:P_3_B>Firma3 sp. z o.o.-ADDRESS</tns:P_3_B>
@@ -1045,10 +1045,10 @@
         <tns:P_4A>PL</tns:P_4A>
         <tns:P_4B>6762484560</tns:P_4B>
         <tns:P_5B>675-152-93-71</tns:P_5B>
-        <tns:P_6>2020-12-30</tns:P_6>
-        <tns:P_13_1>6200.00</tns:P_13_1>
+        <tns:P_6>44195</tns:P_6>
+        <tns:P_13_1>6200</tns:P_13_1>
         <tns:P_13_2>1426.0</tns:P_13_2>
-        <tns:P_15>7626.00</tns:P_15>
+        <tns:P_15>7626</tns:P_15>
         <tns:P_16>false</tns:P_16>
         <tns:P_17>false</tns:P_17>
         <tns:P_18>false</tns:P_18>
@@ -1064,7 +1064,7 @@
     </tns:Faktura>
     <tns:Faktura>
         <tns:KodWaluty>zł</tns:KodWaluty>
-        <tns:P_1>2021-01-04</tns:P_1>
+        <tns:P_1>44200</tns:P_1>
         <tns:P_2A>3-04/01/2021</tns:P_2A>
         <tns:P_3_A>Firma3 sp. z o.o.</tns:P_3_A>
         <tns:P_3_B>Firma3 sp. z o.o.-ADDRESS</tns:P_3_B>
@@ -1073,10 +1073,10 @@
         <tns:P_4A>PL</tns:P_4A>
         <tns:P_4B>6762484560</tns:P_4B>
         <tns:P_5B>675-152-93-71</tns:P_5B>
-        <tns:P_6>2020-12-30</tns:P_6>
+        <tns:P_6>44195</tns:P_6>
         <tns:P_13_1>126918.13</tns:P_13_1>
         <tns:P_13_2>29191.17</tns:P_13_2>
-        <tns:P_15>156109.30</tns:P_15>
+        <tns:P_15>156109.3</tns:P_15>
         <tns:P_16>false</tns:P_16>
         <tns:P_17>false</tns:P_17>
         <tns:P_18>false</tns:P_18>
@@ -1092,7 +1092,7 @@
     </tns:Faktura>
     <tns:Faktura>
         <tns:KodWaluty>zł</tns:KodWaluty>
-        <tns:P_1>2021-01-04</tns:P_1>
+        <tns:P_1>44200</tns:P_1>
         <tns:P_2A>4-04/01/2021</tns:P_2A>
         <tns:P_3_A>Firma8 Sp. z o.o. sp.k.</tns:P_3_A>
         <tns:P_3_B>Firma8 Sp. z o.o. sp.k.-ADDRESS</tns:P_3_B>
@@ -1101,7 +1101,7 @@
         <tns:P_4A>PL</tns:P_4A>
         <tns:P_4B>6762484560</tns:P_4B>
         <tns:P_5B>677-00-46-633</tns:P_5B>
-        <tns:P_6>2020-12-30</tns:P_6>
+        <tns:P_6>44195</tns:P_6>
         <tns:P_13_1>26273.44</tns:P_13_1>
         <tns:P_13_2>6042.89</tns:P_13_2>
         <tns:P_15>32316.33</tns:P_15>
@@ -1120,7 +1120,7 @@
     </tns:Faktura>
     <tns:Faktura>
         <tns:KodWaluty>zł</tns:KodWaluty>
-        <tns:P_1>2021-01-04</tns:P_1>
+        <tns:P_1>44200</tns:P_1>
         <tns:P_2A>5-04/01/2021</tns:P_2A>
         <tns:P_3_A>Firma9 SP. Z O.O.</tns:P_3_A>
         <tns:P_3_B>Firma9 SP. Z O.O.-ADDRESS</tns:P_3_B>
@@ -1129,10 +1129,10 @@
         <tns:P_4A>PL</tns:P_4A>
         <tns:P_4B>6762484560</tns:P_4B>
         <tns:P_5B>118-16-48-603</tns:P_5B>
-        <tns:P_6>2020-12-30</tns:P_6>
-        <tns:P_13_1>13000.00</tns:P_13_1>
+        <tns:P_6>44195</tns:P_6>
+        <tns:P_13_1>13000</tns:P_13_1>
         <tns:P_13_2>2990.0</tns:P_13_2>
-        <tns:P_15>15990.00</tns:P_15>
+        <tns:P_15>15990</tns:P_15>
         <tns:P_16>false</tns:P_16>
         <tns:P_17>false</tns:P_17>
         <tns:P_18>false</tns:P_18>
@@ -1148,7 +1148,7 @@
     </tns:Faktura>
     <tns:Faktura>
         <tns:KodWaluty>zł</tns:KodWaluty>
-        <tns:P_1>2021-01-12</tns:P_1>
+        <tns:P_1>44208</tns:P_1>
         <tns:P_2A>1-12/01/2021</tns:P_2A>
         <tns:P_3_A>Firma4</tns:P_3_A>
         <tns:P_3_B>Firma4-ADDRESS</tns:P_3_B>
@@ -1157,7 +1157,7 @@
         <tns:P_4A>PL</tns:P_4A>
         <tns:P_4B>6762484560</tns:P_4B>
         <tns:P_5B>873-171-75-73</tns:P_5B>
-        <tns:P_6>2020-12-30</tns:P_6>
+        <tns:P_6>44195</tns:P_6>
         <tns:P_13_1>4470.25</tns:P_13_1>
         <tns:P_13_2>1028.16</tns:P_13_2>
         <tns:P_15>5498.41</tns:P_15>
@@ -1176,7 +1176,7 @@
     </tns:Faktura>
     <tns:Faktura>
         <tns:KodWaluty>zł</tns:KodWaluty>
-        <tns:P_1>2021-01-12</tns:P_1>
+        <tns:P_1>44208</tns:P_1>
         <tns:P_2A>2-12/01/2021</tns:P_2A>
         <tns:P_3_A>Firma4</tns:P_3_A>
         <tns:P_3_B>Firma4-ADDRESS</tns:P_3_B>
@@ -1185,10 +1185,10 @@
         <tns:P_4A>PL</tns:P_4A>
         <tns:P_4B>6762484560</tns:P_4B>
         <tns:P_5B>873-171-75-73</tns:P_5B>
-        <tns:P_6>2020-12-30</tns:P_6>
-        <tns:P_13_1>18200.00</tns:P_13_1>
+        <tns:P_6>44195</tns:P_6>
+        <tns:P_13_1>18200</tns:P_13_1>
         <tns:P_13_2>4186.0</tns:P_13_2>
-        <tns:P_15>22386.00</tns:P_15>
+        <tns:P_15>22386</tns:P_15>
         <tns:P_16>false</tns:P_16>
         <tns:P_17>false</tns:P_17>
         <tns:P_18>false</tns:P_18>
@@ -1204,7 +1204,7 @@
     </tns:Faktura>
     <tns:Faktura>
         <tns:KodWaluty>zł</tns:KodWaluty>
-        <tns:P_1>2021-01-19</tns:P_1>
+        <tns:P_1>44215</tns:P_1>
         <tns:P_2A>1-19/01/2021</tns:P_2A>
         <tns:P_3_A>Firma1 Sp. z o.o</tns:P_3_A>
         <tns:P_3_B>Firma1 Sp. z o.o-ADDRESS</tns:P_3_B>
@@ -1213,7 +1213,7 @@
         <tns:P_4A>PL</tns:P_4A>
         <tns:P_4B>6762484560</tns:P_4B>
         <tns:P_5B>113-29-95-753 </tns:P_5B>
-        <tns:P_6>2020-12-30</tns:P_6>
+        <tns:P_6>44195</tns:P_6>
         <tns:P_13_1>30833.75</tns:P_13_1>
         <tns:P_13_2>7091.76</tns:P_13_2>
         <tns:P_15>37925.51</tns:P_15>
@@ -1232,7 +1232,7 @@
     </tns:Faktura>
     <tns:Faktura>
         <tns:KodWaluty>zł</tns:KodWaluty>
-        <tns:P_1>2021-01-19</tns:P_1>
+        <tns:P_1>44215</tns:P_1>
         <tns:P_2A>2-19/01/2021</tns:P_2A>
         <tns:P_3_A>Firma1 Sp. z o.o</tns:P_3_A>
         <tns:P_3_B>Firma1 Sp. z o.o-ADDRESS</tns:P_3_B>
@@ -1241,7 +1241,7 @@
         <tns:P_4A>PL</tns:P_4A>
         <tns:P_4B>6762484560</tns:P_4B>
         <tns:P_5B>113-29-95-753 </tns:P_5B>
-        <tns:P_6>2020-12-30</tns:P_6>
+        <tns:P_6>44195</tns:P_6>
         <tns:P_13_1>13431.25</tns:P_13_1>
         <tns:P_13_2>3089.19</tns:P_13_2>
         <tns:P_15>16520.44</tns:P_15>
@@ -1267,9 +1267,9 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>1</tns:P_8B>
-        <tns:P_9A>3000.00</tns:P_9A>
+        <tns:P_9A>3000</tns:P_9A>
         <tns:P_9B>3690.0</tns:P_9B>
-        <tns:P_11>3000.00</tns:P_11>
+        <tns:P_11>3000</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
@@ -1277,9 +1277,9 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>1</tns:P_8B>
-        <tns:P_9A>7000.00</tns:P_9A>
+        <tns:P_9A>7000</tns:P_9A>
         <tns:P_9B>8610.0</tns:P_9B>
-        <tns:P_11>7000.00</tns:P_11>
+        <tns:P_11>7000</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
@@ -1287,9 +1287,9 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>1</tns:P_8B>
-        <tns:P_9A>3774.00</tns:P_9A>
+        <tns:P_9A>3774</tns:P_9A>
         <tns:P_9B>4642.2</tns:P_9B>
-        <tns:P_11>3774.00</tns:P_11>
+        <tns:P_11>3774</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
@@ -1297,9 +1297,9 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>4.75</tns:P_8B>
-        <tns:P_9A>1000.00</tns:P_9A>
+        <tns:P_9A>1000</tns:P_9A>
         <tns:P_9B>1230.0</tns:P_9B>
-        <tns:P_11>4750.00</tns:P_11>
+        <tns:P_11>4750</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
@@ -1307,9 +1307,9 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>55</tns:P_8B>
-        <tns:P_9A>1000.00</tns:P_9A>
+        <tns:P_9A>1000</tns:P_9A>
         <tns:P_9B>1230.0</tns:P_9B>
-        <tns:P_11>55000.00</tns:P_11>
+        <tns:P_11>55000</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
@@ -1317,9 +1317,9 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>10</tns:P_8B>
-        <tns:P_9A>1000.00</tns:P_9A>
+        <tns:P_9A>1000</tns:P_9A>
         <tns:P_9B>1230.0</tns:P_9B>
-        <tns:P_11>10000.00</tns:P_11>
+        <tns:P_11>10000</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
@@ -1327,9 +1327,9 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>0.75</tns:P_8B>
-        <tns:P_9A>1000.00</tns:P_9A>
+        <tns:P_9A>1000</tns:P_9A>
         <tns:P_9B>1230.0</tns:P_9B>
-        <tns:P_11>750.00</tns:P_11>
+        <tns:P_11>750</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
@@ -1337,9 +1337,9 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>2</tns:P_8B>
-        <tns:P_9A>1000.00</tns:P_9A>
+        <tns:P_9A>1000</tns:P_9A>
         <tns:P_9B>1230.0</tns:P_9B>
-        <tns:P_11>2000.00</tns:P_11>
+        <tns:P_11>2000</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
@@ -1347,9 +1347,9 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>1.5</tns:P_8B>
-        <tns:P_9A>1000.00</tns:P_9A>
+        <tns:P_9A>1000</tns:P_9A>
         <tns:P_9B>1230.0</tns:P_9B>
-        <tns:P_11>1500.00</tns:P_11>
+        <tns:P_11>1500</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
@@ -1357,9 +1357,9 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>2.25</tns:P_8B>
-        <tns:P_9A>1000.00</tns:P_9A>
+        <tns:P_9A>1000</tns:P_9A>
         <tns:P_9B>1230.0</tns:P_9B>
-        <tns:P_11>2250.00</tns:P_11>
+        <tns:P_11>2250</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
@@ -1447,9 +1447,9 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>1</tns:P_8B>
-        <tns:P_9A>10000.00</tns:P_9A>
+        <tns:P_9A>10000</tns:P_9A>
         <tns:P_9B>12300.0</tns:P_9B>
-        <tns:P_11>10000.00</tns:P_11>
+        <tns:P_11>10000</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
@@ -1467,9 +1467,9 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>1</tns:P_8B>
-        <tns:P_9A>5000.00</tns:P_9A>
+        <tns:P_9A>5000</tns:P_9A>
         <tns:P_9B>6150.0</tns:P_9B>
-        <tns:P_11>5000.00</tns:P_11>
+        <tns:P_11>5000</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
@@ -1487,9 +1487,9 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>24</tns:P_8B>
-        <tns:P_9A>406.50</tns:P_9A>
+        <tns:P_9A>406.5</tns:P_9A>
         <tns:P_9B>499.99</tns:P_9B>
-        <tns:P_11>9756.10</tns:P_11>
+        <tns:P_11>9756.1</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
@@ -1497,9 +1497,9 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>24</tns:P_8B>
-        <tns:P_9A>406.50</tns:P_9A>
+        <tns:P_9A>406.5</tns:P_9A>
         <tns:P_9B>499.99</tns:P_9B>
-        <tns:P_11>9756.10</tns:P_11>
+        <tns:P_11>9756.1</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
@@ -1527,9 +1527,9 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>28</tns:P_8B>
-        <tns:P_9A>2.90</tns:P_9A>
+        <tns:P_9A>2.9</tns:P_9A>
         <tns:P_9B>3.56</tns:P_9B>
-        <tns:P_11>81.30</tns:P_11>
+        <tns:P_11>81.3</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
@@ -1539,7 +1539,7 @@
         <tns:P_8B>24</tns:P_8B>
         <tns:P_9A>3.39</tns:P_9A>
         <tns:P_9B>4.16</tns:P_9B>
-        <tns:P_11>81.30</tns:P_11>
+        <tns:P_11>81.3</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
@@ -1557,9 +1557,9 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>1</tns:P_8B>
-        <tns:P_9A>13000.00</tns:P_9A>
+        <tns:P_9A>13000</tns:P_9A>
         <tns:P_9B>15990.0</tns:P_9B>
-        <tns:P_11>13000.00</tns:P_11>
+        <tns:P_11>13000</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
@@ -1577,9 +1577,9 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>63</tns:P_8B>
-        <tns:P_9A>280.00</tns:P_9A>
+        <tns:P_9A>280</tns:P_9A>
         <tns:P_9B>344.40</tns:P_9B>
-        <tns:P_11>17640.00</tns:P_11>
+        <tns:P_11>17640</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
@@ -1587,7 +1587,7 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>83.6375</tns:P_8B>
-        <tns:P_9A>1250.00</tns:P_9A>
+        <tns:P_9A>1250</tns:P_9A>
         <tns:P_9B>1537.50</tns:P_9B>
         <tns:P_11>99546.88</tns:P_11>
         <tns:P_12>23</tns:P_12>
@@ -1597,9 +1597,9 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>1</tns:P_8B>
-        <tns:P_9A>7840.00</tns:P_9A>
+        <tns:P_9A>7840</tns:P_9A>
         <tns:P_9B>9643.20</tns:P_9B>
-        <tns:P_11>7840.00</tns:P_11>
+        <tns:P_11>7840</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
@@ -1607,17 +1607,17 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>4</tns:P_8B>
-        <tns:P_9A>1250.00</tns:P_9A>
+        <tns:P_9A>1250</tns:P_9A>
         <tns:P_9B>1537.50</tns:P_9B>
-        <tns:P_11>5000.00</tns:P_11>
+        <tns:P_11>5000</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
         <tns:P_2B>2-09/11/2020</tns:P_2B>
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
-        <tns:P_8B>12.18750</tns:P_8B>
-        <tns:P_9A>1250.00</tns:P_9A>
+        <tns:P_8B>12.1875</tns:P_8B>
+        <tns:P_9A>1250</tns:P_9A>
         <tns:P_9B>1537.50</tns:P_9B>
         <tns:P_11>15234.38</tns:P_11>
         <tns:P_12>23</tns:P_12>
@@ -1626,18 +1626,18 @@
         <tns:P_2B>2-09/11/2020</tns:P_2B>
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
-        <tns:P_8B>6.50000</tns:P_8B>
-        <tns:P_9A>1250.00</tns:P_9A>
+        <tns:P_8B>6.5</tns:P_8B>
+        <tns:P_9A>1250</tns:P_9A>
         <tns:P_9B>1537.50</tns:P_9B>
-        <tns:P_11>8125.00</tns:P_11>
+        <tns:P_11>8125</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
         <tns:P_2B>1-10/11/2020</tns:P_2B>
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
-        <tns:P_8B>26.47500</tns:P_8B>
-        <tns:P_9A>1250.00</tns:P_9A>
+        <tns:P_8B>26.475</tns:P_8B>
+        <tns:P_9A>1250</tns:P_9A>
         <tns:P_9B>1537.50</tns:P_9B>
         <tns:P_11>33093.75</tns:P_11>
         <tns:P_12>23</tns:P_12>
@@ -1647,9 +1647,9 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>1</tns:P_8B>
-        <tns:P_9A>3000.00</tns:P_9A>
+        <tns:P_9A>3000</tns:P_9A>
         <tns:P_9B>3690.0</tns:P_9B>
-        <tns:P_11>3000.00</tns:P_11>
+        <tns:P_11>3000</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
@@ -1657,9 +1657,9 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>1</tns:P_8B>
-        <tns:P_9A>7000.00</tns:P_9A>
+        <tns:P_9A>7000</tns:P_9A>
         <tns:P_9B>8610.0</tns:P_9B>
-        <tns:P_11>7000.00</tns:P_11>
+        <tns:P_11>7000</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
@@ -1667,9 +1667,9 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>472.9337</tns:P_8B>
-        <tns:P_9A>7.50</tns:P_9A>
+        <tns:P_9A>7.5</tns:P_9A>
         <tns:P_9B>9.22</tns:P_9B>
-        <tns:P_11>3547.00</tns:P_11>
+        <tns:P_11>3547</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
@@ -1677,9 +1677,9 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>1</tns:P_8B>
-        <tns:P_9A>1593.50</tns:P_9A>
+        <tns:P_9A>1593.5</tns:P_9A>
         <tns:P_9B>1960.0</tns:P_9B>
-        <tns:P_11>1593.50</tns:P_11>
+        <tns:P_11>1593.5</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
@@ -1687,7 +1687,7 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>8.95125</tns:P_8B>
-        <tns:P_9A>1000.00</tns:P_9A>
+        <tns:P_9A>1000</tns:P_9A>
         <tns:P_9B>1230.0</tns:P_9B>
         <tns:P_11>8951.25</tns:P_11>
         <tns:P_12>23</tns:P_12>
@@ -1696,40 +1696,40 @@
         <tns:P_2B>1-25/11/2020</tns:P_2B>
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
-        <tns:P_8B>3.41750</tns:P_8B>
-        <tns:P_9A>1000.00</tns:P_9A>
+        <tns:P_8B>3.4175</tns:P_8B>
+        <tns:P_9A>1000</tns:P_9A>
         <tns:P_9B>1230.0</tns:P_9B>
-        <tns:P_11>3417.50</tns:P_11>
+        <tns:P_11>3417.5</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
         <tns:P_2B>1-25/11/2020</tns:P_2B>
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
-        <tns:P_8B>14.56250</tns:P_8B>
-        <tns:P_9A>1000.00</tns:P_9A>
+        <tns:P_8B>14.5625</tns:P_8B>
+        <tns:P_9A>1000</tns:P_9A>
         <tns:P_9B>1230.0</tns:P_9B>
-        <tns:P_11>14562.50</tns:P_11>
+        <tns:P_11>14562.5</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
         <tns:P_2B>1-25/11/2020</tns:P_2B>
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
-        <tns:P_8B>1.81250</tns:P_8B>
-        <tns:P_9A>1000.00</tns:P_9A>
+        <tns:P_8B>1.8125</tns:P_8B>
+        <tns:P_9A>1000</tns:P_9A>
         <tns:P_9B>1230.0</tns:P_9B>
-        <tns:P_11>1812.50</tns:P_11>
+        <tns:P_11>1812.5</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
         <tns:P_2B>1-25/11/2020</tns:P_2B>
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
-        <tns:P_8B>0.56250</tns:P_8B>
-        <tns:P_9A>1000.00</tns:P_9A>
+        <tns:P_8B>0.5625</tns:P_8B>
+        <tns:P_9A>1000</tns:P_9A>
         <tns:P_9B>1230.0</tns:P_9B>
-        <tns:P_11>562.50</tns:P_11>
+        <tns:P_11>562.5</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
@@ -1737,7 +1737,7 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>1.21875</tns:P_8B>
-        <tns:P_9A>1000.00</tns:P_9A>
+        <tns:P_9A>1000</tns:P_9A>
         <tns:P_9B>1230.0</tns:P_9B>
         <tns:P_11>1218.75</tns:P_11>
         <tns:P_12>23</tns:P_12>
@@ -1747,7 +1747,7 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>0.20625</tns:P_8B>
-        <tns:P_9A>1000.00</tns:P_9A>
+        <tns:P_9A>1000</tns:P_9A>
         <tns:P_9B>1230.0</tns:P_9B>
         <tns:P_11>206.25</tns:P_11>
         <tns:P_12>23</tns:P_12>
@@ -1757,7 +1757,7 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>3.29875</tns:P_8B>
-        <tns:P_9A>1000.00</tns:P_9A>
+        <tns:P_9A>1000</tns:P_9A>
         <tns:P_9B>1230.0</tns:P_9B>
         <tns:P_11>3298.75</tns:P_11>
         <tns:P_12>23</tns:P_12>
@@ -1766,10 +1766,10 @@
         <tns:P_2B>2-25/11/2020</tns:P_2B>
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
-        <tns:P_8B>12.77500</tns:P_8B>
-        <tns:P_9A>1000.00</tns:P_9A>
+        <tns:P_8B>12.775</tns:P_8B>
+        <tns:P_9A>1000</tns:P_9A>
         <tns:P_9B>1230.0</tns:P_9B>
-        <tns:P_11>12775.00</tns:P_11>
+        <tns:P_11>12775</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
@@ -1777,9 +1777,9 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>18.25</tns:P_8B>
-        <tns:P_9A>1000.00</tns:P_9A>
+        <tns:P_9A>1000</tns:P_9A>
         <tns:P_9B>1230.0</tns:P_9B>
-        <tns:P_11>18250.00</tns:P_11>
+        <tns:P_11>18250</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
@@ -1787,9 +1787,9 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>2.5</tns:P_8B>
-        <tns:P_9A>1000.00</tns:P_9A>
+        <tns:P_9A>1000</tns:P_9A>
         <tns:P_9B>1230.0</tns:P_9B>
-        <tns:P_11>2500.00</tns:P_11>
+        <tns:P_11>2500</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
@@ -1797,9 +1797,9 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>3</tns:P_8B>
-        <tns:P_9A>1000.00</tns:P_9A>
+        <tns:P_9A>1000</tns:P_9A>
         <tns:P_9B>1230.0</tns:P_9B>
-        <tns:P_11>3000.00</tns:P_11>
+        <tns:P_11>3000</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
@@ -1807,9 +1807,9 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>2</tns:P_8B>
-        <tns:P_9A>1000.00</tns:P_9A>
+        <tns:P_9A>1000</tns:P_9A>
         <tns:P_9B>1230.0</tns:P_9B>
-        <tns:P_11>2000.00</tns:P_11>
+        <tns:P_11>2000</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
@@ -1817,9 +1817,9 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>29.2125</tns:P_8B>
-        <tns:P_9A>1000.00</tns:P_9A>
+        <tns:P_9A>1000</tns:P_9A>
         <tns:P_9B>1230.0</tns:P_9B>
-        <tns:P_11>29212.50</tns:P_11>
+        <tns:P_11>29212.5</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
@@ -1827,7 +1827,7 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>30.87125</tns:P_8B>
-        <tns:P_9A>1000.00</tns:P_9A>
+        <tns:P_9A>1000</tns:P_9A>
         <tns:P_9B>1230.0</tns:P_9B>
         <tns:P_11>30871.25</tns:P_11>
         <tns:P_12>23</tns:P_12>
@@ -1837,9 +1837,9 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>1</tns:P_8B>
-        <tns:P_9A>13000.00</tns:P_9A>
+        <tns:P_9A>13000</tns:P_9A>
         <tns:P_9B>15990.0</tns:P_9B>
-        <tns:P_11>13000.00</tns:P_11>
+        <tns:P_11>13000</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
@@ -1847,7 +1847,7 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>12.46875</tns:P_8B>
-        <tns:P_9A>1250.00</tns:P_9A>
+        <tns:P_9A>1250</tns:P_9A>
         <tns:P_9B>1537.50</tns:P_9B>
         <tns:P_11>15585.94</tns:P_11>
         <tns:P_12>23</tns:P_12>
@@ -1856,10 +1856,10 @@
         <tns:P_2B>3-07/12/2020</tns:P_2B>
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
-        <tns:P_8B>536.86620</tns:P_8B>
-        <tns:P_9A>7.50</tns:P_9A>
+        <tns:P_8B>536.8662</tns:P_8B>
+        <tns:P_9A>7.5</tns:P_9A>
         <tns:P_9B>9.22</tns:P_9B>
-        <tns:P_11>4026.50</tns:P_11>
+        <tns:P_11>4026.5</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
@@ -1867,9 +1867,9 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>52</tns:P_8B>
-        <tns:P_9A>280.00</tns:P_9A>
+        <tns:P_9A>280</tns:P_9A>
         <tns:P_9B>344.40</tns:P_9B>
-        <tns:P_11>14560.00</tns:P_11>
+        <tns:P_11>14560</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
@@ -1877,9 +1877,9 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>100</tns:P_8B>
-        <tns:P_9A>280.00</tns:P_9A>
+        <tns:P_9A>280</tns:P_9A>
         <tns:P_9B>344.40</tns:P_9B>
-        <tns:P_11>28000.00</tns:P_11>
+        <tns:P_11>28000</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
@@ -1896,10 +1896,10 @@
         <tns:P_2B>1-09/12/2020</tns:P_2B>
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
-        <tns:P_8B>78.8000</tns:P_8B>
-        <tns:P_9A>1250.00</tns:P_9A>
+        <tns:P_8B>78.8</tns:P_8B>
+        <tns:P_9A>1250</tns:P_9A>
         <tns:P_9B>1537.50</tns:P_9B>
-        <tns:P_11>93500.00</tns:P_11>
+        <tns:P_11>93500</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
@@ -1907,9 +1907,9 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>1</tns:P_8B>
-        <tns:P_9A>7840.00</tns:P_9A>
+        <tns:P_9A>7840</tns:P_9A>
         <tns:P_9B>9643.20</tns:P_9B>
-        <tns:P_11>7840.00</tns:P_11>
+        <tns:P_11>7840</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
@@ -1917,9 +1917,9 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>4</tns:P_8B>
-        <tns:P_9A>1250.00</tns:P_9A>
+        <tns:P_9A>1250</tns:P_9A>
         <tns:P_9B>1537.50</tns:P_9B>
-        <tns:P_11>5000.00</tns:P_11>
+        <tns:P_11>5000</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
@@ -1927,7 +1927,7 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>4.71875</tns:P_8B>
-        <tns:P_9A>1250.00</tns:P_9A>
+        <tns:P_9A>1250</tns:P_9A>
         <tns:P_9B>1537.50</tns:P_9B>
         <tns:P_11>5898.44</tns:P_11>
         <tns:P_12>23</tns:P_12>
@@ -1936,8 +1936,8 @@
         <tns:P_2B>2-09/12/2020</tns:P_2B>
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
-        <tns:P_8B>0.93750</tns:P_8B>
-        <tns:P_9A>1250.00</tns:P_9A>
+        <tns:P_8B>0.9375</tns:P_8B>
+        <tns:P_9A>1250</tns:P_9A>
         <tns:P_9B>1537.50</tns:P_9B>
         <tns:P_11>1171.88</tns:P_11>
         <tns:P_12>23</tns:P_12>
@@ -1947,9 +1947,9 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>1</tns:P_8B>
-        <tns:P_9A>3000.00</tns:P_9A>
+        <tns:P_9A>3000</tns:P_9A>
         <tns:P_9B>3690.0</tns:P_9B>
-        <tns:P_11>3000.00</tns:P_11>
+        <tns:P_11>3000</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
@@ -1957,19 +1957,19 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>1</tns:P_8B>
-        <tns:P_9A>7000.00</tns:P_9A>
+        <tns:P_9A>7000</tns:P_9A>
         <tns:P_9B>8610.0</tns:P_9B>
-        <tns:P_11>7000.00</tns:P_11>
+        <tns:P_11>7000</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
         <tns:P_2B>1-14/12/2020</tns:P_2B>
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
-        <tns:P_8B>3.97500</tns:P_8B>
-        <tns:P_9A>1000.00</tns:P_9A>
+        <tns:P_8B>3.975</tns:P_8B>
+        <tns:P_9A>1000</tns:P_9A>
         <tns:P_9B>1230.0</tns:P_9B>
-        <tns:P_11>3975.00</tns:P_11>
+        <tns:P_11>3975</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
@@ -1977,7 +1977,7 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>16.06625</tns:P_8B>
-        <tns:P_9A>1000.00</tns:P_9A>
+        <tns:P_9A>1000</tns:P_9A>
         <tns:P_9B>1230.0</tns:P_9B>
         <tns:P_11>16066.25</tns:P_11>
         <tns:P_12>23</tns:P_12>
@@ -1987,7 +1987,7 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>5.69375</tns:P_8B>
-        <tns:P_9A>1000.00</tns:P_9A>
+        <tns:P_9A>1000</tns:P_9A>
         <tns:P_9B>1230.0</tns:P_9B>
         <tns:P_11>5693.75</tns:P_11>
         <tns:P_12>23</tns:P_12>
@@ -1996,20 +1996,20 @@
         <tns:P_2B>1-14/12/2020</tns:P_2B>
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
-        <tns:P_8B>0.50000</tns:P_8B>
-        <tns:P_9A>1000.00</tns:P_9A>
+        <tns:P_8B>0.5</tns:P_8B>
+        <tns:P_9A>1000</tns:P_9A>
         <tns:P_9B>1230.0</tns:P_9B>
-        <tns:P_11>500.00</tns:P_11>
+        <tns:P_11>500</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
         <tns:P_2B>1-14/12/2020</tns:P_2B>
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
-        <tns:P_8B>0.43750</tns:P_8B>
-        <tns:P_9A>1000.00</tns:P_9A>
+        <tns:P_8B>0.4375</tns:P_8B>
+        <tns:P_9A>1000</tns:P_9A>
         <tns:P_9B>1230.0</tns:P_9B>
-        <tns:P_11>437.50</tns:P_11>
+        <tns:P_11>437.5</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
@@ -2017,7 +2017,7 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>0.53125</tns:P_8B>
-        <tns:P_9A>1000.00</tns:P_9A>
+        <tns:P_9A>1000</tns:P_9A>
         <tns:P_9B>1230.0</tns:P_9B>
         <tns:P_11>531.25</tns:P_11>
         <tns:P_12>23</tns:P_12>
@@ -2027,7 +2027,7 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>0.03125</tns:P_8B>
-        <tns:P_9A>1000.00</tns:P_9A>
+        <tns:P_9A>1000</tns:P_9A>
         <tns:P_9B>1230.0</tns:P_9B>
         <tns:P_11>31.25</tns:P_11>
         <tns:P_12>23</tns:P_12>
@@ -2036,20 +2036,20 @@
         <tns:P_2B>1-14/12/2020</tns:P_2B>
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
-        <tns:P_8B>0.12500</tns:P_8B>
-        <tns:P_9A>1000.00</tns:P_9A>
+        <tns:P_8B>0.125</tns:P_8B>
+        <tns:P_9A>1000</tns:P_9A>
         <tns:P_9B>1230.0</tns:P_9B>
-        <tns:P_11>125.00</tns:P_11>
+        <tns:P_11>125</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
         <tns:P_2B>1-14/12/2020</tns:P_2B>
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
-        <tns:P_8B>1.56000</tns:P_8B>
-        <tns:P_9A>1000.00</tns:P_9A>
+        <tns:P_8B>1.56</tns:P_8B>
+        <tns:P_9A>1000</tns:P_9A>
         <tns:P_9B>1230.0</tns:P_9B>
-        <tns:P_11>1560.00</tns:P_11>
+        <tns:P_11>1560</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
@@ -2057,7 +2057,7 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>13.54375</tns:P_8B>
-        <tns:P_9A>1000.00</tns:P_9A>
+        <tns:P_9A>1000</tns:P_9A>
         <tns:P_9B>1230.0</tns:P_9B>
         <tns:P_11>13543.75</tns:P_11>
         <tns:P_12>23</tns:P_12>
@@ -2067,9 +2067,9 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>19</tns:P_8B>
-        <tns:P_9A>1000.00</tns:P_9A>
+        <tns:P_9A>1000</tns:P_9A>
         <tns:P_9B>1230.0</tns:P_9B>
-        <tns:P_11>19000.00</tns:P_11>
+        <tns:P_11>19000</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
@@ -2077,9 +2077,9 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>15</tns:P_8B>
-        <tns:P_9A>1000.00</tns:P_9A>
+        <tns:P_9A>1000</tns:P_9A>
         <tns:P_9B>1230.0</tns:P_9B>
-        <tns:P_11>15000.00</tns:P_11>
+        <tns:P_11>15000</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
@@ -2087,9 +2087,9 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>4.75</tns:P_8B>
-        <tns:P_9A>1000.00</tns:P_9A>
+        <tns:P_9A>1000</tns:P_9A>
         <tns:P_9B>1230.0</tns:P_9B>
-        <tns:P_11>4750.00</tns:P_11>
+        <tns:P_11>4750</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
@@ -2097,7 +2097,7 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>3.46875</tns:P_8B>
-        <tns:P_9A>1000.00</tns:P_9A>
+        <tns:P_9A>1000</tns:P_9A>
         <tns:P_9B>1230.0</tns:P_9B>
         <tns:P_11>3468.75</tns:P_11>
         <tns:P_12>23</tns:P_12>
@@ -2107,9 +2107,9 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>1</tns:P_8B>
-        <tns:P_9A>1000.00</tns:P_9A>
+        <tns:P_9A>1000</tns:P_9A>
         <tns:P_9B>1230.0</tns:P_9B>
-        <tns:P_11>1000.00</tns:P_11>
+        <tns:P_11>1000</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
@@ -2117,19 +2117,19 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>1.875</tns:P_8B>
-        <tns:P_9A>1000.00</tns:P_9A>
+        <tns:P_9A>1000</tns:P_9A>
         <tns:P_9B>1230.0</tns:P_9B>
-        <tns:P_11>1875.00</tns:P_11>
+        <tns:P_11>1875</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
         <tns:P_2B>4-14/12/2020</tns:P_2B>
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
-        <tns:P_8B>41.60</tns:P_8B>
-        <tns:P_9A>1400.00</tns:P_9A>
+        <tns:P_8B>41.6</tns:P_8B>
+        <tns:P_9A>1400</tns:P_9A>
         <tns:P_9B>1722.0</tns:P_9B>
-        <tns:P_11>58240.00</tns:P_11>
+        <tns:P_11>58240</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
@@ -2137,7 +2137,7 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>14.65625</tns:P_8B>
-        <tns:P_9A>1250.00</tns:P_9A>
+        <tns:P_9A>1250</tns:P_9A>
         <tns:P_9B>1537.50</tns:P_9B>
         <tns:P_11>18320.31</tns:P_11>
         <tns:P_12>23</tns:P_12>
@@ -2146,8 +2146,8 @@
         <tns:P_2B>1-04/01/2021</tns:P_2B>
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
-        <tns:P_8B>0.87500</tns:P_8B>
-        <tns:P_9A>1250.00</tns:P_9A>
+        <tns:P_8B>0.875</tns:P_8B>
+        <tns:P_9A>1250</tns:P_9A>
         <tns:P_9B>1537.50</tns:P_9B>
         <tns:P_11>1093.75</tns:P_11>
         <tns:P_12>23</tns:P_12>
@@ -2157,17 +2157,17 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>1</tns:P_8B>
-        <tns:P_9A>6200.00</tns:P_9A>
+        <tns:P_9A>6200</tns:P_9A>
         <tns:P_9B>7626.0</tns:P_9B>
-        <tns:P_11>6200.00</tns:P_11>
+        <tns:P_11>6200</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
         <tns:P_2B>3-04/01/2021</tns:P_2B>
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
-        <tns:P_8B>95.26250</tns:P_8B>
-        <tns:P_9A>1250.00</tns:P_9A>
+        <tns:P_8B>95.2625</tns:P_8B>
+        <tns:P_9A>1250</tns:P_9A>
         <tns:P_9B>1537.50</tns:P_9B>
         <tns:P_11>114078.13</tns:P_11>
         <tns:P_12>23</tns:P_12>
@@ -2177,9 +2177,9 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>1</tns:P_8B>
-        <tns:P_9A>7840.00</tns:P_9A>
+        <tns:P_9A>7840</tns:P_9A>
         <tns:P_9B>9643.20</tns:P_9B>
-        <tns:P_11>7840.00</tns:P_11>
+        <tns:P_11>7840</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
@@ -2187,9 +2187,9 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>4</tns:P_8B>
-        <tns:P_9A>1250.00</tns:P_9A>
+        <tns:P_9A>1250</tns:P_9A>
         <tns:P_9B>1537.50</tns:P_9B>
-        <tns:P_11>5000.00</tns:P_11>
+        <tns:P_11>5000</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
@@ -2197,7 +2197,7 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>21.01875</tns:P_8B>
-        <tns:P_9A>1250.00</tns:P_9A>
+        <tns:P_9A>1250</tns:P_9A>
         <tns:P_9B>1537.50</tns:P_9B>
         <tns:P_11>26273.44</tns:P_11>
         <tns:P_12>23</tns:P_12>
@@ -2207,9 +2207,9 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>1</tns:P_8B>
-        <tns:P_9A>13000.00</tns:P_9A>
+        <tns:P_9A>13000</tns:P_9A>
         <tns:P_9B>15990.0</tns:P_9B>
-        <tns:P_11>13000.00</tns:P_11>
+        <tns:P_11>13000</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
@@ -2217,7 +2217,7 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>596.0335</tns:P_8B>
-        <tns:P_9A>7.50</tns:P_9A>
+        <tns:P_9A>7.5</tns:P_9A>
         <tns:P_9B>9.22</tns:P_9B>
         <tns:P_11>4470.25</tns:P_11>
         <tns:P_12>23</tns:P_12>
@@ -2227,89 +2227,89 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>65</tns:P_8B>
-        <tns:P_9A>280.00</tns:P_9A>
+        <tns:P_9A>280</tns:P_9A>
         <tns:P_9B>344.40</tns:P_9B>
-        <tns:P_11>18200.00</tns:P_11>
+        <tns:P_11>18200</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
         <tns:P_2B>1-19/01/2021</tns:P_2B>
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
-        <tns:P_8B>8.68750</tns:P_8B>
-        <tns:P_9A>1000.00</tns:P_9A>
+        <tns:P_8B>8.6875</tns:P_8B>
+        <tns:P_9A>1000</tns:P_9A>
         <tns:P_9B>1230.0</tns:P_9B>
-        <tns:P_11>8687.50</tns:P_11>
+        <tns:P_11>8687.5</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
         <tns:P_2B>1-19/01/2021</tns:P_2B>
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
-        <tns:P_8B>10.27750</tns:P_8B>
-        <tns:P_9A>1000.00</tns:P_9A>
+        <tns:P_8B>10.2775</tns:P_8B>
+        <tns:P_9A>1000</tns:P_9A>
         <tns:P_9B>1230.0</tns:P_9B>
-        <tns:P_11>10277.50</tns:P_11>
+        <tns:P_11>10277.5</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
         <tns:P_2B>1-19/01/2021</tns:P_2B>
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
-        <tns:P_8B>4.50000</tns:P_8B>
-        <tns:P_9A>1000.00</tns:P_9A>
+        <tns:P_8B>4.5</tns:P_8B>
+        <tns:P_9A>1000</tns:P_9A>
         <tns:P_9B>1230.0</tns:P_9B>
-        <tns:P_11>4500.00</tns:P_11>
+        <tns:P_11>4500</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
         <tns:P_2B>1-19/01/2021</tns:P_2B>
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
-        <tns:P_8B>0.68750</tns:P_8B>
-        <tns:P_9A>1000.00</tns:P_9A>
+        <tns:P_8B>0.6875</tns:P_8B>
+        <tns:P_9A>1000</tns:P_9A>
         <tns:P_9B>1230.0</tns:P_9B>
-        <tns:P_11>687.50</tns:P_11>
+        <tns:P_11>687.5</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
         <tns:P_2B>1-19/01/2021</tns:P_2B>
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
-        <tns:P_8B>2.31250</tns:P_8B>
-        <tns:P_9A>1000.00</tns:P_9A>
+        <tns:P_8B>2.3125</tns:P_8B>
+        <tns:P_9A>1000</tns:P_9A>
         <tns:P_9B>1230.0</tns:P_9B>
-        <tns:P_11>2312.50</tns:P_11>
+        <tns:P_11>2312.5</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
         <tns:P_2B>1-19/01/2021</tns:P_2B>
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
-        <tns:P_8B>0.31250</tns:P_8B>
-        <tns:P_9A>1000.00</tns:P_9A>
+        <tns:P_8B>0.3125</tns:P_8B>
+        <tns:P_9A>1000</tns:P_9A>
         <tns:P_9B>1230.0</tns:P_9B>
-        <tns:P_11>312.50</tns:P_11>
+        <tns:P_11>312.5</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
         <tns:P_2B>1-19/01/2021</tns:P_2B>
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
-        <tns:P_8B>0.12500</tns:P_8B>
-        <tns:P_9A>1000.00</tns:P_9A>
+        <tns:P_8B>0.125</tns:P_8B>
+        <tns:P_9A>1000</tns:P_9A>
         <tns:P_9B>1230.0</tns:P_9B>
-        <tns:P_11>125.00</tns:P_11>
+        <tns:P_11>125</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
         <tns:P_2B>1-19/01/2021</tns:P_2B>
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
-        <tns:P_8B>0.18750</tns:P_8B>
-        <tns:P_9A>1000.00</tns:P_9A>
+        <tns:P_8B>0.1875</tns:P_8B>
+        <tns:P_9A>1000</tns:P_9A>
         <tns:P_9B>1230.0</tns:P_9B>
-        <tns:P_11>187.50</tns:P_11>
+        <tns:P_11>187.5</tns:P_11>
         <tns:P_12>23</tns:P_12>
     </tns:FakturaWiersz>
     <tns:FakturaWiersz>
@@ -2317,7 +2317,7 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>3.74375</tns:P_8B>
-        <tns:P_9A>1000.00</tns:P_9A>
+        <tns:P_9A>1000</tns:P_9A>
         <tns:P_9B>1230.0</tns:P_9B>
         <tns:P_11>3743.75</tns:P_11>
         <tns:P_12>23</tns:P_12>
@@ -2327,7 +2327,7 @@
         <tns:P_7>Sprzedaż usług krajowych</tns:P_7>
         <tns:P_8A>szt</tns:P_8A>
         <tns:P_8B>13.43125</tns:P_8B>
-        <tns:P_9A>1000.00</tns:P_9A>
+        <tns:P_9A>1000</tns:P_9A>
         <tns:P_9B>1230.0</tns:P_9B>
         <tns:P_11>13431.25</tns:P_11>
         <tns:P_12>23</tns:P_12>

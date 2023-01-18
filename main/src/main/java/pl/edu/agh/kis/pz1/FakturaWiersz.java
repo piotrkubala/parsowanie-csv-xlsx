@@ -54,16 +54,19 @@ public class FakturaWiersz {
     int cenaBruttoL;
 
     static int toGrosze(String kwota) {
-        int wartosc = Integer.parseInt(kwota.replaceAll("[^0-9]+", ""));
+        String przetworzony = kwota.replaceAll("[^0-9.,]+", "");
 
-        if (kwota.length() < 3) {
-            wartosc *= 100;
+        int wartosc = Integer.parseInt(kwota.replaceAll("[^0-9]+", ""));
+        int pozycja = przetworzony.indexOf('.');
+
+        if (pozycja == -1) {
+            pozycja = przetworzony.indexOf(',');
+        }
+
+        if (pozycja != -1) {
+            wartosc *= (int) Math.pow(10, 2 - (przetworzony.length() - pozycja - 1));
         } else {
-            if (kwota.charAt(kwota.length() - 3) == ',') {
-                wartosc *= 100;
-            } else if (kwota.charAt(kwota.length() - 2) == '.') {
-                wartosc *= 10;
-            }
+            wartosc *= 100;
         }
 
         return wartosc;
@@ -142,5 +145,13 @@ public class FakturaWiersz {
 
     public int getCenaBruttoL() {
         return cenaBruttoL;
+    }
+
+    public String getCenaNetto() {
+        return cenaNetto;
+    }
+
+    public String getCenaBrutto() {
+        return cenaBrutto;
     }
 }
