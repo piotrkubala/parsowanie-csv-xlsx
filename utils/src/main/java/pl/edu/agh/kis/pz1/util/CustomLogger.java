@@ -35,6 +35,7 @@ public class CustomLogger extends Logger {
 
     /**
      * Konstruktor.
+     * @param name nazwa loggera
      */
     public CustomLogger(String name) {
         super(name, null);

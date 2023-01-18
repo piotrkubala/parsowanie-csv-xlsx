@@ -232,7 +232,8 @@ public class Faktura {
     }
 
     /**
-     * @return the nazwaOdbiorcy
+     * ustawia nazwaOdbiorcy
+     * @param nazwaOdbiorcy nazwa odbiorcy
      */
     public void setNazwaOdbiorcy(String nazwaOdbiorcy) {
         this.nazwaOdbiorcy = nazwaOdbiorcy;
@@ -240,42 +241,48 @@ public class Faktura {
     }
 
     /**
-     * @return the adresOdbiorcy
+     * ustawia adresOdbiorcy
+     * @param adresOdbiorcy adres odbiorcy
      */
     public void setAdresOdbiorcy(String adresOdbiorcy) {
         this.adresOdbiorcy = adresOdbiorcy;
     }
 
     /**
-     * @return the NIP
+     * ustawia NIP
+     * @param NIP NIP odbiorcy
      */
     public void setNIP(String NIP) {
         this.NIP = NIP;
     }
 
     /**
-     * @return the dataWystawienia
+     * ustawia the dataWystawienia
+     * @param dataWystawienia data wystawienia faktury
      */
     public void setDataWystawienia(String dataWystawienia) {
         this.dataWystawienia = dataWystawienia;
     }
 
     /**
-     * @return the dataSprzedazy
+     * ustawia dataSprzedazy
+     * @param dataSprzedazy the dataSprzedazy to set
      */
     public void setDataSprzedazy(String dataSprzedazy) {
         this.dataSprzedazy = dataSprzedazy;
     }
 
     /**
-     * @return the nrFaktury
+     * ustawia nrFaktury
+     * @param nrFaktury numer faktury
      */
     public void setNrFaktury(String nrFaktury) {
         this.nrFaktury = nrFaktury;
     }
 
     /**
-     * @return the cenaNettoFakturyLacznie
+     * ustawia cenaNettoFakturyLacznie
+     * @param cenaNettoFakturyLacznie cena netto faktury łącznie
      */
     public void setCenaNettoFakturyLacznie(String cenaNettoFakturyLacznie) {
         this.cenaNettoFakturyLacznie = cenaNettoFakturyLacznie;
@@ -286,7 +293,8 @@ public class Faktura {
     }
 
     /**
-     * @return the cenaBruttoFakturyLacznie
+     * cenaBruttoFakturyLacznie
+     * @param cenaBruttoFakturyLacznie cena brutto faktury łącznie
      */
     public void setCenaBruttoFakturyLacznie(String cenaBruttoFakturyLacznie) {
         this.cenaBruttoFakturyLacznie = cenaBruttoFakturyLacznie;
