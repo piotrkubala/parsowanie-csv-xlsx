@@ -17,11 +17,15 @@ public class XLSXReader {
 
     CustomLogger logger = new CustomLogger(XLSXReader.class.getName());
 
-    public XLSXReader(String filename) throws Exception {
-        this.filename = filename;
+    public XLSXReader(String filename) {
+        try {
+            this.filename = filename;
 
-        this.file = new FileInputStream(filename);
-        this.workbook = new XSSFWorkbook(file);
+            this.file = new FileInputStream(filename);
+            this.workbook = new XSSFWorkbook(file);
+        } catch (Exception e) {
+            logger.severe(e.getMessage());
+        }
     }
 
     public XMLData readXLSX() {

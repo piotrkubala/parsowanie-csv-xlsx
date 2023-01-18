@@ -54,7 +54,19 @@ public class FakturaWiersz {
     int cenaBruttoL;
 
     static int toGrosze(String kwota) {
-        return Integer.parseInt(kwota.substring(0, kwota.length() - 2).replaceAll("[\\s\\u00A0]+", "").replace(",", ""));
+        int wartosc = Integer.parseInt(kwota.replaceAll("[^0-9]+", ""));
+
+        if (kwota.length() < 3) {
+            wartosc *= 100;
+        } else {
+            if (kwota.charAt(kwota.length() - 3) == ',') {
+                wartosc *= 100;
+            } else if (kwota.charAt(kwota.length() - 2) == '.') {
+                wartosc *= 10;
+            }
+        }
+
+        return wartosc;
     }
 
     static String toZlote(int grosze) {
@@ -76,7 +88,7 @@ public class FakturaWiersz {
     }
 
     public FakturaWiersz(String tytulPozycji, String liczbaSztuk, String cenaJednostkowa, String stawkaPodatku, String kwotaPodatku, String cenaNetto, String cenaBrutto, String nrFaktury) throws NumberFormatException {
-        setStawkaPodatku(stawkaPodatku);
+        setStawkaPodatku(stawkaPodatku.replace(".", ""));
         setTytulPozycji(tytulPozycji);
         setLiczbaSztuk(liczbaSztuk);
         setCenaJednostkowa(cenaJednostkowa);

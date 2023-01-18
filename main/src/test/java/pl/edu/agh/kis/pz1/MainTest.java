@@ -14,6 +14,7 @@ public class MainTest {
     @Test
     public void shouldCreateMainObject(){
         Main main = new Main();
+        Main.main(new String[] {"../TestFiles/In/faktury-sprzedazowe-test-short-2023.csv", "../TestFiles/Out/faktury-sprzedazowe-test-2023.xml" });
         assertNotNull("Main method called.", main);
     }
 }

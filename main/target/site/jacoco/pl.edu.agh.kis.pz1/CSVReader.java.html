@@ -23,36 +23,36 @@ public class CSVReader {
 <span class="fc" id="L23">    }</span>
 
     public XMLData readCSV() throws IOException {
-<span class="nc" id="L26">        CSVFormat format = CSVFormat.EXCEL.withDelimiter('\t');</span>
+<span class="fc" id="L26">        CSVFormat format = CSVFormat.EXCEL.withDelimiter('\t');</span>
 
-<span class="nc" id="L28">        HashMap&lt;String, Faktura&gt; mapFaktury = new HashMap&lt;&gt;();</span>
+<span class="fc" id="L28">        HashMap&lt;String, Faktura&gt; mapFaktury = new HashMap&lt;&gt;();</span>
 
-<span class="nc" id="L30">        Iterable&lt;CSVRecord&gt; records = format.parse(in);</span>
+<span class="fc" id="L30">        Iterable&lt;CSVRecord&gt; records = format.parse(in);</span>
 
-<span class="nc" id="L32">        XMLData xmlData = new XMLData();</span>
+<span class="fc" id="L32">        XMLData xmlData = new XMLData();</span>
 
-<span class="nc" id="L34">        records.iterator().next();//pomijamy pierwszy wiersz</span>
+<span class="fc" id="L34">        records.iterator().next();//pomijamy pierwszy wiersz</span>
 
-<span class="nc bnc" id="L36" title="All 2 branches missed.">        for (CSVRecord csv_record : records) {</span>
+<span class="fc bfc" id="L36" title="All 2 branches covered.">        for (CSVRecord csv_record : records) {</span>
             //przetworz kolejny wiersz - pierwsza kolumn to nazwa firmy
-<span class="nc" id="L38">            String nrFaktury = csv_record.get(5);</span>
+<span class="fc" id="L38">            String nrFaktury = csv_record.get(5);</span>
 
-<span class="nc bnc" id="L40" title="All 2 branches missed.">            if (!mapFaktury.containsKey(nrFaktury)) {</span>
-<span class="nc" id="L41">                Faktura faktura = new Faktura(csv_record.get(0), csv_record.get(1), csv_record.get(2), csv_record.get(3), csv_record.get(4), nrFaktury, csv_record.get(13), csv_record.get(14));</span>
-<span class="nc" id="L42">                mapFaktury.put(nrFaktury, faktura);</span>
+<span class="fc bfc" id="L40" title="All 2 branches covered.">            if (!mapFaktury.containsKey(nrFaktury)) {</span>
+<span class="fc" id="L41">                Faktura faktura = new Faktura(csv_record.get(0), csv_record.get(1), csv_record.get(2), csv_record.get(3), csv_record.get(4), nrFaktury, csv_record.get(13), csv_record.get(14));</span>
+<span class="fc" id="L42">                mapFaktury.put(nrFaktury, faktura);</span>
 
-<span class="nc" id="L44">                xmlData.addFaktura(faktura);</span>
+<span class="fc" id="L44">                xmlData.addFaktura(faktura);</span>
             }
 
             try {
-<span class="nc" id="L48">                FakturaWiersz fakturaWiersz = new FakturaWiersz(csv_record.get(6), csv_record.get(7), csv_record.get(8), csv_record.get(9), csv_record.get(10), csv_record.get(11), csv_record.get(12), nrFaktury);</span>
-<span class="nc" id="L49">                xmlData.addFakturaWiersz(fakturaWiersz);</span>
+<span class="fc" id="L48">                FakturaWiersz fakturaWiersz = new FakturaWiersz(csv_record.get(6), csv_record.get(7), csv_record.get(8), csv_record.get(9), csv_record.get(10), csv_record.get(11), csv_record.get(12), nrFaktury);</span>
+<span class="fc" id="L49">                xmlData.addFakturaWiersz(fakturaWiersz);</span>
 <span class="nc" id="L50">            } catch (Exception e) {</span>
 <span class="nc" id="L51">                logger.severe(String.format(&quot;Błąd podczas parsowania komórki faktury: %s&quot;, e.getMessage()));</span>
-<span class="nc" id="L52">            }</span>
-<span class="nc" id="L53">        }</span>
+<span class="fc" id="L52">            }</span>
+<span class="fc" id="L53">        }</span>
 
-<span class="nc" id="L55">        return xmlData;</span>
+<span class="fc" id="L55">        return xmlData;</span>
     }
 }
 </pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.6.202009150832</span></div></body></html>

@@ -2,7 +2,7 @@
 
 import javax.xml.bind.annotation.adapters.XmlAdapter;
 
-<span class="nc" id="L5">public class ZloteStringAdapter extends XmlAdapter&lt;String, String&gt; {</span>
+<span class="fc" id="L5">public class ZloteStringAdapter extends XmlAdapter&lt;String, String&gt; {</span>
     @Override
     public String unmarshal(String value) throws Exception {
 <span class="nc" id="L8">        return value.replace(&quot;.&quot;, &quot;,&quot;);</span>
@@ -10,12 +10,12 @@ import javax.xml.bind.annotation.adapters.XmlAdapter;
 
     @Override
     public String marshal(String value) throws Exception {
-<span class="nc" id="L13">        int index = value.indexOf(&quot;zł&quot;);</span>
-<span class="nc bnc" id="L14" title="All 2 branches missed.">        if (index == -1) {</span>
+<span class="fc" id="L13">        int index = value.indexOf(&quot;zł&quot;);</span>
+<span class="pc bpc" id="L14" title="1 of 2 branches missed.">        if (index == -1) {</span>
 <span class="nc" id="L15">            return value;</span>
         }
 
-<span class="nc" id="L18">        return value.substring(0, index).replace(&quot;,&quot;, &quot;.&quot;).replaceAll(&quot;[\\s\\u00A0]+&quot;, &quot;&quot;);</span>
+<span class="fc" id="L18">        return value.substring(0, index).replace(&quot;,&quot;, &quot;.&quot;).replaceAll(&quot;[\\s\\u00A0]+&quot;, &quot;&quot;);</span>
     }
 }
 </pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.6.202009150832</span></div></body></html>

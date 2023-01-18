@@ -14,10 +14,10 @@ public class FakturaWiersz {
     @XmlTransient
     String tytulPozycji;
 
-<span class="pc" id="L17">    @XmlElement(name = &quot;tns:P_7&quot;)</span>
+<span class="fc" id="L17">    @XmlElement(name = &quot;tns:P_7&quot;)</span>
     String typSprzedazy = &quot;Sprzedaż usług krajowych&quot;;
 
-<span class="pc" id="L20">    @XmlElement(name = &quot;tns:P_8A&quot;)</span>
+<span class="fc" id="L20">    @XmlElement(name = &quot;tns:P_8A&quot;)</span>
     String P_8A = &quot;szt&quot;;
 
     @XmlElement(name = &quot;tns:P_8B&quot;)
@@ -54,82 +54,94 @@ public class FakturaWiersz {
     int cenaBruttoL;
 
     static int toGrosze(String kwota) {
-<span class="nc" id="L57">        return Integer.parseInt(kwota.substring(0, kwota.length() - 2).replaceAll(&quot;[\\s\\u00A0]+&quot;, &quot;&quot;).replace(&quot;,&quot;, &quot;&quot;));</span>
+<span class="fc" id="L57">        int wartosc = Integer.parseInt(kwota.replaceAll(&quot;[^0-9]+&quot;, &quot;&quot;));</span>
+
+<span class="pc bpc" id="L59" title="1 of 2 branches missed.">        if (kwota.length() &lt; 3) {</span>
+<span class="nc" id="L60">            wartosc *= 100;</span>
+        } else {
+<span class="pc bpc" id="L62" title="1 of 2 branches missed.">            if (kwota.charAt(kwota.length() - 3) == ',') {</span>
+<span class="nc" id="L63">                wartosc *= 100;</span>
+<span class="pc bpc" id="L64" title="1 of 2 branches missed.">            } else if (kwota.charAt(kwota.length() - 2) == '.') {</span>
+<span class="nc" id="L65">                wartosc *= 10;</span>
+            }
+        }
+
+<span class="fc" id="L69">        return wartosc;</span>
     }
 
     static String toZlote(int grosze) {
-<span class="nc" id="L61">        return grosze / 100 + &quot;,&quot; + grosze % 100 + &quot; zł&quot;;</span>
+<span class="fc" id="L73">        return grosze / 100 + &quot;,&quot; + grosze % 100 + &quot; zł&quot;;</span>
     }
 
-<span class="fc" id="L64">    public FakturaWiersz() {</span>
-<span class="fc" id="L65">        tytulPozycji = &quot;&quot;;</span>
-<span class="fc" id="L66">        liczbaSztuk = &quot;&quot;;</span>
-<span class="fc" id="L67">        cenaJednostkowa = &quot;&quot;;</span>
-<span class="fc" id="L68">        stawkaPodatku = &quot;&quot;;</span>
-<span class="fc" id="L69">        kwotaPodatku = &quot;&quot;;</span>
-<span class="fc" id="L70">        cenaNetto = &quot;&quot;;</span>
-<span class="fc" id="L71">        cenaNettoL = 0;</span>
-<span class="fc" id="L72">        cenaBrutto = &quot;&quot;;</span>
-<span class="fc" id="L73">        cenaBruttoL = 0;</span>
-<span class="fc" id="L74">        nrFaktury = &quot;&quot;;</span>
-<span class="fc" id="L75">        cenaJednostkowaBruttoGrosze = 0;</span>
-<span class="fc" id="L76">    }</span>
+<span class="fc" id="L76">    public FakturaWiersz() {</span>
+<span class="fc" id="L77">        tytulPozycji = &quot;&quot;;</span>
+<span class="fc" id="L78">        liczbaSztuk = &quot;&quot;;</span>
+<span class="fc" id="L79">        cenaJednostkowa = &quot;&quot;;</span>
+<span class="fc" id="L80">        stawkaPodatku = &quot;&quot;;</span>
+<span class="fc" id="L81">        kwotaPodatku = &quot;&quot;;</span>
+<span class="fc" id="L82">        cenaNetto = &quot;&quot;;</span>
+<span class="fc" id="L83">        cenaNettoL = 0;</span>
+<span class="fc" id="L84">        cenaBrutto = &quot;&quot;;</span>
+<span class="fc" id="L85">        cenaBruttoL = 0;</span>
+<span class="fc" id="L86">        nrFaktury = &quot;&quot;;</span>
+<span class="fc" id="L87">        cenaJednostkowaBruttoGrosze = 0;</span>
+<span class="fc" id="L88">    }</span>
 
-<span class="nc" id="L78">    public FakturaWiersz(String tytulPozycji, String liczbaSztuk, String cenaJednostkowa, String stawkaPodatku, String kwotaPodatku, String cenaNetto, String cenaBrutto, String nrFaktury) throws NumberFormatException {</span>
-<span class="nc" id="L79">        setStawkaPodatku(stawkaPodatku);</span>
-<span class="nc" id="L80">        setTytulPozycji(tytulPozycji);</span>
-<span class="nc" id="L81">        setLiczbaSztuk(liczbaSztuk);</span>
-<span class="nc" id="L82">        setCenaJednostkowa(cenaJednostkowa);</span>
-<span class="nc" id="L83">        setKwotaPodatku(kwotaPodatku);</span>
-<span class="nc" id="L84">        setCenaNetto(cenaNetto);</span>
-<span class="nc" id="L85">        setCenaBrutto(cenaBrutto);</span>
-<span class="nc" id="L86">        setNrFaktury(nrFaktury);</span>
-<span class="nc" id="L87">    }</span>
+<span class="fc" id="L90">    public FakturaWiersz(String tytulPozycji, String liczbaSztuk, String cenaJednostkowa, String stawkaPodatku, String kwotaPodatku, String cenaNetto, String cenaBrutto, String nrFaktury) throws NumberFormatException {</span>
+<span class="fc" id="L91">        setStawkaPodatku(stawkaPodatku.replace(&quot;.&quot;, &quot;&quot;));</span>
+<span class="fc" id="L92">        setTytulPozycji(tytulPozycji);</span>
+<span class="fc" id="L93">        setLiczbaSztuk(liczbaSztuk);</span>
+<span class="fc" id="L94">        setCenaJednostkowa(cenaJednostkowa);</span>
+<span class="fc" id="L95">        setKwotaPodatku(kwotaPodatku);</span>
+<span class="fc" id="L96">        setCenaNetto(cenaNetto);</span>
+<span class="fc" id="L97">        setCenaBrutto(cenaBrutto);</span>
+<span class="fc" id="L98">        setNrFaktury(nrFaktury);</span>
+<span class="fc" id="L99">    }</span>
 
     public void setTytulPozycji(String tytulPozycji) {
-<span class="nc" id="L90">        this.tytulPozycji = tytulPozycji;</span>
-<span class="nc" id="L91">    }</span>
+<span class="fc" id="L102">        this.tytulPozycji = tytulPozycji;</span>
+<span class="fc" id="L103">    }</span>
 
     public void setLiczbaSztuk(String liczbaSztuk) {
-<span class="nc" id="L94">        this.liczbaSztuk = liczbaSztuk.replace(&quot;,&quot;, &quot;.&quot;);</span>
-<span class="nc" id="L95">    }</span>
+<span class="fc" id="L106">        this.liczbaSztuk = liczbaSztuk.replace(&quot;,&quot;, &quot;.&quot;);</span>
+<span class="fc" id="L107">    }</span>
 
     public void setCenaJednostkowa(String cenaJednostkowa) {
-<span class="nc" id="L98">        this.cenaJednostkowa = cenaJednostkowa;</span>
-<span class="nc" id="L99">        this.cenaJednostkowaL = toGrosze(cenaJednostkowa);</span>
+<span class="fc" id="L110">        this.cenaJednostkowa = cenaJednostkowa;</span>
+<span class="fc" id="L111">        this.cenaJednostkowaL = toGrosze(cenaJednostkowa);</span>
 
-<span class="nc" id="L101">        cenaJednostkowaBruttoGrosze = (int) (cenaJednostkowaL * this.stawkaPodatkuL / 100);</span>
-<span class="nc" id="L102">    }</span>
+<span class="fc" id="L113">        cenaJednostkowaBruttoGrosze = (int) (cenaJednostkowaL * this.stawkaPodatkuL / 100);</span>
+<span class="fc" id="L114">    }</span>
 
     public void setStawkaPodatku(String stawkaPodatku) {
-<span class="nc" id="L105">        this.stawkaPodatku = stawkaPodatku;</span>
-<span class="nc" id="L106">        this.stawkaPodatkuL = Integer.parseInt(stawkaPodatku) + 100;</span>
-<span class="nc" id="L107">    }</span>
+<span class="fc" id="L117">        this.stawkaPodatku = stawkaPodatku;</span>
+<span class="fc" id="L118">        this.stawkaPodatkuL = Integer.parseInt(stawkaPodatku) + 100;</span>
+<span class="fc" id="L119">    }</span>
 
     public void setKwotaPodatku(String kwotaPodatku) {
-<span class="nc" id="L110">        this.kwotaPodatku = kwotaPodatku;</span>
-<span class="nc" id="L111">    }</span>
+<span class="fc" id="L122">        this.kwotaPodatku = kwotaPodatku;</span>
+<span class="fc" id="L123">    }</span>
 
     public void setCenaNetto(String cenaNetto) {
-<span class="nc" id="L114">        this.cenaNetto = cenaNetto;</span>
-<span class="nc" id="L115">        this.cenaNettoL = toGrosze(cenaNetto);</span>
-<span class="nc" id="L116">    }</span>
+<span class="fc" id="L126">        this.cenaNetto = cenaNetto;</span>
+<span class="fc" id="L127">        this.cenaNettoL = toGrosze(cenaNetto);</span>
+<span class="fc" id="L128">    }</span>
 
     public void setCenaBrutto(String cenaBrutto) {
-<span class="nc" id="L119">        this.cenaBrutto = cenaBrutto;</span>
-<span class="nc" id="L120">        this.cenaBruttoL = toGrosze(cenaBrutto);</span>
-<span class="nc" id="L121">    }</span>
+<span class="fc" id="L131">        this.cenaBrutto = cenaBrutto;</span>
+<span class="fc" id="L132">        this.cenaBruttoL = toGrosze(cenaBrutto);</span>
+<span class="fc" id="L133">    }</span>
 
     public void setNrFaktury(String nrFaktury) {
-<span class="nc" id="L124">        this.nrFaktury = nrFaktury;</span>
-<span class="nc" id="L125">    }</span>
+<span class="fc" id="L136">        this.nrFaktury = nrFaktury;</span>
+<span class="fc" id="L137">    }</span>
 
     public int getCenaNettoL() {
-<span class="nc" id="L128">        return cenaNettoL;</span>
+<span class="fc" id="L140">        return cenaNettoL;</span>
     }
 
     public int getCenaBruttoL() {
-<span class="nc" id="L132">        return cenaBruttoL;</span>
+<span class="nc" id="L144">        return cenaBruttoL;</span>
     }
 }
 </pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.6.202009150832</span></div></body></html>

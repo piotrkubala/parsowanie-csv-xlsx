@@ -290,8 +290,13 @@ public class Faktura {
      */
     public void setCenaBruttoFakturyLacznie(String cenaBruttoFakturyLacznie) {
         this.cenaBruttoFakturyLacznie = cenaBruttoFakturyLacznie;
-        this.waluta = cenaNettoFakturyLacznie.substring(cenaBruttoFakturyLacznie.length() - 2);
-        this.cenaBruttoFakturyLacznieL = FakturaWiersz.toGrosze(cenaBruttoFakturyLacznie);
+        if (cenaBruttoFakturyLacznie.charAt(cenaBruttoFakturyLacznie.length() - 1) != 'ł') {
+            this.waluta = "zł";
+            this.cenaBruttoFakturyLacznieL = FakturaWiersz.toGrosze(cenaBruttoFakturyLacznie + " zł");
+        } else {
+            this.waluta = cenaNettoFakturyLacznie.substring(cenaBruttoFakturyLacznie.length() - 2);
+            this.cenaBruttoFakturyLacznieL = FakturaWiersz.toGrosze(cenaBruttoFakturyLacznie);
+        }
 
         this.wartoscPodatkuL = cenaBruttoFakturyLacznieL - cenaNettoFakturyLacznieL;
         this.wartoscPodatku = FakturaWiersz.toZlote(wartoscPodatkuL);

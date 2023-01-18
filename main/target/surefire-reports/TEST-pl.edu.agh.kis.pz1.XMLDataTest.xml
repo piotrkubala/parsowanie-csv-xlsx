@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="pl.edu.agh.kis.pz1.XMLDataTest" time="0.302" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="pl.edu.agh.kis.pz1.XMLDataTest" time="0.224" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="java.vm.version" value="17.0.5+8-Ubuntu-2ubuntu122.04"/>
@@ -60,5 +60,5 @@
     <property name="sun.cpu.endian" value="little"/>
     <property name="sun.stdout.encoding" value="UTF-8"/>
   </properties>
-  <testcase classname="pl.edu.agh.kis.pz1.XMLDataTest" name="testConstructor" time="0.302"/>
+  <testcase classname="pl.edu.agh.kis.pz1.XMLDataTest" name="testConstructor" time="0.224"/>
 </testsuite>

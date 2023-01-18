@@ -17,51 +17,55 @@ public class XLSXReader {
 
 <span class="fc" id="L18">    CustomLogger logger = new CustomLogger(XLSXReader.class.getName());</span>
 
-<span class="fc" id="L20">    public XLSXReader(String filename) throws Exception {</span>
-<span class="fc" id="L21">        this.filename = filename;</span>
+<span class="fc" id="L20">    public XLSXReader(String filename) {</span>
+        try {
+<span class="fc" id="L22">            this.filename = filename;</span>
 
-<span class="fc" id="L23">        this.file = new FileInputStream(filename);</span>
-<span class="fc" id="L24">        this.workbook = new XSSFWorkbook(file);</span>
-<span class="fc" id="L25">    }</span>
+<span class="fc" id="L24">            this.file = new FileInputStream(filename);</span>
+<span class="fc" id="L25">            this.workbook = new XSSFWorkbook(file);</span>
+<span class="nc" id="L26">        } catch (Exception e) {</span>
+<span class="nc" id="L27">            logger.severe(e.getMessage());</span>
+<span class="fc" id="L28">        }</span>
+<span class="fc" id="L29">    }</span>
 
     public XMLData readXLSX() {
         //Pobierz pierwszy arkusz w pliku XLSX
-<span class="nc" id="L29">        XSSFSheet sheet = workbook.getSheetAt(0);</span>
+<span class="nc" id="L33">        XSSFSheet sheet = workbook.getSheetAt(0);</span>
         //Wczytaj wiersze
-<span class="nc" id="L31">        Iterator&lt;Row&gt; rowIterator = sheet.iterator();</span>
+<span class="nc" id="L35">        Iterator&lt;Row&gt; rowIterator = sheet.iterator();</span>
 
-<span class="nc" id="L33">        XMLData xmlData = new XMLData();</span>
+<span class="nc" id="L37">        XMLData xmlData = new XMLData();</span>
 
-<span class="nc" id="L35">        HashMap&lt;String, Faktura&gt; mapFaktury = new HashMap&lt;&gt;();</span>
+<span class="nc" id="L39">        HashMap&lt;String, Faktura&gt; mapFaktury = new HashMap&lt;&gt;();</span>
 
-<span class="nc bnc" id="L37" title="All 2 branches missed.">        for (rowIterator.next(); rowIterator.hasNext(); ) {</span>
-<span class="nc" id="L38">            Row row = rowIterator.next();</span>
+<span class="nc bnc" id="L41" title="All 2 branches missed.">        for (rowIterator.next(); rowIterator.hasNext(); ) {</span>
+<span class="nc" id="L42">            Row row = rowIterator.next();</span>
 
-<span class="nc bnc" id="L40" title="All 2 branches missed.">            for (int i = 0; i &lt; 15; i++) {</span>
-<span class="nc" id="L41">                row.getCell(i).setCellType(1);</span>
+<span class="nc bnc" id="L44" title="All 2 branches missed.">            for (int i = 0; i &lt; 15; i++) {</span>
+<span class="nc" id="L45">                row.getCell(i).setCellType(1);</span>
             }
 
-<span class="nc" id="L44">            String nrFaktury = row.getCell(5).getStringCellValue();</span>
+<span class="nc" id="L48">            String nrFaktury = row.getCell(5).getStringCellValue();</span>
 
-<span class="nc bnc" id="L46" title="All 2 branches missed.">            if (!mapFaktury.containsKey(nrFaktury)) {</span>
-<span class="nc" id="L47">                Faktura faktura = new Faktura(row.getCell(0).getStringCellValue(), row.getCell(1).getStringCellValue(), row.getCell(2).getStringCellValue(), row.getCell(3).getStringCellValue(), row.getCell(4).getStringCellValue(), nrFaktury, row.getCell(13).getStringCellValue(), row.getCell(14).getStringCellValue());</span>
-<span class="nc" id="L48">                mapFaktury.put(nrFaktury, faktura);</span>
+<span class="nc bnc" id="L50" title="All 2 branches missed.">            if (!mapFaktury.containsKey(nrFaktury)) {</span>
+<span class="nc" id="L51">                Faktura faktura = new Faktura(row.getCell(0).getStringCellValue(), row.getCell(1).getStringCellValue(), row.getCell(2).getStringCellValue(), row.getCell(3).getStringCellValue(), row.getCell(4).getStringCellValue(), nrFaktury, row.getCell(13).getStringCellValue(), row.getCell(14).getStringCellValue());</span>
+<span class="nc" id="L52">                mapFaktury.put(nrFaktury, faktura);</span>
 
-<span class="nc" id="L50">                xmlData.addFaktura(faktura);</span>
+<span class="nc" id="L54">                xmlData.addFaktura(faktura);</span>
             }
 
             try {
-<span class="nc" id="L54">                FakturaWiersz fakturaWiersz = new FakturaWiersz(row.getCell(6).getStringCellValue(), row.getCell(7).getStringCellValue(), row.getCell(8).getStringCellValue(),</span>
-<span class="nc" id="L55">                                                                row.getCell(9).getStringCellValue(), row.getCell(10).getStringCellValue(),</span>
-<span class="nc" id="L56">                                                                row.getCell(11).getStringCellValue(), row.getCell(12).getStringCellValue(), nrFaktury);</span>
+<span class="nc" id="L58">                FakturaWiersz fakturaWiersz = new FakturaWiersz(row.getCell(6).getStringCellValue(), row.getCell(7).getStringCellValue(), row.getCell(8).getStringCellValue(),</span>
+<span class="nc" id="L59">                                                                row.getCell(9).getStringCellValue(), row.getCell(10).getStringCellValue(),</span>
+<span class="nc" id="L60">                                                                row.getCell(11).getStringCellValue(), row.getCell(12).getStringCellValue(), nrFaktury);</span>
 
-<span class="nc" id="L58">                xmlData.addFakturaWiersz(fakturaWiersz);</span>
-<span class="nc" id="L59">            } catch (Exception e) {</span>
-<span class="nc" id="L60">                logger.severe(String.format(&quot;Błąd podczas parsowania komórki faktury: %s&quot;, e.getMessage()));</span>
-<span class="nc" id="L61">            }</span>
-<span class="nc" id="L62">        }</span>
+<span class="nc" id="L62">                xmlData.addFakturaWiersz(fakturaWiersz);</span>
+<span class="nc" id="L63">            } catch (Exception e) {</span>
+<span class="nc" id="L64">                logger.severe(String.format(&quot;Błąd podczas parsowania komórki faktury: %s&quot;, e.getMessage()));</span>
+<span class="nc" id="L65">            }</span>
+<span class="nc" id="L66">        }</span>
 
-<span class="nc" id="L64">        return xmlData;</span>
+<span class="nc" id="L68">        return xmlData;</span>
     }
 }
 </pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.6.202009150832</span></div></body></html>
